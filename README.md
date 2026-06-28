@@ -265,14 +265,6 @@ The VSAD Company Operating System governs all operations through **5 core princi
 
 **⚠️ WARNING:** This repository contains highly sensitive information including proprietary defense technology research, cryptographic credentials, authentication keys, unreleased project blueprints, and strategic intelligence. This is an **operational security (OPSEC) critical environment**.
 
-**HANDLING PROTOCOLS:**
-- ❌ **DO NOT** commit this vault to a public GitHub repository without scrubbing sensitive credentials
-- ❌ **DO NOT** share vault contents with unauthorized personnel
-- ❌ **DO NOT** store plaintext passwords, API keys, or seed phrases in markdown files
-- ✅ **DO** use dedicated encrypted storage for all credentials
-- ✅ **DO** maintain proper classification on all documents
-- ✅ **DO** report security breaches immediately
-
 > **Remember:** *"Knowledge is ammunition. Guard it accordingly."* — VSAD Security Protocols
 
 ---
