@@ -146,7 +146,7 @@ This Obsidian vault serves as the **central nervous system** of the entire organ
 
 | PROJECT | TYPE | STATUS | LOCATION |
 |---------|------|--------|----------|
-| **ProveX** | Full-Stack SaaS Platform (Gaming Competition) | 🟢 ACTIVE | `06 - PROJECTS/ProveX/` |
+| **ProveX** | Full-Stack SaaS Platform (Crypto Competition) | 🟢 ACTIVE | `06 - PROJECTS/ProveX/` |
 | **Sloter Language** | Custom Programming Language + Compiler | 🟢 ACTIVE | `06 - PROJECTS/Sloter Language/` |
 | **ORBIT AI Agents** | Multi-Agent AI Deployment System | 🟢 ACTIVE | `06 - PROJECTS/ORBIT AI Agents/` |
 | **Craft Panel** | Full-Stack Development Project | 🟢 ACTIVE | `06 - PROJECTS/Craft Panel/` |
