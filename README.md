@@ -120,7 +120,7 @@ This Obsidian vault serves as the **central nervous system** of the entire organ
 | INSIGNIA | DESIGNATION | NAME | DOMAIN | FOCUS |
 |:--------:|:-----------:|------|--------|-------|
 | 🎇 | **DH** | Damn Hit | Elite Strike Force | Precision strike, rapid deployment, special ops |
-| ⛑ | **QAVI** | Quasar AI | Executive Intelligence Network | Multi-agent AI, autonomous systems, AI orchestration |
+| ⛑ | **QAVI** | Quasar Artificial Vortex Intellegences | Executive Intelligence Network | Multi-agent AI, autonomous systems, AI orchestration |
 | 🖥 | **CONRAS** | Computing Systems | Experimental Hardware | Advanced computing architectures, systems research |
 
 > **COMBINED OPERATIONAL CAPACITY:** 14 Active Divisions — Full Spectrum Coverage
