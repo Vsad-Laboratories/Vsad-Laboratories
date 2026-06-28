@@ -1,244 +1,198 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                    ⚠️  CLASSIFICATION: VSAD INTERNAL ONLY                    ║
-║              UNAUTHORIZED ACCESS IS STRICTLY PROHIBITED                      ║
-║        THIS REPOSITORY IS THE DIGITAL NERVOUS SYSTEM OF VSAD                 ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=B7121C&center=true&vCenter=true&width=600&lines=VSAD+OPERATING+SYSTEM;VORTEX+SYSTEMS+AND+DEFENSES;EMPIRE+KNOWLEDGE+BASE;DOMINATION+THROUGH+INNOVATION" alt="VSAD Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=2563EB&center=true&vCenter=true&width=600&lines=VSAD+LABORATORIES;VORTEX+SYSTEMS+AND+DEFENSES;TECHNOLOGY+%26+INNOVATION;BUILDING+THE+FUTURE" alt="VSAD Typing Header" />
 </p>
 
-<h1 align="center">⚔️ VSAD — VORTEX SYSTEMS AND DEFENSES ⚔️</h1>
-<h3 align="center"><i>"Build in silence. Let the empire speak."</i></h3>
+<h1 align="center">🏢 VSAD — VORTEX SYSTEMS AND DEFENSES</h1>
+<h3 align="center"><i>Technology · Innovation · Engineering</i></h3>
 
 <br />
 
 <p align="center">
-  <strong>COMMANDER:</strong> Owner Vsad &nbsp;|&nbsp;
-  <strong>AGE:</strong> Not Prefer to Mention &nbsp;|&nbsp;
-  <strong>STATUS:</strong> 🚀 DOMINATION PROTOCOL ACTIVE &nbsp;|&nbsp;
-  <strong>HQ:</strong> CLASSIFIED LOCATION
-</p>
-
-<p align="center">
-  <strong>OPERATING THEATER:</strong> Defense Tech · AI Systems · Cybersecurity · Advanced Propulsion · Robotics · SaaS
+  <strong>FOUNDER & CEO:</strong> Owner Vsad &nbsp;|&nbsp;
+  <strong>FOCUS:</strong> AI · SaaS · Cybersecurity · Robotics · Aerospace &nbsp;|&nbsp;
+  <strong>STATUS:</strong> 🚀 OPERATIONAL
 </p>
 
 <br />
 
 ---
 
-## 📋 TABLE OF OPERATIONS
+## 📋 CONTENTS
 
 | # | SECTION | DESCRIPTION |
 |---|---------|-------------|
-| 1 | [SITUATIONAL BRIEFING](#-1-situational-briefing) | Vault overview & strategic context |
-| 2 | [COMMAND STRUCTURE](#-2-command-structure) | Organizational hierarchy & leadership |
-| 3 | [ORDER OF BATTLE — ALL 14 DIVISIONS](#-3-order-of-battle--all-14-divisions) | Complete division doctrine breakdown |
-| 4 | [R&D SECTOR — RESEARCH TRACKS](#-4-rd-sector--research-tracks) | Active research & development programs |
-| 5 | [ACTIVE OPS — PROJECT PORTFOLIO](#-5-active-ops--project-portfolio) | Current operational projects |
-| 6 | [ECONOMIC ENGINE — REVENUE STREAMS](#-6-economic-engine--revenue-streams) | Financial infrastructure & targets |
-| 7 | [INTELLIGENCE ASSETS — KNOWLEDGE DOMAINS](#-7-intelligence-assets--knowledge-domains) | Core knowledge areas |
-| 8 | [COMMAND CENTER — KEY VAULT FILES](#-8-command-center--key-vault-files) | Critical navigation indices |
-| 9 | [COMPANY OS — OPERATING PRINCIPLES](#-9-company-os--operating-principles) | The system that runs the empire |
-| 10 | [OPSEC NOTICE — SECURITY PROTOCOL](#-10-opsec-notice--security-protocol) | Classification & handling instructions |
+| 1 | [OVERVIEW](#-1-overview) | Company profile & mission |
+| 2 | [ORGANIZATIONAL STRUCTURE](#-2-organizational-structure) | Division hierarchy |
+| 3 | [DIVISIONS](#-3-divisions) | All 14 business units |
+| 4 | [RESEARCH & DEVELOPMENT](#-4-research--development) | Active R&D programs |
+| 5 | [PROJECT PORTFOLIO](#-5-project-portfolio) | Current projects |
+| 6 | [ECONOMIC ENGINE](#-6-economic-engine) | Revenue streams & targets |
+| 7 | [CORE TECHNOLOGIES](#-7-core-technologies) | Key technology domains |
+| 8 | [OPERATING PRINCIPLES](#-8-operating-principles) | How we work |
+| 9 | [COMMAND CENTER](#-9-command-center) | Key reference files |
 
 ---
 
-## 🎯 1. SITUATIONAL BRIEFING
+## 🎯 1. OVERVIEW
 
-**VSAD (Vortex Systems And Defenses)** is a multi-division defense technology organization operating across **14 strategic divisions** spanning air, ground, cyber, space, AI, robotics, nanotechnology, communications, and elite operations.
+**VSAD (Vortex Systems And Defenses)** is a multi-division technology and innovation company operating across **14 business units** spanning AI, cybersecurity, aerospace engineering, robotics, advanced computing, communications, nanotechnology, and software development.
 
-This Obsidian vault serves as the **central nervous system** of the entire organization — a fully integrated knowledge base containing:
+We build systems that push boundaries — from full-stack SaaS platforms and custom programming languages to autonomous robotics and aerospace propulsion research.
 
-- **14 Division Doctrines** — Complete strategic & operational frameworks
-- **R&D Archives** — Propulsion, robotics, AI, quantum, nanotech research
-- **Active Project Blueprints** — Full-stack SaaS, custom programming language, AI agent systems, missile simulation
-- **Economic Command** — Revenue tracking, investments, business plans
-- **Strategic Intelligence** — Competitive analysis, market research, risk frameworks
-- **Visual Command Canvases** — 30+ interactive command boards
-
-> **550+ files · 50+ directories · 30+ canvases · 30+ plugins · 14 divisions**
+> **550+ technical documents · 50+ project directories · 14 active divisions · 10+ active projects**
 
 ---
 
-## 🏛️ 2. COMMAND STRUCTURE
+## 🏛️ 2. ORGANIZATIONAL STRUCTURE
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     VSAD HIGH COMMAND                        │
-│                  Owner Vsad — CEO & EMPEROR                  │
+│                      VSAD EXECUTIVE                          │
+│                  Owner Vsad — Founder & CEO                   │
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
-│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────┐  │
-│  │  STRATEGIC OPS   │  │  OPERATIONAL OPS │  │  R&D SECTOR │  │
-│  │  5 Divisions     │  │  3 Divisions     │  │  3 Divisions │  │
-│  └────────┬────────┘  └────────┬────────┘  └──────┬──────┘  │
-│           │                    │                    │          │
-│  ┌────────┴────────┐  ┌───────┴────────┐  ┌──────┴───────┐  │
-│  │  SPECIAL OPS    │  │  INTELLIGENCE  │  │  ECONOMIC    │  │
-│  │  3 Divisions    │  │  NETWORK (AI)  │  │  COMMAND     │  │
-│  └─────────────────┘  └────────────────┘  └──────────────┘  │
+│  ┌──────────────────┐  ┌──────────────────┐  ┌───────────┐  │
+│  │  STRATEGIC TECH   │  │  OPERATIONS      │  │  R&D       │  │
+│  │  5 Divisions      │  │  3 Divisions     │  │  4 Units   │  │
+│  └────────┬─────────┘  └────────┬─────────┘  └─────┬─────┘  │
+│           │                     │                    │        │
+│  ┌────────┴─────────┐  ┌───────┴─────────┐  ┌──────┴─────┐  │
+│  │  SPECIAL UNITS   │  │  AI & DATA      │  │  FINANCE   │  │
+│  │  2 Divisions     │  │  (QAVI)         │  │  COMMAND   │  │
+│  └──────────────────┘  └─────────────────┘  └────────────┘  │
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ⚔️ 3. ORDER OF BATTLE — ALL 14 DIVISIONS
+## 🔬 3. DIVISIONS
 
-### 🔴 STRATEGIC DIVISIONS — Air & Space Superiority
+### STRATEGIC TECHNOLOGY DIVISIONS
 
-| INSIGNIA | DESIGNATION | NAME | DOMAIN | FOCUS |
-|:--------:|:-----------:|------|--------|-------|
-| ☠️ | **AF** | Air Fleets | Miniature Weaponized Drones | Swarm tactics, RC jet platforms, autonomous air operations |
-| ☢️ | **MSOD** | Mass Source of Destruction | Ballistic-Class Missiles | Mach 5+ propulsion, 20-warhead configurations |
-| 🚀 | **VHVPs** | Very High Velocity Projectiles | Rapid Swarm Mini-Rockets | 2km range, Mach-speed swarm strikes |
-| 🛰 | **SS** | Sky Spirits | Hypersonic Missile Systems | Mach 5+, 600km range, stealth hypersonics |
-| 🧧 | **MPMS** | Multi-Purpose Missile System | Tactical Versatile Missiles | 15-30km range, modular payload platform |
+| CODE | NAME | DOMAIN |
+|:----:|------|--------|
+| **AF** | Air Fleets | Autonomous drone systems, RC aviation platforms |
+| **MSOD** | Massive Systems & Ordnance Division | Large-scale engineering systems, propulsion research |
+| **VHVPs** | Very High Velocity Projectiles | High-speed aerodynamics, projectile dynamics |
+| **SS** | Sky Spirits | Advanced aerospace systems, high-altitude platforms |
+| **MPMS** | Multi-Purpose Modular Systems | Versatile platform engineering, modular design systems |
 
-### 🟠 OPERATIONAL DIVISIONS — Ground & Cyber Domains
+### OPERATIONS DIVISIONS
 
-| INSIGNIA | DESIGNATION | NAME | DOMAIN | FOCUS |
-|:--------:|:-----------:|------|--------|-------|
-| 🎡 | **GF** | Ground Fleets | RC Ground Vehicles | 400+ km/h speed platforms, off-road climbers |
-| 🗼 | **CSLs** | Cyber Slots | Cybersecurity Framework | 8-layer defense architecture, network operations |
-| 🦼 | **ABI** | Animatronics Beyond Imagination | Robotics & Animatronics | 12-foot animatronics, humanoid robotics |
+| CODE | NAME | DOMAIN |
+|:----:|------|--------|
+| **GF** | Ground Fleets | High-performance RC ground vehicles, autonomous ground systems |
+| **CSLs** | Cyber Systems & Layers | Cybersecurity framework, network defense architecture |
+| **ABI** | Advanced Biomechatronics & Intelligence | Robotics, animatronics, humanoid systems |
 
-### 🟢 RESEARCH & DEVELOPMENT DIVISIONS — Future Technologies
+### RESEARCH & DEVELOPMENT
 
-| INSIGNIA | DESIGNATION | NAME | DOMAIN | FOCUS |
-|:--------:|:-----------:|------|--------|-------|
-| 🎓 | **BHOI** | Black Hole of Innovation | Radical Innovation Vault | Cross-domain R&D, breakthrough incubation |
-| ✍ | **VOX-VEIL** | Secret Communications | Linguistic Encryption | Spoken cipher protocols, multi-layer speech encryption |
-| 🧨 | **NM** | Nano Mots | Micro/Nano Robotics | MEMS, surveillance dust, medical motes |
+| CODE | NAME | DOMAIN |
+|:----:|------|--------|
+| **BHOI** | Black Hole of Innovation | Cross-domain R&D, breakthrough technology incubation |
+| **VOX-VEIL** | Voice & Encrypted Intelligence | Secure communications, encryption protocols |
+| **NM** | Nano Motes | Micro-electromechanical systems, nano-scale engineering |
 
-### ⚫ SPECIAL & SUPPORT DIVISIONS
+### SPECIAL UNITS
 
-| INSIGNIA | DESIGNATION | NAME | DOMAIN | FOCUS |
-|:--------:|:-----------:|------|--------|-------|
-| 🎇 | **DH** | Damn Hit | Elite Strike Force | Precision strike, rapid deployment, special ops |
-| ⛑ | **QAVI** | Quasar Artificial Vortex Intellegences | Executive Intelligence Network | Multi-agent AI, autonomous systems, AI orchestration |
-| 🖥 | **CONRAS** | Computing Systems | Experimental Hardware | Advanced computing architectures, systems research |
-
-> **COMBINED OPERATIONAL CAPACITY:** 14 Active Divisions — Full Spectrum Coverage
+| CODE | NAME | DOMAIN |
+|:----:|------|--------|
+| **DH** | Direct Hit | Special operations technology, rapid deployment systems |
+| **QAVI** | Quasar AI | Multi-agent AI orchestration, autonomous intelligence systems |
+| **CONRAS** | Computing & Networked Research Architecture Systems | Experimental computing, advanced architectures |
 
 ---
 
-## 🔬 4. R&D SECTOR — RESEARCH TRACKS
+## 🧪 4. RESEARCH & DEVELOPMENT
 
-| TRACK | FOCUS AREA | KEY FILES | STATUS |
-|-------|-----------|-----------|--------|
-| 🚀 **Propulsion** | Solid propellants, nozzle design, US/Indian missile propellants, Mach 5+ fuels | `08 - RESEARCH/`, `⛑ RESEARCH/` | 🔴 Active |
-| 🤖 **Robotics** | Titan-X autonomous robot (safe & weaponized variants), 12ft animatronics | `Titan-X Claude Safe Ver.md` | 🟢 Active |
-| 🔐 **Cybersecurity** | 8-layer CSLs framework, penetration testing, C2 infrastructure | `🗼CSLs Doctrine`, `Hacking & Stuff/` | 🟢 Active |
-| 🧠 **AI Systems** | Prompt engineering, multi-agent orchestration, jailbreak research | `🤖 AI/`, `⛑ QAVI/` | 🟢 Active |
-| 🔬 **Nanotechnology** | MEMS, smart dust, medical motes | `🧨 NM Doctrine` | 🟡 R&D Phase |
-| ⚛️ **Quantum** | Quantum computing fundamentals, applications | `🔬 Tech/` | 🟡 Research |
-| 🌐 **Web3/Crypto** | DeFi, BONK analysis, blockchain research | `📊Crypto/` | 🟢 Active |
-| 💻 **Programming** | Sloter Language — custom programming language with full compiler design | `06 - PROJECTS/Sloter Language/` | 🟢 Active |
-
----
-
-## 📂 5. ACTIVE OPS — PROJECT PORTFOLIO
-
-| PROJECT | TYPE | STATUS | LOCATION |
-|---------|------|--------|----------|
-| **ProveX** | Full-Stack SaaS Platform (Crypto Competition) | 🟢 ACTIVE | `06 - PROJECTS/ProveX/` |
-| **Sloter Language** | Custom Programming Language + Compiler | 🟢 ACTIVE | `06 - PROJECTS/Sloter Language/` |
-| **ORBIT AI Agents** | Multi-Agent AI Deployment System | 🟢 ACTIVE | `06 - PROJECTS/ORBIT AI Agents/` |
-| **Craft Panel** | Full-Stack Development Project | 🟢 ACTIVE | `06 - PROJECTS/Craft Panel/` |
-| **FreelanceForge.ai** | Freelancer SaaS Platform | 🟡 IN DEV | `06 - PROJECTS/FreelanceForge.ai SaaS/` |
-| **Korex AI** | AI Creation Engine | 🟡 IN DEV | `06 - PROJECTS/Korex AI/` |
-| **MPMS-01 STRIKER** | Missile System + Trajectory Simulator | 🟢 ACTIVE | `BunkNotes/` |
-| **Titan-X Robot** | Autonomous Robot | 🟡 PROTOTYPE | `08 - RESEARCH/💨Open It/Robotics/` |
-| **Definer Indicator** | Trading Algorithm Tool | 🟡 IN DEV | `06 - PROJECTS/Trading/` |
-| **API Suite** | Multi-API Business Platform | 🟢 ACTIVE | `02 - Economic Engine/👨‍💻APIs/` |
+| TRACK | FOCUS AREA | STATUS |
+|-------|-----------|--------|
+| 🚀 **Aerospace Propulsion** | Solid/liquid propellant research, nozzle design, high-speed aerodynamics | Active |
+| 🤖 **Robotics** | Autonomous robots, biomechatronics, humanoid systems | Active |
+| 🔐 **Cybersecurity** | Network defense frameworks, encryption, security architecture | Active |
+| 🧠 **AI & Machine Learning** | Multi-agent systems, prompt engineering, AI orchestration | Active |
+| 🔬 **Nanotechnology** | MEMS, micro-scale systems, materials research | R&D Phase |
+| ⚛️ **Quantum Computing** | Quantum fundamentals, applications research | Research |
+| 🌐 **Web3 & Blockchain** | DeFi protocols, smart contract security, distributed systems | Active |
+| 💻 **Programming Languages** | Custom language design, compiler engineering, standard library development | Active |
 
 ---
 
-## 💰 6. ECONOMIC ENGINE — REVENUE STREAMS
+## 📂 5. PROJECT PORTFOLIO
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                    VSAD ECONOMIC COMMAND                          │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  REVENUE STREAMS:                                                │
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────────────────┐  │
-│  │ API / SaaS    │  │ Cheat Dev    │  │ Dropshipping / E-com  │  │
-│  │ (ProveX etc.) │  │ (Gaming)     │  │                       │  │
-│  └──────────────┘  └──────────────┘  └──────────────────────┘  │
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────────────────┐  │
-│  │ Crypto /     │  │ Freelance /  │  │ RC Car Sales          │  │
-│  │ Trading      │  │ Consulting   │  │ (Velocity-1, Xer)     │  │
-│  └──────────────┘  └──────────────┘  └──────────────────────┘  │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│  FINANCIAL TARGETS:                                              │
-│  2026 → $5M ARR  │  2027 → $25M ARR  │  2028 → $100M ARR       │
-│  2030 → $500M ARR │  2035 → $2B ARR  │  PROFIT: 20%+ Margins  │
-└──────────────────────────────────────────────────────────────────┘
-```
+| PROJECT | CATEGORY | STATUS |
+|---------|----------|--------|
+| **ProveX** | Full-Stack SaaS Platform (Competition Management) | 🟢 ACTIVE |
+| **Sloter Language** | Custom Programming Language + Compiler | 🟢 ACTIVE |
+| **ORBIT AI Agents** | Multi-Agent AI Orchestration System | 🟢 ACTIVE |
+| **Craft Panel** | Full-Stack Development Framework | 🟢 ACTIVE |
+| **FreelanceForge.ai** | Freelancer SaaS Platform | 🟡 IN DEVELOPMENT |
+| **Korex AI** | AI Creation & Management Engine | 🟡 IN DEVELOPMENT |
+| **Titan-X** | Autonomous Robotics Platform | 🟡 PROTOTYPE |
+| **Definer Indicator** | Algorithmic Trading Tool | 🟡 IN DEVELOPMENT |
+| **API Suite** | Multi-API Business Platform | 🟢 ACTIVE |
 
-**Budget Allocation:**
+---
+
+## 💰 6. ECONOMIC ENGINE
+
+### Revenue Streams
+
+| STREAM | VERTICAL |
+|--------|----------|
+| API / SaaS Platforms | Software-as-a-Service products |
+| E-Commerce & Dropshipping | Online retail operations |
+| Cryptocurrency & Trading | Digital asset management |
+| Freelance & Consulting | Technical consulting services |
+| Hardware Sales | RC vehicles & engineering products |
+
+### Financial Targets
+
+| YEAR | TARGET |
+|:----:|:------:|
+| 2026 | $5M ARR |
+| 2027 | $25M ARR |
+| 2028 | $100M ARR |
+| 2030 | $500M ARR |
+| 2035 | $2B ARR |
+
+### Resource Allocation
 - 🧪 **R&D:** 30% — Innovation & development
-- ⚙️ **Operations:** 40% — Day-to-day execution
-- 📈 **Growth:** 20% — Marketing, sales, expansion
-- 🛡️ **Reserves:** 10% — Contingency & strategic investment
-
-> **Full financial tracking:** `02 - VSAD ECONOMIC DASHBOARD.md` · `02 - 🎯 Revenue Streams Dashboard.md`
+- ⚙️ **Operations:** 40% — Execution & delivery
+- 📈 **Growth:** 20% — Marketing & expansion
+- 🛡️ **Reserves:** 10% — Contingency & investment
 
 ---
 
-## 🧠 7. INTELLIGENCE ASSETS — KNOWLEDGE DOMAINS
+## ⚙️ 7. CORE TECHNOLOGIES
 
-| DOMAIN | CONTAINS | KEY RESOURCES |
-|--------|----------|---------------|
-| 🧠 **Knowledge Hub** | Central intelligence repository | `🧠 VSAD KNOWLEDGE HUB.md` |
-| 🛡️ **Security Protocols** | OPSEC framework, risk management | `🛡️ Security/` Directory |
-| 🎯 **Strategy** | Manifesto, competitive intelligence, integration matrix | `🎯 Strategy/` Directory |
-| 📊 **Analytics** | Performance metrics, operational analysis | `📊 Analytics/` Directory |
-| 📋 **SOPs** | Standard operating procedures | `📋 SOPs/` Directory |
-| 💡 **Elements** | Tools, hacking resources, AI mastery | `05 - ELEMENTS/` Directory |
-| 🗺️ **Canvases** | 30+ visual command & planning boards | `03 - Canvases/` Directory |
-| 🤖 **AI Brain** | AI assistant system, chat archives | `AI Brain/` Directory |
-
----
-
-## 📍 8. COMMAND CENTER — KEY VAULT FILES
-
-| FILE | PURPOSE |
-|------|---------|
-| [`📍 VSAD MASTER INDEX.md`](./01%20-%20Core/%F0%9F%93%8D%20VSAD%20MASTER%20INDEX.md) | Central navigation hub — all divisions, projects, systems |
-| [`🏴 Dashboard.md`](./01%20-%20%F0%9F%8F%B4Dashboard.md) | Main operational command dashboard |
-| [`🎯 Active Ops Dashboard.md`](./02%20-%20%F0%9F%8E%AF%20Active%20Ops%20Dashboard.md) | Real-time project status & priorities |
-| [`💰 VSAD ECONOMIC DASHBOARD.md`](./02%20-%20Economic%20Engine/%F0%9F%92%B0%20VSAD%20ECONOMIC%20DASHBOARD.md) | Financial command center |
-| [`🔥 VSAD EMPIRE MANIFESTO.md`](./01%20-%20Core/%F0%9F%8E%AF%20Strategy/%F0%9F%94%A5%20VSAD%20EMPIRE%20MANIFESTO.md) | Founding doctrine & philosophy |
-| [`🏢 COMPANY OS.md`](./01%20-%20Core/COMPANY%20OS.md) | Operating system & protocols |
-| [`🌟 VISION & STRATEGY.md`](./01%20-%20Core/VISION%20%26%20STRATEGY.md) | 10-25 year strategic roadmap |
-| [`🎯 STRATEGIC INTELLIGENCE BRIEFING.md`](./01%20-%20Core/%F0%9F%8E%AF%20Strategy/%F0%9F%8E%AF%20STRATEGIC%20INTELLIGENCE%20BRIEFING.md) | Intelligence & competitive analysis |
-| [`RESEARCH COMMAND CENTER.md`](./08%20-%20RESEARCH/RESEARCH%20COMMAND%20CENTER.md) | All R&D tracks & progress |
+| DOMAIN | TECHNOLOGIES |
+|--------|-------------|
+| **AI & Machine Learning** | Multi-agent systems, LLM orchestration, prompt engineering |
+| **Cybersecurity** | Network defense, encryption, security architecture |
+| **Aerospace Engineering** | Propulsion systems, aerodynamics, materials science |
+| **Robotics** | Autonomous navigation, biomechanics, control systems |
+| **Software Engineering** | Full-stack development, compiler design, systems programming |
+| **Nanotechnology** | MEMS, micro-fabrication, materials engineering |
+| **Blockchain** | Smart contracts, DeFi, distributed systems |
 
 ---
 
-## ⚙️ 9. COMPANY OS — OPERATING PRINCIPLES
+## 🔧 8. OPERATING PRINCIPLES
 
-The VSAD Company Operating System governs all operations through **5 core principles**:
+### Core Values
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🔄 DECISION VELOCITY    │  70/30 Rule — decide fast, learn faster  │
-│  🏗️ SYSTEMS OVER HEROES  │  Document everything, automate relentlessly│
-│  📊 DATA-DRIVEN EVERYTHING│  Measure what matters, act on insights     │
-│  🔧 CONTINUOUS OPTIMIZATION│ Never accept "good enough"                │
-│  🔍 RADICAL TRANSPARENCY │  Information flows freely, progress shared  │
-└─────────────────────────────────────────────────────────────────┘
-```
+| PRINCIPLE | DESCRIPTION |
+|-----------|-------------|
+| **Decision Velocity** | Decide with 70% information, adjust with 30% learning |
+| **Systems Over Heroes** | Build systems that work regardless of individual performance |
+| **Data-Driven Everything** | Measure what matters, act on insights |
+| **Continuous Optimization** | Never accept good enough — always improve |
+| **Radical Transparency** | Open communication, shared progress, honest feedback |
 
-**Project Lifecycle:**
+### Project Lifecycle
+
 1. 🟤 **Ideation & Validation** (1-2 weeks) — Test viability
 2. 🔵 **Planning & Setup** (2-4 weeks) — Build foundation
 3. 🟢 **Execution & Iteration** (4-24 weeks) — Build, test, refine
@@ -247,59 +201,33 @@ The VSAD Company Operating System governs all operations through **5 core princi
 
 ---
 
-## 🔒 10. OPSEC NOTICE — SECURITY PROTOCOL
+## 📍 9. COMMAND CENTER
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    VSAD SECURITY CLASSIFICATION                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  LEVEL 0 — PUBLIC        → General information, external facing  ║
-║  LEVEL 1 — INTERNAL      → VSAD personnel only                   ║
-║  LEVEL 2 — CONFIDENTIAL  → Division leads & above                ║
-║  LEVEL 3 — TOP SECRET    → Executive command only                ║
-║  LEVEL 4 — ANON-X EYES ONLY → Absolute minimum clearance         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-**⚠️ WARNING:** This repository contains highly sensitive information including proprietary defense technology research, cryptographic credentials, authentication keys, unreleased project blueprints, and strategic intelligence. This is an **operational security (OPSEC) critical environment**.
-
-> **Remember:** *"Knowledge is ammunition. Guard it accordingly."* — VSAD Security Protocols
-
----
-
-## 📊 VAULT STATISTICS
-
-| METRIC | COUNT |
-|--------|-------|
-| **Total Files** | 550+ |
-| **Directories** | 50+ |
-| **Canvas Files** | 30+ |
-| **Divisions** | 14 |
-| **Active Projects** | 10+ |
-| **Obsidian Plugins** | 30+ |
-| **Themes Installed** | 20+ |
-| **Python Scripts** | ~10 |
-| **Research Tracks** | 8+ |
+| RESOURCE | PURPOSE |
+|----------|---------|
+| VSAD MASTER INDEX | Central navigation hub |
+| COMPANY OS | Operating system & protocols |
+| VISION & STRATEGY | Long-term strategic roadmap |
+| ECONOMIC DASHBOARD | Financial tracking & planning |
+| ACTIVE OPS DASHBOARD | Project status & priorities |
+| RESEARCH COMMAND CENTER | R&D tracking & progress |
 
 ---
 
 <p align="center">
   <strong>VSAD — VORTEX SYSTEMS AND DEFENSES</strong><br />
-  <em>"Build in silence. Let the empire speak."</em>
+  <em>Technology · Innovation · Engineering</em>
 </p>
 
 <p align="center">
-  <sub>📅 Last Updated: 2026-06-29</sub><br />
-  <sub>🔒 VSAD INTERNAL ONLY — ANON-X CLEARANCE REQUIRED</sub>
+  <sub>📅 Last Updated: 2026-06-29</sub>
 </p>
 
 <hr />
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-ACTIVE-brightgreen?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Classification-VSAD_INTERNAL_ONLY-red?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VSAD-Laboratories-2563EB?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Divisions-14-9cf?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Projects-10%2B-yellow?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Projects-9%2B-yellow?style=for-the-badge" /></a>
 </p>
