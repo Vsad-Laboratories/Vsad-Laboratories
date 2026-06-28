@@ -10,7 +10,7 @@
 
 ### Vortex Systems & Defenses
 
-*Engineering the next generation of intelligent software, AI systems, digital infrastructure, and developer platforms.*
+*Engineering the next generation of Aerospace Innovation, Military tech, Consumer Care Product, intelligent software, AI systems, digital infrastructure, and developer platforms.*
 
 ---
 
