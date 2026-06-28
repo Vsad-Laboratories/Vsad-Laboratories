@@ -153,7 +153,7 @@ This Obsidian vault serves as the **central nervous system** of the entire organ
 | **FreelanceForge.ai** | Freelancer SaaS Platform | 🟡 IN DEV | `06 - PROJECTS/FreelanceForge.ai SaaS/` |
 | **Korex AI** | AI Creation Engine | 🟡 IN DEV | `06 - PROJECTS/Korex AI/` |
 | **MPMS-01 STRIKER** | Missile System + Trajectory Simulator | 🟢 ACTIVE | `BunkNotes/` |
-| **Titan-X Robot** | Autonomous Robot ($400 Budget) | 🟡 PROTOTYPE | `08 - RESEARCH/💨Open It/Robotics/` |
+| **Titan-X Robot** | Autonomous Robot | 🟡 PROTOTYPE | `08 - RESEARCH/💨Open It/Robotics/` |
 | **Definer Indicator** | Trading Algorithm Tool | 🟡 IN DEV | `06 - PROJECTS/Trading/` |
 | **API Suite** | Multi-API Business Platform | 🟢 ACTIVE | `02 - Economic Engine/👨‍💻APIs/` |
 
