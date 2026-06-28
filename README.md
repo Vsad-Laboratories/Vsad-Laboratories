@@ -1,8 +1,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                    ⚠️  CLASSIFICATION: VSAD INTERNAL ONLY                   ║
-║              UNAUTHORIZED ACCESS IS STRICTLY PROHIBITED                     ║
-║        THIS REPOSITORY IS THE DIGITAL NERVOUS SYSTEM OF VSAD                ║
+║                    ⚠️  CLASSIFICATION: VSAD INTERNAL ONLY                    ║
+║              UNAUTHORIZED ACCESS IS STRICTLY PROHIBITED                      ║
+║        THIS REPOSITORY IS THE DIGITAL NERVOUS SYSTEM OF VSAD                 ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
