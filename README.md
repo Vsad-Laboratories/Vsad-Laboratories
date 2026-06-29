@@ -23,7 +23,7 @@
 |---|---------|-------------|
 | 1 | [OVERVIEW](#-1-overview) | Company profile & mission |
 | 2 | [ORGANIZATIONAL STRUCTURE](#-2-organizational-structure) | Division hierarchy |
-| 3 | [DIVISIONS](#-3-divisions) | All 14 business units |
+| 3 | [DIVISIONS](#-3-divisions) | All 14 Operation units |
 | 4 | [RESEARCH & DEVELOPMENT](#-4-research--development) | Active R&D programs |
 | 5 | [PROJECT PORTFOLIO](#-5-project-portfolio) | Current projects |
 | 6 | [ECONOMIC ENGINE](#-6-economic-engine) | Revenue streams & targets |
