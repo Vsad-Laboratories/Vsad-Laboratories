@@ -1,28 +1,43 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=800&color=8839EF&center=true&vCenter=true&width=680&lines=VSAD+%E2%80%94+VORTEX+SYSTEMS+AND+DEFENSES;14+DIVISIONS+%C2%B7+10%2B+ACTIVE+PROJECTS;AI+%C2%B7+ROBOTICS+%C2%B7+AEROSPACE+%C2%B7+CYBERSECURITY;BUILDING+THE+FUTURE%2C+ONE+DIVISION+AT+A+TIME" alt="VSAD typing header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F3FF,50:C4B5FD,100:7C3AED&height=200&section=header&text=VSAD&fontSize=80&fontColor=3B0764&animation=fadeIn&fontAlignY=38&desc=VORTEX%20SYSTEMS%20AND%20DEFENSES&descAlignY=58&descSize=22&descColor=4C1D95" alt="VSAD banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=700&color=7C3AED&center=true&vCenter=true&width=680&lines=Build+in+silence.+Let+the+empire+speak.;14+Divisions+%C2%B7+10%2B+Active+Projects;AI+%C2%B7+Robotics+%C2%B7+Aerospace+%C2%B7+Cybersecurity" alt="VSAD typing header" />
 
 <br>
 
-[![Status](https://img.shields.io/badge/status-operational-brightgreen?style=for-the-badge)](#)
-[![Divisions](https://img.shields.io/badge/divisions-14-8839EF?style=for-the-badge)](#-divisions)
-[![Projects](https://img.shields.io/badge/active_projects-10%2B-FE640B?style=for-the-badge)](#-project-portfolio)
-[![Documents](https://img.shields.io/badge/technical_docs-580%2B-9cf?style=for-the-badge)](#-overview)
+[![Status](https://img.shields.io/badge/status-operational-7C3AED?style=for-the-badge&labelColor=F5F3FF&color=7C3AED)](#)
+[![Divisions](https://img.shields.io/badge/divisions-14-A78BFA?style=for-the-badge&labelColor=F5F3FF&color=A78BFA)](#-order-of-battle)
+[![Projects](https://img.shields.io/badge/active_projects-10%2B-C4B5FD?style=for-the-badge&labelColor=F5F3FF&color=8B5CF6)](#-project-portfolio)
+[![Access](https://img.shields.io/badge/access_level-public-4C1D95?style=for-the-badge&labelColor=F5F3FF&color=4C1D95)](#)
 
-<sub>Profile views: <img src="https://visitor-badge.laobi.icu/badge?page_id=Vsad-Laboratories.Vsad-Laboratories" alt="profile views" /></sub>
-
-**Founder & CEO:** Owner Vsad &nbsp;·&nbsp; **Focus:** AI · SaaS · Cybersecurity · Robotics · Aerospace · Nanotech · Crypto · Strategy
-
-[![YouTube — thevsad](https://img.shields.io/static/v1?message=thevsad&logo=youtube&label=YouTube&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@thevsad)
-[![YouTube — VsadStudios](https://img.shields.io/static/v1?message=VsadStudios&logo=youtube&label=YouTube&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@VsadStudios)
-[![X](https://img.shields.io/static/v1?message=VsadTech&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/VsadTech)
-[![Discord](https://img.shields.io/static/v1?message=vsadlabs&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/vsadlabs)
-[![Chess.com](https://img.shields.io/static/v1?message=Vsadlabs&logo=chess.com&label=&color=7FA650&logoColor=white&labelColor=&style=for-the-badge)](https://www.chess.com/member/Vsadlabs)
-[![Gmail](https://img.shields.io/static/v1?message=vsad.pvt@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:vsad.pvt@gmail.com)
+<sub>Profile views: <img src="https://visitor-badge.laobi.icu/badge?page_id=Vsad-Laboratories.Vsad-Laboratories&color=7C3AED" alt="profile views" /></sub>
 
 </div>
 
+<table align="center">
+<tr>
+<td width="140" align="center" valign="middle">
+<img src="./assets/vsad-pixel-mascot.svg" width="120" alt="VSAD pixel mascot" />
+</td>
+<td valign="middle">
+
+**Commander:** Owner Vsad &nbsp;·&nbsp; **HQ:** Confidential &nbsp;·&nbsp; **Status:** 🚀 Domination protocol active
 <br>
+**Theater of operations:** Defense Tech · AI Systems · Cybersecurity · Advanced Propulsion R&D · Robotics · SaaS · Crypto · Nanotech · Strategy
+
+[![YouTube — thevsad](https://img.shields.io/static/v1?message=thevsad&logo=youtube&label=YouTube&color=7C3AED&logoColor=white&labelColor=F5F3FF&style=flat-square)](https://www.youtube.com/@thevsad)
+[![YouTube — VsadStudios](https://img.shields.io/static/v1?message=VsadStudios&logo=youtube&label=YouTube&color=7C3AED&logoColor=white&labelColor=F5F3FF&style=flat-square)](https://www.youtube.com/@VsadStudios)
+[![X](https://img.shields.io/static/v1?message=VsadTech&logo=x&label=&color=4C1D95&logoColor=white&labelColor=&style=flat-square)](https://x.com/VsadTech)
+[![Discord](https://img.shields.io/static/v1?message=vsadlabs&logo=discord&label=&color=8B5CF6&logoColor=white&labelColor=&style=flat-square)](https://discord.gg/vsadlabs)
+[![Chess.com](https://img.shields.io/static/v1?message=Vsadlabs&logo=chess.com&label=&color=7C3AED&logoColor=white&labelColor=&style=flat-square)](https://www.chess.com/member/Vsadlabs)
+[![Gmail](https://img.shields.io/static/v1?message=vsad.pvt@gmail.com&logo=gmail&label=&color=A78BFA&logoColor=white&labelColor=&style=flat-square)](mailto:vsad.pvt@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,100:C4B5FD&height=3&section=header" alt="divider" />
 
 ## ⚡ Quick Facts
 
@@ -30,98 +45,98 @@
 - **Scale:** 580+ technical documents · 55+ project directories · 20 deep-research files · 12 revenue playbooks.
 - **Shipping now:** ORBIT AI Agents, Sloter (custom language + compiler), Craft Panel, API Suite — all 🟢 active.
 - **Financial horizon:** $5M ARR target for 2026, scaling to $2B ARR by 2035.
-- **Read this next:** [Divisions](#-divisions) → [Project Portfolio](#-project-portfolio) → [Tech Stack](#-tech-stack) → [Setup Guide](#-setup-guide).
+- **Read this next:** [Order of Battle](#-order-of-battle) → [Project Portfolio](#-project-portfolio) → [Tech Stack](#-tech-stack) → [Command Center](#-command-center).
 
 <br>
 
 ## 📖 Table of Contents
 
 - [Quick Facts](#-quick-facts)
-- [Overview](#-overview)
-- [Organizational Structure](#-organizational-structure)
-- [Divisions](#-divisions)
-  - [Strategic Technology](#strategic-technology)
-  - [Operations](#operations)
-  - [Research & Development Units](#research--development-units)
-  - [Special Units](#special-units)
+- [Situational Briefing](#-situational-briefing)
+- [Command Structure](#-command-structure)
+- [Order of Battle](#-order-of-battle)
+  - [Strategic Division](#strategic-division)
+  - [Operational Division](#operational-division)
+  - [R&D Division](#rd-division)
+  - [Special Division](#special-division)
 - [Research and Development](#-research-and-development)
 - [Project Portfolio](#-project-portfolio)
 - [Tech Stack](#-tech-stack)
 - [GitHub Analytics](#-github-analytics)
 - [Economic Engine](#-economic-engine)
 - [Operating Principles](#-operating-principles)
-- [Connect](#-connect)
 - [Command Center](#-command-center)
 - [Setup Guide](#-setup-guide)
 
-<sub>💡 These links resolve once this file lives in an actual GitHub repository — GitHub auto-generates the anchor for every heading from its text. This preview pane doesn't always replicate that behavior, so re-check after pushing to GitHub.</sub>
+<sub>💡 These links resolve on GitHub itself — GitHub auto-generates the anchor for every heading from its text. This preview pane doesn't always replicate that, so re-check after pushing.</sub>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,100:C4B5FD&height=3&section=header" alt="divider" />
 
-## 🎯 Overview
+## 🎯 Situational Briefing
 
-VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation company operating across **14 business units** spanning AI, cybersecurity, aerospace engineering, robotics, advanced computing, communications, nanotechnology, and software development.
+VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation operation spanning **14 divisions** across AI, cybersecurity, aerospace engineering, robotics, advanced computing, communications, nanotechnology, and software development.
 
-- Builds systems that push boundaries — from full-stack SaaS platforms and custom programming languages to autonomous robotics and aerospace propulsion research.
-- Runs long-horizon R&D in parallel with revenue-generating product divisions, so research funds itself.
+- Builds systems that push boundaries — full-stack SaaS platforms, a custom programming language, and multi-agent AI systems, alongside long-horizon aerospace and robotics R&D.
+- Runs research in parallel with revenue-generating product divisions, so research funds itself.
 - Operates on a lean five-stage project lifecycle from idea to scale (see [Operating Principles](#-operating-principles)).
-- Everything below — divisions, R&D tracks, projects, financials — is pulled directly from the live VSAD documentation set; nothing here is decorative filler.
 
 <br>
 
-## 🏛️ Organizational Structure
+## 🏛️ Command Structure
 
 ```
                               ┌───────────────────────────────┐
-                              │         VSAD EXECUTIVE          │
+                              │          VSAD COMMAND           │
                               │   Owner Vsad — Founder & CEO     │
                               └────────────────┬──────────────────┘
                                                │
         ┌──────────────────┬──────────────────┼──────────────────┬────────────────────┐
         │                    │                  │                  │                     │
 ┌───────┴───────┐   ┌───────┴───────┐  ┌────────┴────────┐ ┌───────┴───────┐   ┌─────────┴─────────┐
-│ STRATEGIC TECH │   │  OPERATIONS   │  │       R&D         │ │ SPECIAL UNITS │   │  AI & DATA (QAVI)  │
-│  5 Divisions   │   │  3 Divisions  │  │     4 Units        │ │  2 Divisions  │   │   + FINANCE CMD     │
+│ STRATEGIC DIV  │   │ OPERATIONAL   │  │     R&D DIV        │ │  SPECIAL DIV  │   │  AI & DATA (QAVI)  │
+│  5 Divisions   │   │  3 Divisions  │  │     4 Units         │ │  2 Divisions  │   │   + FINANCE CMD     │
 └───────────────┘   └───────────────┘  └───────────────────┘ └───────────────┘   └─────────────────────┘
 ```
 
 <br>
 
-## 🔬 Divisions
+## ⚔️ Order of Battle
 
-### Strategic Technology
+### Strategic Division
 
-| Code | Division | Domain |
+| Code | Name | Domain |
 |:---:|---|---|
 | `AF` | Air Fleets | Autonomous drone systems, RC aviation platforms |
 | `MSOD` | Massive Systems & Ordnance Division | Large-scale engineering systems, propulsion research |
 | `VHVPs` | Very High Velocity Projectiles | High-speed aerodynamics, projectile dynamics |
 | `SS` | Sky Spirits | Advanced aerospace systems, high-altitude platforms |
-| `MPMS` | Multi-Purpose Modular Systems | Versatile platform engineering, modular design systems |
+| `MPMS` | Multi-Purpose Modular Systems | Versatile platform engineering, modular design |
 
-### Operations
+### Operational Division
 
-| Code | Division | Domain |
+| Code | Name | Domain |
 |:---:|---|---|
 | `GF` | Ground Fleets | High-performance RC ground vehicles, autonomous ground systems |
-| `CSLs` | Cyber Systems & Layers | Cybersecurity framework, network defense architecture |
+| `CSLs` | Cyber Systems & Layers | Layered cybersecurity framework, network defense architecture |
 | `ABI` | Advanced Biomechatronics & Intelligence | Robotics, animatronics, humanoid systems |
 
-### Research & Development Units
+### R&D Division
 
-| Code | Division | Domain |
+| Code | Name | Domain |
 |:---:|---|---|
 | `BHOI` | Black Hole of Innovation | Cross-domain R&D, breakthrough technology incubation |
 | `VOX-VEIL` | Voice & Encrypted Intelligence | Secure communications, encryption protocols |
 | `NM` | Nano Motes | Micro-electromechanical systems, nano-scale engineering |
 | `QAVI` | Quasar AI | Multi-agent AI orchestration, autonomous intelligence systems |
 
-### Special Units
+### Special Division
 
-| Code | Division | Domain |
+| Code | Name | Domain |
 |:---:|---|---|
-| `DH` | Direct Hit | Special operations technology, rapid deployment systems |
+| `DH` | Direct Hit | Rapid deployment technology, special project operations |
 | `CONRAS` | Computing & Networked Research Architecture Systems | Experimental computing, advanced architectures |
+
+<sub>Combined operational capacity: 14 active divisions, full-spectrum coverage.</sub>
 
 <br>
 
@@ -129,16 +144,16 @@ VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation
 
 | Track | Focus Area | Status |
 |---|---|:---:|
-| 🚀 Aerospace Propulsion & Hypersonics | Solid propellants, hypersonic weapons, drone swarms, missile defense | 🟢 Active |
+| 🚀 Aerospace Propulsion & Hypersonics | Solid propellant chemistry, nozzle design, high-speed aerodynamics research | 🟢 Active |
 | 🤖 Robotics & Animatronics | Autonomous robots, biomechatronics, humanoid systems, hybrid actuation | 🟢 Active |
-| 🔐 Cybersecurity | Network defense frameworks, zero-day exploitation, cyber warfare operations | 🟢 Active |
+| 🔐 Cybersecurity | Layered network defense frameworks, applied security research | 🟢 Active |
 | 🧠 AI & Machine Learning | Multi-agent systems, prompt engineering, LLM security, AI orchestration | 🟢 Active |
-| 💼 Business & SaaS | Revenue engineering, startup scaling, dropshipping, SaaS monetization | 🟢 Active |
+| 💼 Business & SaaS | Revenue engineering, startup scaling, SaaS monetization | 🟢 Active |
 | 💰 DeFi & Crypto | Blockchain finance, DeFi protocols, yield strategies, Web3 infrastructure | 🟢 Active |
-| 🔬 Nanotechnology | MEMS, micro-scale systems, carbon nanotubes, defense applications | 🟡 R&D Phase |
+| 🔬 Nanotechnology | MEMS, micro-scale systems, materials engineering | 🟡 R&D Phase |
 | ⚛️ Quantum Computing | Post-quantum cryptography, quantum simulation, qubit technologies | 🟡 Research |
-| 🧠 Strategy & PSYOPS | Cognitive warfare, OODA loop, game theory, competitive intelligence | 🟢 Active |
-| 💻 Programming Languages | Custom language design, compiler engineering, standard library development | 🟢 Active |
+| 🧠 Strategy | Competitive intelligence, OODA loop, game theory | 🟢 Active |
+| 💻 Programming Languages | Custom language design (Sloter), compiler engineering | 🟢 Active |
 
 <br>
 
@@ -156,46 +171,34 @@ VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation
 | **Titan-X** | Autonomous Robotics Platform | 🟡 Prototype |
 | **ProveX** | Full-Stack SaaS Platform (Competition Management) | 🔴 Suspended — For Sale |
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,100:C4B5FD&height=3&section=header" alt="divider" />
 
 ## 💻 Tech Stack
 
-68 tools across languages, frameworks, infrastructure, and AI — grouped so it's scannable, not a wall of logos.
+68 tools across languages, frameworks, infrastructure, and AI — grouped and kept to the light/Catppuccin-Latte palette throughout.
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,cs,go,rust,java,kotlin,swift,php,ruby,dart&theme=light" alt="languages" />
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,angular,html,css,tailwind,sass,threejs,redux&theme=light" alt="frontend" />
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,dotnet&theme=light" alt="backend" />
-
-**Data & Messaging**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,graphql,kafka,elasticsearch&theme=light" alt="data and messaging" />
-
-**DevOps & Cloud**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins,githubactions,nginx,prometheus,grafana&theme=light" alt="devops and cloud" />
-
-**AI & ML**
-<br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=light" alt="ai and ml" />
-
-**Tooling**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux,bash,vim,notion&theme=light" alt="tooling" />
-
-**Web3**
-<br>
-<img src="https://skillicons.dev/icons?i=solidity,ipfs&theme=light" alt="web3" />
+<table>
+<tr><td><b>Languages</b></td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,cs,go,rust,java,kotlin,swift,php,ruby,dart&theme=light" alt="languages" /></td></tr>
+<tr><td><b>Frontend</b></td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,angular,html,css,tailwind,sass,threejs,redux&theme=light" alt="frontend" /></td></tr>
+<tr><td><b>Backend</b></td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,dotnet&theme=light" alt="backend" /></td></tr>
+<tr><td><b>Data & Messaging</b></td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,graphql,kafka,elasticsearch&theme=light" alt="data and messaging" /></td></tr>
+<tr><td><b>DevOps & Cloud</b></td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins,githubactions,nginx,prometheus,grafana&theme=light" alt="devops and cloud" /></td></tr>
+<tr><td><b>AI & ML</b></td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=light" alt="ai and ml" /></td></tr>
+<tr><td><b>Tooling</b></td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux,bash,vim,notion&theme=light" alt="tooling" /></td></tr>
+<tr><td><b>Web3</b></td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=solidity,ipfs&theme=light" alt="web3" /></td></tr>
+</table>
 
 <details>
-<summary><b>Extended toolchain (plain-text, no icons needed)</b></summary>
+<summary><b>Extended toolchain (no icons needed)</b></summary>
+<br>
 
 | Category | Additional Tools |
 |---|---|
@@ -207,19 +210,19 @@ VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation
 
 </details>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,100:C4B5FD&height=3&section=header" alt="divider" />
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/stats-output/stats.svg" height="165" alt="GitHub stats" />
-<img src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/languages-output/languages.svg" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&theme=catppuccin_latte&hide_border=true" height="165" alt="Top languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Vsad-Laboratories&locale=en&mode=daily&theme=catppuccin-latte&hide_border=false&border_radius=5" height="165" alt="Streak stats" />
-<img src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/trophy-output/trophy.svg" height="165" alt="Trophies" />
+<img src="https://streak-stats.demolab.com?user=Vsad-Laboratories&locale=en&mode=daily&theme=catppuccin-latte&hide_border=true&border_radius=8" height="165" alt="Streak stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=flat&no-frame=true&margin-w=8&margin-h=8&row=1" height="165" alt="Trophies" />
 
 <br><br>
 
@@ -235,9 +238,9 @@ VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation
 
 </div>
 
-<sub>Every image above except the streak card depends on a GitHub Actions workflow that hasn't run yet in your repo — they'll all 404 until you complete the [Setup Guide](#-setup-guide).</sub>
+<sub>The stats card, top-languages card, streak card, and trophy card above are all pulled live from public hosted services — no GitHub Action, no repo secret, no branch needed. Only the Pac-Man graph and the snake animation need a workflow (see the <a href="#-setup-guide">Setup Guide</a>) since those have to be generated per-user with no public hosted equivalent.</sub>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,100:C4B5FD&height=3&section=header" alt="divider" />
 
 ## 💰 Economic Engine
 
@@ -283,19 +286,6 @@ VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation
 
 <br>
 
-## 🌐 Connect
-
-[![YouTube — thevsad](https://img.shields.io/static/v1?message=thevsad&logo=youtube&label=YouTube&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@thevsad)
-[![YouTube — VsadStudios](https://img.shields.io/static/v1?message=VsadStudios&logo=youtube&label=YouTube&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@VsadStudios)
-[![X](https://img.shields.io/static/v1?message=VsadTech&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/VsadTech)
-[![Discord](https://img.shields.io/static/v1?message=vsadlabs&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/vsadlabs)
-[![Chess.com](https://img.shields.io/static/v1?message=Vsadlabs&logo=chess.com&label=&color=7FA650&logoColor=white&labelColor=&style=for-the-badge)](https://www.chess.com/member/Vsadlabs)
-[![Gmail](https://img.shields.io/static/v1?message=vsad.pvt@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:vsad.pvt@gmail.com)
-
-<sub>⚠️ Your GitHub bio currently lists a different Discord invite (<code>discord.gg/JaubynSQdx</code>). The badge above uses <code>vsadlabs</code> as you specified — swap it if that invite has expired or changed.</sub>
-
-<br>
-
 ## 📍 Command Center
 
 | Resource | Purpose |
@@ -309,24 +299,29 @@ VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation
 | Active Ops Dashboard | Project status & priorities |
 | Research Command Center | R&D tracking & progress |
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,100:C4B5FD&height=3&section=header" alt="divider" />
 
 ## 🛠️ Setup Guide
 
-This README references five auto-generated SVGs (stats, top languages, trophies, snake animation, Pac-Man contribution graph) that only exist after GitHub Actions runs successfully in your repo. Full steps are in the [chat guide below](#-how-to-make-this-work) — the short version:
+Everything in [GitHub Analytics](#-github-analytics) except the snake animation and Pac-Man graph works the moment you push this file — they're public hosted endpoints, nothing to configure.
 
-1. Confirm the repo is `Vsad-Laboratories/Vsad-Laboratories`, public. ✅ Already true.
-2. Add the five workflow files to `.github/workflows/`.
+Only two things need a workflow:
+
+1. Add `.github/workflows/snake.yaml` and `.github/workflows/pacman.yaml` (both included in this kit).
+2. Add `assets/vsad-pixel-mascot.svg` (also included) so the mascot renders.
 3. `Settings → Actions → General → Workflow permissions` → **Read and write permissions** → Save.
-4. Push to `main`, then check the **Actions** tab.
-5. Confirm five new branches appear: `stats-output`, `languages-output`, `snake-output`, `trophy-output`, `pacman-output`.
+4. Push to `main`, check the **Actions** tab, confirm `snake-output` and `pacman-output` branches appear.
+
+That's it — three fewer moving parts than before, and none of the remaining ones depend on a third-party GitHub Action.
 
 <br>
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:F5F3FF&height=120&section=footer" alt="footer" />
+
 **VSAD — VORTEX SYSTEMS AND DEFENSES**
 <br>
-<sub>Technology · Innovation · Engineering</sub>
+<sub>Build in silence. Let the empire speak.</sub>
 
 </div>
