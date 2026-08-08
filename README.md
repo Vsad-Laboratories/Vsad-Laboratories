@@ -49,6 +49,55 @@
 
 <br>
 
+## ⚡ Primary Development Environment
+
+<div align="center">
+
+<a href="https://zed.dev/">
+<img src="https://img.shields.io/badge/ZED-PRIMARY%20EDITOR-7C3AED?style=for-the-badge&logo=zed&logoColor=white&labelColor=4C1D95" alt="Zed Primary Editor" />
+</a>
+
+<br><br>
+
+<a href="https://zed.dev/">
+<img src="https://zed.dev/_next/static/media/zed-logo-light.8d5f5b2a.svg" width="72" alt="Zed Editor" />
+</a>
+
+### **Zed**
+
+**The primary editor behind VSAD development.**
+
+Fast native performance · AI-native workflow · Keyboard-first engineering · Minimal interface
+
+<br>
+
+[![Official Website](https://img.shields.io/badge/Official%20Website-zed.dev-7C3AED?style=flat-square\&logo=zed\&logoColor=white)](https://zed.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-zed--industries-181717?style=flat-square\&logo=github)](https://github.com/zed-industries/zed)
+[![Editor](https://img.shields.io/badge/Role-Main%20Editor-A78BFA?style=flat-square)](https://zed.dev/)
+
+</div>
+
+> **VSAD Editor Standard:** Zed is the default development environment for VSAD.
+> Built for speed, precision, AI-assisted engineering, and focused system development.
+
+### Why Zed?
+
+| Capability                  | Role in VSAD                                    |
+| --------------------------- | ----------------------------------------------- |
+| ⚡ **Native Performance**    | Fast, responsive development environment        |
+| 🤖 **AI-Native**            | AI-assisted coding directly inside the editor   |
+| ⌨️ **Keyboard-First**       | High-speed, distraction-free workflow           |
+| 🧩 **Extensible**           | Language support, themes, snippets, and tooling |
+| 🛠️ **Engineering Focused** | Designed around serious software development    |
+
+**Primary workflow:** `Zed → Git → GitHub → Build → Test → Ship`
+
+<div align="center">
+
+<a href="https://zed.dev/"><b>⚡ Explore Zed →</b></a>
+
+</div>
+
 ## 📖 Table of Contents
 
 - [Quick Facts](#-quick-facts)
