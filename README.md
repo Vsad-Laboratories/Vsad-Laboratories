@@ -291,6 +291,14 @@ VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,100:C4B5FD&height=3&section=header" alt="divider" />
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Vsad-Laboratories&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Vsad-Laboratories&theme=github-dark" alt="Vsad-Laboratories stats section" />
+  </picture>
+</p>
+
+
 ## 💰 Economic Engine
 
 **Revenue streams**
