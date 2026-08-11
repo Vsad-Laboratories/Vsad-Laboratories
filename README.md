@@ -527,76 +527,37 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <!-- TELEMETRY & ANALYTICS -->
 
-<h2 align="left">
-  📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS
-</h2>
+<h2 align="left">📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS</h2>
 
-<div align="center">
+| GitHub Statistics | Most Used Languages |
+|:---:|:---:|
+| <img src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0" width="400" alt="VSAD Laboratories GitHub Statistics"> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0" width="400" alt="VSAD Laboratories Most Used Languages"> |
 
-  <!-- =========================
-       GITHUB STATS
-       ========================= -->
+<br>
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
+### CONTRIBUTION ACTIVITY
 
-        <img
-          src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0"
-          width="100%"
-          alt="VSAD Laboratories GitHub Statistics"
-        />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
+    width="850"
+    alt="VSAD Laboratories Pac-Man contribution graph"
+  />
+</p>
 
-      </td>
+<br>
 
-      <td align="center" width="50%">
+### CONTRIBUTION SNAKE
 
-        <img
-          src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0"
-          width="100%"
-          alt="VSAD Laboratories Most Used Languages"
-        />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg"
+    width="850"
+    alt="VSAD Laboratories contribution snake"
+  />
+</p>
 
-      </td>
-    </tr>
-  </table>
-
-
-  <br>
-
-
-  <!-- =========================
-       ACTIVITY
-       ========================= -->
-
-  <table>
-    <tr>
-
-      <td align="center" width="50%">
-
-        <img
-          src="https://streak-stats.demolab.com/?user=Vsad-Laboratories&theme=dark&hide_border=true&background=08080C&ring=8B5CF6&fire=EF4444&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=8B5CF6&sideLabels=E2E8F0&dates=64748B"
-          width="100%"
-          alt="VSAD Laboratories GitHub Streak"
-        />
-
-      </td>
-
-      <td align="center" width="50%">
-
-        <img
-          src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&no-bg=true&column=4&row=1&margin-w=8&margin-h=8"
-          width="100%"
-          alt="VSAD Laboratories GitHub Trophies"
-        />
-
-      </td>
-
-    </tr>
-  </table>
-
-
-  <br><br>
+<br>
 
 
   <!-- =========================
