@@ -559,58 +559,6 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <br>
 
-
-  <!-- =========================
-       CONTRIBUTION ANIMATIONS
-       ========================= -->
-
-  <p>
-    <strong>CONTRIBUTION ACTIVITY</strong>
-  </p>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
-      width="100%"
-      alt="VSAD Laboratories Pac-Man contribution graph"
-    />
-  </picture>
-
-
-  <br><br>
-
-
-  <p>
-    <strong>CONTRIBUTION SNAKE</strong>
-  </p>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake-dark.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg"
-      width="100%"
-      alt="VSAD Laboratories contribution snake"
-    />
-  </picture>
-
-</div>
-
-<br>
-
 <!-- ECONOMIC ENGINE & RESERVES -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">💰 ECONOMIC ENGINE</h2>
 
