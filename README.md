@@ -131,69 +131,6 @@
 
 <br>
 
-<!-- HOTTEST README COMPONENT: SYSTEM SOURCE CODE SNIPPET -->
-<details open>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">⚙️ CORE LOGIC // SLOTER REVOLUTION COMPILER BACKEND</summary>
-  <div style="margin-top: 10px;">
-    <pre><code class="language-rust">// Sloter Aerospace Core - Swarm Node Calibration
-fn calibrate_swarm_propulsion(node_id: u32, nozzle_temp: f32) -> Result&lt;Status, Error&gt; {
-    let target_pressure = 42.85; // MPa
-    let nozzle = MPMS::get_nozzle_valve(node_id)?;
-
-    if nozzle_temp &gt; 3150.0 {
-        return Err(Error::ThermalOverrun);
-    }
-
-    nozzle.adjust_vortex_actuator(target_pressure)?;
-    Ok(Status::Optimal)
-}</code></pre>
-  </div>
-</details>
-
-<br>
-
-<!-- HOTTEST README COMPONENT: KEYBOARD HOTKEYS -->
-<details>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">⌨️ TACTICAL TERMINAL HOTKEYS</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9em; color: #E2E8F0;">
-    <table width="100%" style="border-collapse: collapse;">
-      <tr style="border-bottom: 1px solid #1F222E;">
-        <th width="30%" align="left" style="padding: 8px 0; color: #EF4444; font-weight: bold;">KEYBIND</th>
-        <th align="left" style="padding: 8px 0; color: #8B5CF6; font-weight: bold;">ACTION / COMMAND OVERRIDE</th>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E;">
-        <td style="padding: 8px 0;"><code>Ctrl + Shift + S</code></td>
-        <td style="padding: 8px 0;">Initiate Swarm Telemetry Override Sync</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E;">
-        <td style="padding: 8px 0;"><code>Ctrl + Shift + D</code></td>
-        <td style="padding: 8px 0;">Toggle Net Defense Decoy Router Shield</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 0;"><code>Ctrl + Shift + C</code></td>
-        <td style="padding: 8px 0;">Compile Sloter Language AST Parse Trees</td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<br>
-
-<!-- HOTTEST README COMPONENT: SYSTEM READINESS CHECKLIST -->
-<details>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🚀 SYSTEM STATUS &amp; READINESS REPORT</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.95em; color: #E2E8F0;">
-    <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 1.8;">
-      <li>🟢 <strong>[ORBIT SWARMS]</strong>: 1024 nodes connected, consensus achieved.</li>
-      <li>🟢 <strong>[SLOTER COMPILER]</strong>: Low-level compiler and parser validated.</li>
-      <li>🟢 <strong>[CSLs SECURITY]</strong>: Layered firewalls fully deployed, no threats.</li>
-      <li>🟢 <strong>[PROPELLANT CORES]</strong>: Combustion chamber pressure within tolerances.</li>
-    </ul>
-  </div>
-</details>
-
-<br>
-
 <!-- QUICK FACTS -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚡ QUICK FACTS</h2>
 
