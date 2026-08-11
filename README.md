@@ -73,24 +73,41 @@
   <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">📡 ACTIVE SPEARHEAD TERMINAL RADAR SCREEN</summary>
   <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 12px; margin-top: 10px; border-radius: 6px; overflow-x: auto;">
     <marquee direction="up" scrollamount="1" height="200" style="background-color: #08080C; font-family: 'Fira Code', monospace; font-size: 0.85em; line-height: 1.4; color: #8B5CF6; border-left: 3px solid #EF4444; padding-left: 15px; white-space: pre;">
-=============================================================
-         _    __ ____   _    ____    _               ____  ____
-        | |  / // ___| / \  |  _ \  | |    _   _    |  _ \|  _ \
-        | | / / \___ \/ _ \ | | | | | |   / \_/ \   | |_) | |_) |
-        | |/ /   ___) / ___ \| |_| | | |__|  _  /   |  _ &lt; |  _ &lt;
-        |___/   |____/_/   \_\____/  |____|_| |_|   |_| \_\_| \_\
-=============================================================
-[SYS] SCANNING SECTOR 0xAF [AIR FLEETS] -> STABLE
-[SYS] ROTOR BEARING CORRECTION: OPTIMAL
-[SYS] COMPILER PIPELINE SLOTER PARSING: OK (0.003s)
-[SYS] ORBIT AI SWARM SYNCING -> HEARTBEAT MATCHED
-[SYS] CRYPTO PORTFOLIO YIELD REBALANCING: ACTIVE
-[SYS] CYBER DEFENSE LAYER CSLS STATUS: THREAT SHIELD ACTIVE
-[SYS] DETECTING ADVERSARIAL SWARM VECTORS... NONE FOUND.
-[SYS] SATELLITE SS [SKY SPIRITS] TELEMETRY STABLE (0.04ms)
-[SYS] MISSION COMMAND CLEARANCE STATUS: VERIFIED - LEVEL 5
-[SYS] EXECUTING DOMINATION PROTOCOL 2026-2035...
-=============================================================
+================================================================================
+
+    ██████╗  █████╗  ██████╗  █████╗  ██████╗ 
+    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+    ██████╔╝███████║██║  ██║███████║██████╔╝
+    ██╔══██╗██╔══██║██║  ██║██╔══██║██╔══██╗
+    ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║
+    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+
+================================================================================
+
+  [SYS.INIT]   :: SCANNING SECTOR 0xAF...
+               ├─ AIR FLEETS ..................... [ STABLE ]
+               └─ ROTOR BEARING CORRECTION ....... [ OPTIMAL ]
+
+  [SYS.COMP]   :: COMPILER PIPELINE SLOTER
+               └─ PARSING STATUS ................. [ OK ] (0.003s)
+
+  [SYS.NET]    :: ORBIT AI SWARM SYNC
+               └─ HEARTBEAT ...................... [ MATCHED ]
+
+  [SYS.FIN]    :: CRYPTO PORTFOLIO YIELD
+               └─ REBALANCING .................... [ ACTIVE ]
+
+  [SYS.SEC]    :: CYBER DEFENSE LAYER CSLS
+               ├─ THREAT SHIELD .................. [ ACTIVE ]
+               └─ ADVERSARIAL SWARM VECTORS ...... [ NONE DETECTED ]
+
+  [SYS.SAT]    :: SATELLITE SS [SKY SPIRITS]
+               └─ TELEMETRY ...................... [ STABLE ] (0.04ms)
+
+--------------------------------------------------------------------------------
+  [CLEARANCE]  :: ACCESS LEVEL 5 ................. [ VERIFIED ]
+  [EXECUTION]  :: DOMINATION PROTOCOL ............ [ 2026–2035 INITIATED ]
+================================================================================
     </marquee>
   </div>
 </details>
