@@ -676,8 +676,6 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
   <img src="./assets/vsad-byebye-ascii.svg" width="100%" alt="VSAD Session Terminated" />
   <br><br>
   <img src="./assets/vsad-pixel-mascot.svg" width="100%" alt="VSAD Mascot" />
-  <br><br>
-  <strong style="color: #EF4444; font-family: 'Fira Code', monospace; letter-spacing: 2px;">⚠️ SECURE LINE SECURED // RESTRICTED ACCESS</strong>
   <br>
   <p style="color: #E2E8F0; font-family: 'Fira Code', monospace; font-size: 0.9em; margin-top: 5px;">
     VORTEX SYSTEMS AND DEFENSES — PROPRIETARY DEFENSE MATRIX © 2026-2035
