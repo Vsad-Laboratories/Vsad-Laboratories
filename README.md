@@ -117,38 +117,37 @@
     ██║  ██║ ██║  ██║ ███ ███╔╝ ██║  ██║ ██║  ██║
     ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝
 
-  <div align="center">
 
-    <pre align="left">
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│  [SYS.INIT]  :: SCANNING SECTOR 0xAF...                              │
-│              ├─ AIR FLEETS ..................... [ STABLE ]          │
-│              └─ ROTOR BEARING CORRECTION ....... [ OPTIMAL ]         │
-│                                                                      │
-│  [SYS.COMP]  :: COMPILER PIPELINE SLOTER                            │
-│              └─ PARSING STATUS ................. [ OK ] (0.003s)     │
-│                                                                      │
-│  [SYS.NET]   :: ORBIT AI SWARM SYNC                                 │
-│              └─ HEARTBEAT ...................... [ MATCHED ]         │
-│                                                                      │
-│  [SYS.FIN]   :: CRYPTO PORTFOLIO YIELD                              │
-│              └─ REBALANCING .................... [ ACTIVE ]          │
-│                                                                      │
-│  [SYS.SEC]   :: CYBER DEFENSE LAYER CSLS                            │
-│              ├─ THREAT SHIELD .................. [ ACTIVE ]          │
-│              └─ ADVERSARIAL VECTORS ............ [ NONE DETECTED ]   │
-│                                                                      │
-│  [SYS.SAT]   :: SATELLITE SS [SKY SPIRITS]                          │
-│              └─ TELEMETRY ...................... [ STABLE ] (0.04ms) │
-│                                                                      │
-├──────────────────────────────────────────────────────────────────────┤
-│  [CLEARANCE] :: ACCESS LEVEL 5 ................ [ VERIFIED ]         │
-│  [EXECUTION] :: DOMINATION PROTOCOL ........... [ 2026–2035 ]       │
-└──────────────────────────────────────────────────────────────────────┘
-    </pre>
-
-  </div>
+<div align="center">
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│ [SYS.INIT] :: SCANNING SECTOR 0xAF...                        │
+│             ├─ AIR FLEETS ................ [ STABLE ]        │
+│             └─ ROTOR BEARING ............. [ OPTIMAL ]       │
+│                                                              │
+│ [SYS.COMP] :: COMPILER PIPELINE SLOTER                       │
+│             └─ PARSING STATUS ............ [ OK ] (0.003s)   │
+│                                                              │
+│ [SYS.NET]  :: ORBIT AI SWARM SYNC                            │
+│             └─ HEARTBEAT ................. [ MATCHED ]       │
+│                                                              │
+│ [SYS.FIN]  :: CRYPTO PORTFOLIO YIELD                         │
+│             └─ REBALANCING ............... [ ACTIVE ]        │
+│                                                              │
+│ [SYS.SEC]  :: CYBER DEFENSE LAYER CSLS                       │
+│             ├─ THREAT SHIELD ............. [ ACTIVE ]        │
+│             └─ ADVERSARIAL VECTORS ....... [ NONE DETECTED ] │
+│                                                              │
+│ [SYS.SAT]  :: SATELLITE SS [SKY SPIRITS]                     │
+│             └─ TELEMETRY ................. [ STABLE ]        │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│ [CLEARANCE] :: ACCESS LEVEL 5 ............. [ VERIFIED ]     │
+│ [EXECUTION] :: DOMINATION PROTOCOL ........ [ 2026–2035 ]    │
+└──────────────────────────────────────────────────────────────┘
+</pre>
+</div>
 
 </details>
 
