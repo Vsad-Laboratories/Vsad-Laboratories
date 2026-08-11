@@ -1,52 +1,40 @@
-<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="150" fill="#000"/>
+
   <style>
-    @keyframes pulse-glow {
-      0%, 100% {
-        fill: #8B5CF6;
-        filter: drop-shadow(0 0 4px #8B5CF6) drop-shadow(0 0 12px #8B5CF6);
-      }
-      50% {
-        fill: #EF4444;
-        filter: drop-shadow(0 0 4px #EF4444) drop-shadow(0 0 12px #EF4444);
-      }
-    }
-    @keyframes transform-3d {
-      0% {
-        transform: perspective(800px) rotateY(0deg) scale(0.95);
-      }
-      50% {
-        transform: perspective(800px) rotateY(15deg) scale(1);
-      }
-      100% {
-        transform: perspective(800px) rotateY(0deg) scale(0.95);
-      }
-    }
-    .ascii-text {
-      font-family: 'Fira Code', monospace;
+    .ascii {
+      font-family: "Fira Code", "Courier New", monospace;
       font-size: 13px;
       font-weight: bold;
-      animation: pulse-glow 4s infinite ease-in-out;
+      fill: #fff;
     }
-    .container-3d {
-      transform-origin: center;
-      animation: transform-3d 6s infinite ease-in-out;
+
+    .scene {
+      transform-origin: 50% 50%;
+      transform-box: fill-box;
+      animation: rotate3d 6s ease-in-out infinite;
     }
-    .terminal-sub {
-      font-family: 'Fira Code', monospace;
-      font-size: 11px;
-      fill: #E2E8F0;
-      letter-spacing: 2px;
+
+    @keyframes rotate3d {
+      0% {
+        transform: perspective(800px) rotateY(-35deg) scaleX(0.9);
+      }
+
+      50% {
+        transform: perspective(800px) rotateY(35deg) scaleX(0.9);
+      }
+
+      100% {
+        transform: perspective(800px) rotateY(-35deg) scaleX(0.9);
+      }
     }
   </style>
 
-  <!-- 3D Animated ASCII Group with no background or extra borders -->
-  <g class="container-3d">
-    <text x="140" y="20" class="ascii-text" xml:space="preserve"> __     ______   _    ____    _        _    ____  ____  </text>
-    <text x="140" y="38" class="ascii-text" xml:space="preserve"> \ \   / / ___| / \  |  _ \  | |      / \  | __ )/ ___| </text>
-    <text x="140" y="56" class="ascii-text" xml:space="preserve">  \ \ / /\___ \/ _ \ | | | | | |     / _ \ |  _ \___ \  </text>
-    <text x="140" y="74" class="ascii-text" xml:space="preserve">   \ V /  ___) / ___ \| |_| | | |___/ ___ \| |_) |__) | </text>
-    <text x="140" y="92" class="ascii-text" xml:space="preserve">    \_/  |____/_/   \_\____/  |_____/_/   \_\____/____/ </text>
+  <g class="scene">
+    <text x="140" y="30" class="ascii" xml:space="preserve">__     ______   _    ____    _        _    ____  ____</text>
+    <text x="140" y="48" class="ascii" xml:space="preserve">\ \   / / ___| / \  |  _ \  | |      / \  | __ )/ ___|</text>
+    <text x="140" y="66" class="ascii" xml:space="preserve"> \ \ / /\___ \ / _ \ | | | | | |     / _ \ |  _ \\___ \</text>
+    <text x="140" y="84" class="ascii" xml:space="preserve">  \ V /  ___) / ___ \| |_| | | |___ / ___ \| |_) |___) |</text>
+    <text x="140" y="102" class="ascii" xml:space="preserve">   \_/  |____/_/   \_\____/  |_____/ _/   \_\____/|____/</text>
   </g>
-
-  <text x="400" y="125" text-anchor="middle" class="terminal-sub" font-weight="bold">⚡ WELCOME TO VSAD LABS COMMAND TERMINAL ⚡</text>
 </svg>
