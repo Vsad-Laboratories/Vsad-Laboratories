@@ -716,27 +716,59 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <!-- SYSTEM MAINTENANCE & AUTOMATION SETUP -->
 <details>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🔧 SYSTEM MAINTENANCE &amp; AUTOMATION SETUP</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; color: #E2E8F0; font-size: 0.9em; line-height: 1.6;">
-    Telemetry SVGs (Snake and Pacman) update automatically every 12 hours via GitHub actions. To deploy overrides:
-    <br><br>
-    1. Verify operational GitHub workflows are deployed at <code>.github/workflows/snake.yml</code> and <code>.github/workflows/pacman.yml</code>.
-    <br>
-    2. Confirm write credentials: <code>Settings ──> Actions ──> General ──> Workflow permissions ──> Read and write permissions</code> (Save).
-    <br>
-    3. Manually override/trigger generation: <code>Actions ──> [Workflow] ──> Run workflow</code> targeting the <code>main</code> branch.
-  </div>
-</details>
+  <summary><strong>🔧 SYSTEM MAINTENANCE &amp; AUTOMATION SETUP</strong></summary>
 
-<br><hr style="border: 1px solid #3B3E52;"><br>
+  <br>
 
-<div align="center">
-
-  <img src="./assets/vsad-byebye-ascii.svg" width="100%" alt="Bye Bye" />
+  Telemetry SVGs (Snake and Pacman) update automatically every 12 hours via GitHub Actions.
 
   <br><br>
 
-  <img src="./assets/vsad-pixel-mascot.svg" width="100" alt="VSAD Mascot" />
+  <strong>Deployment checklist:</strong>
+
+  <ol>
+    <li>
+      Verify the workflows exist and are active:
+      <code>.github/workflows/snake.yml</code> and
+      <code>.github/workflows/pacman.yml</code>
+    </li>
+
+    <li>
+      Confirm workflow permissions:
+      <code>Settings → Actions → General → Workflow permissions</code>
+      and select <strong>Read and write permissions</strong>.
+    </li>
+
+    <li>
+      To manually regenerate the animations, open:
+      <code>Actions → [Workflow] → Run workflow</code>
+      and target the <code>main</code> branch.
+    </li>
+  </ol>
+
+</details>
+
+<br>
+
+<hr>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="./assets/vsad-byebye-ascii.svg"
+    width="100%"
+    alt="Bye Bye"
+  />
+
+  <br><br>
+
+  <img
+    src="./assets/vsad-pixel-mascot.svg"
+    width="150"
+    alt="VSAD Mascot"
+  />
 
   <br><br>
 
