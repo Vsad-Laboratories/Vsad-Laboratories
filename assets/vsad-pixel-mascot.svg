@@ -1,155 +1,374 @@
-<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="VSAD pixel mascot">
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg"
+     role="img" aria-label="VSAD pixel mascot waving goodbye">
 
   <style>
-    .bot { animation: float 3.2s ease-in-out infinite; transform-origin: 100px 100px; }
-    @keyframes float {
-      0%   { transform: translateY(0px); }
-      50%  { transform: translateY(-8px); }
-      100% { transform: translateY(0px); }
+    /* =========================================================
+       CHARACTER TRAVEL
+       ========================================================= */
+
+    .character {
+      animation: travel 8s cubic-bezier(.22,.75,.25,1) infinite;
     }
-    .eye { animation: blink 4.5s ease-in-out infinite; transform-origin: center; }
+
+    @keyframes travel {
+      0% {
+        transform: translateX(-150px);
+      }
+
+      18% {
+        transform: translateX(0);
+      }
+
+      23% {
+        transform: translateX(0);
+      }
+
+      68% {
+        transform: translateX(0);
+      }
+
+      82% {
+        transform: translateX(65px);
+      }
+
+      100% {
+        transform: translateX(145px);
+      }
+    }
+
+
+    /* =========================================================
+       LEFT HAND
+       Small movement, close to body.
+       ========================================================= */
+
+    .left-hand {
+      transform-box: fill-box;
+      transform-origin: 55px 118px;
+
+      animation: leftHand 8s ease-in-out infinite;
+    }
+
+    @keyframes leftHand {
+
+      /* Hidden behind body */
+      0%, 25% {
+        transform: translateX(7px) rotate(0deg);
+      }
+
+      /* Slowly peeks out */
+      30% {
+        transform: translateX(2px) rotate(-8deg);
+      }
+
+      /* Raise slightly */
+      35% {
+        transform: translateX(0) rotate(-14deg);
+      }
+
+      /* Tiny wave */
+      40% {
+        transform: translateX(-2px) rotate(-20deg);
+      }
+
+      45% {
+        transform: translateX(0) rotate(-10deg);
+      }
+
+      50% {
+        transform: translateX(-2px) rotate(-20deg);
+      }
+
+      55% {
+        transform: translateX(0) rotate(-10deg);
+      }
+
+      /* Hold */
+      60% {
+        transform: translateX(0) rotate(-14deg);
+      }
+
+      /* Return behind body */
+      66% {
+        transform: translateX(7px) rotate(0deg);
+      }
+
+      100% {
+        transform: translateX(7px) rotate(0deg);
+      }
+    }
+
+
+    /* =========================================================
+       RIGHT HAND
+       ========================================================= */
+
+    .right-hand {
+      transform-box: fill-box;
+      transform-origin: 145px 118px;
+
+      animation: rightHand 8s ease-in-out infinite;
+    }
+
+    @keyframes rightHand {
+
+      /* Hidden behind body */
+      0%, 25% {
+        transform: translateX(-7px) rotate(0deg);
+      }
+
+      /* Slowly peeks out */
+      30% {
+        transform: translateX(-2px) rotate(8deg);
+      }
+
+      /* Raise slightly */
+      35% {
+        transform: translateX(0) rotate(14deg);
+      }
+
+      /* Tiny wave */
+      40% {
+        transform: translateX(2px) rotate(20deg);
+      }
+
+      45% {
+        transform: translateX(0) rotate(10deg);
+      }
+
+      50% {
+        transform: translateX(2px) rotate(20deg);
+      }
+
+      55% {
+        transform: translateX(0) rotate(10deg);
+      }
+
+      /* Hold */
+      60% {
+        transform: translateX(0) rotate(14deg);
+      }
+
+      /* Return behind body */
+      66% {
+        transform: translateX(-7px) rotate(0deg);
+      }
+
+      100% {
+        transform: translateX(-7px) rotate(0deg);
+      }
+    }
+
+
+    /* =========================================================
+       EYES
+       ========================================================= */
+
+    .eye {
+      animation: blink 4.5s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+
     @keyframes blink {
-      0%, 92%, 100% { transform: scaleY(1); }
-      95%           { transform: scaleY(0.1); }
+      0%, 92%, 100% {
+        transform: scaleY(1);
+      }
+
+      95% {
+        transform: scaleY(0.1);
+      }
     }
-    .antenna-light { animation: pulse 1.4s ease-in-out infinite; }
-    .chest-light { animation: pulse 1.4s ease-in-out infinite; animation-delay: .3s; }
-    @keyframes pulse {
-      0%, 100% { opacity: 0.35; }
-      50%      { opacity: 1; }
-    }
+
   </style>
 
-  <g class="bot">
-    <rect x="90" y="10" width="10" height="10" fill="#4C1D95"/>
-    <rect x="100" y="10" width="10" height="10" fill="#4C1D95"/>
-    <rect x="90" y="20" width="10" height="10" fill="#4C1D95"/>
-    <rect x="100" y="20" width="10" height="10" fill="#4C1D95"/>
-    <rect x="90" y="30" width="10" height="10" fill="#4C1D95"/>
-    <rect x="100" y="30" width="10" height="10" fill="#4C1D95"/>
-    <rect x="60" y="40" width="10" height="10" fill="#A78BFA"/>
-    <rect x="70" y="40" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="40" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="40" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="40" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="40" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="40" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="40" width="10" height="10" fill="#4C1D95"/>
-    <rect x="60" y="50" width="10" height="10" fill="#A78BFA"/>
-    <rect x="70" y="50" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="50" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="50" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="50" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="50" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="50" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="50" width="10" height="10" fill="#4C1D95"/>
-    <rect x="60" y="60" width="10" height="10" fill="#A78BFA"/>
-    <rect x="70" y="60" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="60" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="60" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="60" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="60" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="60" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="60" width="10" height="10" fill="#4C1D95"/>
-    <rect x="60" y="70" width="10" height="10" fill="#A78BFA"/>
-    <rect x="70" y="70" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="70" width="10" height="10" fill="#FFFFFF" class="eye"/>
-    <rect x="90" y="70" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="70" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="70" width="10" height="10" fill="#FFFFFF" class="eye"/>
-    <rect x="120" y="70" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="70" width="10" height="10" fill="#4C1D95"/>
-    <rect x="60" y="80" width="10" height="10" fill="#A78BFA"/>
-    <rect x="70" y="80" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="80" width="10" height="10" fill="#FFFFFF" class="eye"/>
-    <rect x="90" y="80" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="80" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="80" width="10" height="10" fill="#FFFFFF" class="eye"/>
-    <rect x="120" y="80" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="80" width="10" height="10" fill="#4C1D95"/>
-    <rect x="60" y="90" width="10" height="10" fill="#A78BFA"/>
-    <rect x="70" y="90" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="90" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="90" width="10" height="10" fill="#312E81"/>
-    <rect x="100" y="90" width="10" height="10" fill="#312E81"/>
-    <rect x="110" y="90" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="90" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="90" width="10" height="10" fill="#4C1D95"/>
-    <rect x="60" y="100" width="10" height="10" fill="#A78BFA"/>
-    <rect x="70" y="100" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="100" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="100" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="100" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="100" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="100" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="100" width="10" height="10" fill="#4C1D95"/>
-    <rect x="60" y="110" width="10" height="10" fill="#A78BFA"/>
-    <rect x="70" y="110" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="110" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="110" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="110" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="110" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="110" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="110" width="10" height="10" fill="#4C1D95"/>
-    <rect x="90" y="120" width="10" height="10" fill="#4C1D95"/>
-    <rect x="100" y="120" width="10" height="10" fill="#4C1D95"/>
-    <rect x="50" y="130" width="10" height="10" fill="#A78BFA"/>
-    <rect x="60" y="130" width="10" height="10" fill="#7C3AED"/>
-    <rect x="70" y="130" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="130" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="130" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="130" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="130" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="130" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="130" width="10" height="10" fill="#7C3AED"/>
-    <rect x="140" y="130" width="10" height="10" fill="#4C1D95"/>
-    <rect x="50" y="140" width="10" height="10" fill="#A78BFA"/>
-    <rect x="60" y="140" width="10" height="10" fill="#7C3AED"/>
-    <rect x="70" y="140" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="140" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="140" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="140" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="140" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="140" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="140" width="10" height="10" fill="#7C3AED"/>
-    <rect x="140" y="140" width="10" height="10" fill="#4C1D95"/>
-    <rect x="50" y="150" width="10" height="10" fill="#A78BFA"/>
-    <rect x="60" y="150" width="10" height="10" fill="#7C3AED"/>
-    <rect x="70" y="150" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="150" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="150" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="150" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="150" width="10" height="10" fill="#7C3AED"/>
-    <rect x="140" y="150" width="10" height="10" fill="#4C1D95"/>
-    <rect x="50" y="160" width="10" height="10" fill="#A78BFA"/>
-    <rect x="60" y="160" width="10" height="10" fill="#7C3AED"/>
-    <rect x="70" y="160" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="160" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="160" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="160" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="160" width="10" height="10" fill="#7C3AED"/>
-    <rect x="140" y="160" width="10" height="10" fill="#4C1D95"/>
-    <rect x="50" y="170" width="10" height="10" fill="#A78BFA"/>
-    <rect x="60" y="170" width="10" height="10" fill="#7C3AED"/>
-    <rect x="70" y="170" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="170" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="170" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="170" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="170" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="170" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="170" width="10" height="10" fill="#7C3AED"/>
-    <rect x="140" y="170" width="10" height="10" fill="#4C1D95"/>
-    <rect x="50" y="180" width="10" height="10" fill="#A78BFA"/>
-    <rect x="60" y="180" width="10" height="10" fill="#7C3AED"/>
-    <rect x="70" y="180" width="10" height="10" fill="#7C3AED"/>
-    <rect x="80" y="180" width="10" height="10" fill="#7C3AED"/>
-    <rect x="90" y="180" width="10" height="10" fill="#7C3AED"/>
-    <rect x="100" y="180" width="10" height="10" fill="#7C3AED"/>
-    <rect x="110" y="180" width="10" height="10" fill="#7C3AED"/>
-    <rect x="120" y="180" width="10" height="10" fill="#7C3AED"/>
-    <rect x="130" y="180" width="10" height="10" fill="#7C3AED"/>
-    <rect x="140" y="180" width="10" height="10" fill="#4C1D95"/>
-    <rect x="90" y="0" width="20" height="10" fill="#22D3EE" class="antenna-light"/>
-    <rect x="90" y="150" width="20" height="20" fill="#22D3EE" class="chest-light"/>
+
+  <!-- =========================================================
+       CHARACTER
+       ========================================================= -->
+
+  <g class="character">
+
+
+    <!-- =======================================================
+         HANDS
+         These are behind the body.
+         Only a small portion is visible at the sides.
+         ======================================================= -->
+
+    <g class="left-hand">
+
+      <!-- tiny arm -->
+      <rect x="45" y="115"
+            width="10" height="10"
+            fill="#7C3AED"/>
+
+      <!-- hand -->
+      <rect x="35" y="115"
+            width="10" height="10"
+            fill="#A78BFA"/>
+
+      <rect x="35" y="105"
+            width="10" height="10"
+            fill="#A78BFA"/>
+
+    </g>
+
+
+    <g class="right-hand">
+
+      <!-- tiny arm -->
+      <rect x="145" y="115"
+            width="10" height="10"
+            fill="#7C3AED"/>
+
+      <!-- hand -->
+      <rect x="155" y="115"
+            width="10" height="10"
+            fill="#A78BFA"/>
+
+      <rect x="155" y="105"
+            width="10" height="10"
+            fill="#A78BFA"/>
+
+    </g>
+
+
+    <!-- =======================================================
+         ORIGINAL MASCOT BODY
+         ======================================================= -->
+
+    <g>
+
+      <!-- antenna -->
+
+      <rect x="90" y="10" width="10" height="10" fill="#4C1D95"/>
+      <rect x="100" y="10" width="10" height="10" fill="#4C1D95"/>
+
+      <rect x="90" y="20" width="10" height="10" fill="#4C1D95"/>
+      <rect x="100" y="20" width="10" height="10" fill="#4C1D95"/>
+
+      <rect x="90" y="30" width="10" height="10" fill="#4C1D95"/>
+      <rect x="100" y="30" width="10" height="10" fill="#4C1D95"/>
+
+
+      <!-- head -->
+
+      <rect x="60" y="40" width="10" height="10" fill="#A78BFA"/>
+      <rect x="70" y="40" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="40" width="10" height="10" fill="#7C3AED"/>
+      <rect x="90" y="40" width="10" height="10" fill="#7C3AED"/>
+      <rect x="100" y="40" width="10" height="10" fill="#7C3AED"/>
+      <rect x="110" y="40" width="10" height="10" fill="#7C3AED"/>
+      <rect x="120" y="40" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="40" width="10" height="10" fill="#4C1D95"/>
+
+      <rect x="60" y="50" width="10" height="10" fill="#A78BFA"/>
+      <rect x="70" y="50" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="50" width="10" height="10" fill="#7C3AED"/>
+      <rect x="90" y="50" width="10" height="10" fill="#7C3AED"/>
+      <rect x="100" y="50" width="10" height="10" fill="#7C3AED"/>
+      <rect x="110" y="50" width="10" height="10" fill="#7C3AED"/>
+      <rect x="120" y="50" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="50" width="10" height="10" fill="#4C1D95"/>
+
+      <rect x="60" y="60" width="10" height="10" fill="#A78BFA"/>
+      <rect x="70" y="60" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="60" width="10" height="10" fill="#7C3AED"/>
+      <rect x="90" y="60" width="10" height="10" fill="#7C3AED"/>
+      <rect x="100" y="60" width="10" height="10" fill="#7C3AED"/>
+      <rect x="110" y="60" width="10" height="10" fill="#7C3AED"/>
+      <rect x="120" y="60" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="60" width="10" height="10" fill="#4C1D95"/>
+
+
+      <!-- eyes -->
+
+      <rect x="60" y="70" width="10" height="10" fill="#A78BFA"/>
+      <rect x="70" y="70" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="70" width="10" height="10"
+            fill="#FFFFFF" class="eye"/>
+      <rect x="90" y="70" width="10" height="10" fill="#7C3AED"/>
+      <rect x="100" y="70" width="10" height="10" fill="#7C3AED"/>
+      <rect x="110" y="70" width="10" height="10"
+            fill="#FFFFFF" class="eye"/>
+      <rect x="120" y="70" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="70" width="10" height="10" fill="#4C1D95"/>
+
+      <rect x="60" y="80" width="10" height="10" fill="#A78BFA"/>
+      <rect x="70" y="80" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="80" width="10" height="10"
+            fill="#FFFFFF" class="eye"/>
+      <rect x="90" y="80" width="10" height="10" fill="#7C3AED"/>
+      <rect x="100" y="80" width="10" height="10" fill="#7C3AED"/>
+      <rect x="110" y="80" width="10" height="10"
+            fill="#FFFFFF" class="eye"/>
+      <rect x="120" y="80" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="80" width="10" height="10" fill="#4C1D95"/>
+
+
+      <!-- face -->
+
+      <rect x="60" y="90" width="10" height="10" fill="#A78BFA"/>
+      <rect x="70" y="90" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="90" width="10" height="10" fill="#7C3AED"/>
+      <rect x="90" y="90" width="10" height="10" fill="#312E81"/>
+      <rect x="100" y="90" width="10" height="10" fill="#312E81"/>
+      <rect x="110" y="90" width="10" height="10" fill="#7C3AED"/>
+      <rect x="120" y="90" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="90" width="10" height="10" fill="#4C1D95"/>
+
+      <rect x="60" y="100" width="10" height="10" fill="#A78BFA"/>
+      <rect x="70" y="100" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="100" width="10" height="10" fill="#7C3AED"/>
+      <rect x="90" y="100" width="10" height="10" fill="#7C3AED"/>
+      <rect x="100" y="100" width="10" height="10" fill="#7C3AED"/>
+      <rect x="110" y="100" width="10" height="10" fill="#7C3AED"/>
+      <rect x="120" y="100" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="100" width="10" height="10" fill="#4C1D95"/>
+
+
+      <!-- body -->
+
+      <rect x="60" y="110" width="10" height="10" fill="#A78BFA"/>
+      <rect x="70" y="110" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="110" width="10" height="10" fill="#7C3AED"/>
+      <rect x="90" y="110" width="10" height="10" fill="#7C3AED"/>
+      <rect x="100" y="110" width="10" height="10" fill="#7C3AED"/>
+      <rect x="110" y="110" width="10" height="10" fill="#7C3AED"/>
+      <rect x="120" y="110" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="110" width="10" height="10" fill="#4C1D95"/>
+
+      <rect x="90" y="120" width="10" height="10" fill="#4C1D95"/>
+      <rect x="100" y="120" width="10" height="10" fill="#4C1D95"/>
+
+
+      <!-- legs -->
+
+      <rect x="50" y="130" width="10" height="10" fill="#A78BFA"/>
+      <rect x="60" y="130" width="10" height="10" fill="#7C3AED"/>
+      <rect x="70" y="130" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="130" width="10" height="10" fill="#7C3AED"/>
+      <rect x="90" y="130" width="10" height="10" fill="#7C3AED"/>
+      <rect x="100" y="130" width="10" height="10" fill="#7C3AED"/>
+      <rect x="110" y="130" width="10" height="10" fill="#7C3AED"/>
+      <rect x="120" y="130" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="130" width="10" height="10" fill="#7C3AED"/>
+      <rect x="140" y="130" width="10" height="10" fill="#4C1D95"/>
+
+      <rect x="50" y="140" width="10" height="10" fill="#A78BFA"/>
+      <rect x="60" y="140" width="10" height="10" fill="#7C3AED"/>
+      <rect x="70" y="140" width="10" height="10" fill="#7C3AED"/>
+      <rect x="80" y="140" width="10" height="10" fill="#7C3AED"/>
+      <rect x="90" y="140" width="10" height="10" fill="#7C3AED"/>
+      <rect x="100" y="140" width="10" height="10" fill="#7C3AED"/>
+      <rect x="110" y="140" width="10" height="10" fill="#7C3AED"/>
+      <rect x="120" y="140" width="10" height="10" fill="#7C3AED"/>
+      <rect x="130" y="140" width="10" height="10" fill="#7C3AED"/>
+      <rect x="140" y="140" width="10" height="10" fill="#4C1D95"/>
+
+    </g>
+
   </g>
+
 </svg>
