@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- HERO BANNER IN RECTANGULAR FRAME -->
-<div style="border: 2px solid #3B3E52; border-radius: 8px; overflow: hidden; background-color: #08080C; padding: 2px;">
-  <img width="100%" src="./assets/Banner of Vsad.png" alt="VSAD Main Banner" />
-</div>
-
-<br><br>
-
 <!-- ROTATING TYPING HEADLINES -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=VORTEX+SYSTEMS+AND+DEFENSES+%3A%3A+DEFENSE+%26+AEROSPACE;AUTONOMOUS+SWARMS+%C2%B7+HYPERSONICS+%C2%B7+NEURAL+AGENTS;BUILD+IN+SILENCE.+LET+THE+EMPIRE+SPEAK." alt="VSAD Tactical Headlines" />
 
@@ -75,11 +68,11 @@
 
 <br>
 
-<!-- FIXED TELEMETRY MARQUEE -->
+<!-- FIXED TELEMETRY MARQUEE (NO MORE BROKEN TAGS, USING CORRECT RAW TEXT ESCAPING) -->
 <details open>
   <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">📡 ACTIVE SPEARHEAD TERMINAL RADAR SCREEN</summary>
   <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 12px; margin-top: 10px; border-radius: 6px; overflow-x: auto;">
-    <marquee direction="up" scrollamount="1" height="180" style="background-color: #08080C; font-family: 'Fira Code', monospace; font-size: 0.85em; line-height: 1.4; color: #8B5CF6; border-left: 3px solid #EF4444; padding-left: 15px; white-space: pre;">
+    <marquee direction="up" scrollamount="1" height="200" style="background-color: #08080C; font-family: 'Fira Code', monospace; font-size: 0.85em; line-height: 1.4; color: #8B5CF6; border-left: 3px solid #EF4444; padding-left: 15px; white-space: pre;">
 =============================================================
          _    __ ____   _    ____    _               ____  ____
         | |  / // ___| / \  |  _ \  | |    _   _    |  _ \|  _ \
@@ -195,14 +188,6 @@
 
 <!-- STRATEGIC ORDER OF BATTLE (14 DIVISIONS) -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚔️ STRATEGIC ORDER OF BATTLE</h2>
-
-<!-- DIVISION BANNER IN RECTANGULAR FRAME -->
-<div align="center">
-  <div style="border: 2px solid #3B3E52; border-radius: 8px; overflow: hidden; background-color: #08080C; padding: 2px;">
-    <img src="./assets/VSAD Arsenal.png" width="100%" alt="VSAD Arsenal" />
-  </div>
-  <br><br>
-</div>
 
 <table width="100%" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse; font-family: 'Fira Code', monospace; font-size: 0.95em;">
   <thead>
@@ -433,7 +418,7 @@
 
 <!-- PROPER OFFICIAL ZED EDITOR ICON -->
 <a href="https://zed.dev/">
-  <img src="https://raw.githubusercontent.com/zed-industries/zed/main/assets/icons/zed-editor-icon.png" width="96" height="96" style="border-radius: 12px; border: 1px solid #3B3E52;" alt="Zed Editor Proper Logo" />
+  <img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" width="96" height="96" style="border-radius: 12px; border: 1px solid #3B3E52;" alt="Zed Editor Proper Logo" />
 </a>
 
 <br><br>
