@@ -15,15 +15,15 @@
         transform: perspective(800px) rotateY(0deg) scale(0.95);
       }
       50% {
-        transform: perspective(800px) rotateY(15deg) scale(1);
+        transform: perspective(800px) rotateY(10deg) scale(1);
       }
       100% {
         transform: perspective(800px) rotateY(0deg) scale(0.95);
       }
     }
-    .ascii-text {
-      font-family: 'Fira Code', monospace;
-      font-size: 13px;
+    .ascii {
+      font-family: "Cascadia Mono", "Fira Code", "Courier New", monospace;
+      font-size: 11px;
       font-weight: bold;
       animation: pulse-glow 4s infinite ease-in-out;
     }
@@ -31,22 +31,24 @@
       transform-origin: center;
       animation: transform-3d 6s infinite ease-in-out;
     }
-    .terminal-sub {
-      font-family: 'Fira Code', monospace;
-      font-size: 11px;
-      fill: #E2E8F0;
-      letter-spacing: 2px;
-    }
   </style>
 
-  <!-- 3D Animated ASCII Group with no background or extra borders -->
+  <!-- 3D Animated ASCII Group with separate X coords to completely prevent spacing collapse -->
   <g class="container-3d">
-    <text x="140" y="20" class="ascii-text" xml:space="preserve"> __     ______   _    ____    _        _    ____  ____  </text>
-    <text x="140" y="38" class="ascii-text" xml:space="preserve"> \ \   / / ___| / \  |  _ \  | |      / \  | __ )/ ___| </text>
-    <text x="140" y="56" class="ascii-text" xml:space="preserve">  \ \ / /\___ \/ _ \ | | | | | |     / _ \ |  _ \___ \  </text>
-    <text x="140" y="74" class="ascii-text" xml:space="preserve">   \ V /  ___) / ___ \| |_| | | |___/ ___ \| |_) |__) | </text>
-    <text x="140" y="92" class="ascii-text" xml:space="preserve">    \_/  |____/_/   \_\____/  |_____/_/   \_\____/____/ </text>
-  </g>
+    <!-- LEFT WORD: VSAD -->
+    <text x="130" y="35" class="ascii" xml:space="preserve">██╗   ██╗███████╗ █████╗ ██████╗</text>
+    <text x="130" y="55" class="ascii" xml:space="preserve">██║   ██║██╔════╝██╔══██╗██╔══██╗</text>
+    <text x="130" y="75" class="ascii" xml:space="preserve">██║   ██║███████╗███████║██║  ██║</text>
+    <text x="130" y="95" class="ascii" xml:space="preserve">╚██╗ ██╔╝╚════██║██╔══██║██║  ██║</text>
+    <text x="130" y="115" class="ascii" xml:space="preserve"> ╚████╔╝ ███████║██║  ██║██████╔╝</text>
+    <text x="130" y="135" class="ascii" xml:space="preserve">  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝</text>
 
-  <text x="400" y="125" text-anchor="middle" class="terminal-sub" font-weight="bold">⚡ WELCOME TO VSAD LABS COMMAND TERMINAL ⚡</text>
+    <!-- RIGHT WORD: LABS -->
+    <text x="460" y="35" class="ascii" xml:space="preserve">██╗      █████╗ ██████╗ ███████╗</text>
+    <text x="460" y="55" class="ascii" xml:space="preserve">██║     ██╔══██╗██╔══██╗██╔════╝</text>
+    <text x="460" y="75" class="ascii" xml:space="preserve">██║     ███████║██████╔╝███████╗</text>
+    <text x="460" y="95" class="ascii" xml:space="preserve">██║     ██╔══██║██╔══██╗╚════██║</text>
+    <text x="460" y="115" class="ascii" xml:space="preserve">███████╗██║  ██║██████╔╝███████║</text>
+    <text x="460" y="135" class="ascii" xml:space="preserve">╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝</text>
+  </g>
 </svg>

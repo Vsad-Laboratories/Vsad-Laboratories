@@ -73,24 +73,41 @@
   <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">📡 ACTIVE SPEARHEAD TERMINAL RADAR SCREEN</summary>
   <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 12px; margin-top: 10px; border-radius: 6px; overflow-x: auto;">
     <marquee direction="up" scrollamount="1" height="200" style="background-color: #08080C; font-family: 'Fira Code', monospace; font-size: 0.85em; line-height: 1.4; color: #8B5CF6; border-left: 3px solid #EF4444; padding-left: 15px; white-space: pre;">
-=============================================================
-         _    __ ____   _    ____    _               ____  ____
-        | |  / // ___| / \  |  _ \  | |    _   _    |  _ \|  _ \
-        | | / / \___ \/ _ \ | | | | | |   / \_/ \   | |_) | |_) |
-        | |/ /   ___) / ___ \| |_| | | |__|  _  /   |  _ &lt; |  _ &lt;
-        |___/   |____/_/   \_\____/  |____|_| |_|   |_| \_\_| \_\
-=============================================================
-[SYS] SCANNING SECTOR 0xAF [AIR FLEETS] -> STABLE
-[SYS] ROTOR BEARING CORRECTION: OPTIMAL
-[SYS] COMPILER PIPELINE SLOTER PARSING: OK (0.003s)
-[SYS] ORBIT AI SWARM SYNCING -> HEARTBEAT MATCHED
-[SYS] CRYPTO PORTFOLIO YIELD REBALANCING: ACTIVE
-[SYS] CYBER DEFENSE LAYER CSLS STATUS: THREAT SHIELD ACTIVE
-[SYS] DETECTING ADVERSARIAL SWARM VECTORS... NONE FOUND.
-[SYS] SATELLITE SS [SKY SPIRITS] TELEMETRY STABLE (0.04ms)
-[SYS] MISSION COMMAND CLEARANCE STATUS: VERIFIED - LEVEL 5
-[SYS] EXECUTING DOMINATION PROTOCOL 2026-2035...
-=============================================================
+================================================================================
+
+    ██████╗  █████╗  ██████╗  █████╗  ██████╗
+    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+    ██████╔╝███████║██║  ██║███████║██████╔╝
+    ██╔══██╗██╔══██║██║  ██║██╔══██║██╔══██╗
+    ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║
+    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+
+================================================================================
+
+  [SYS.INIT]   :: SCANNING SECTOR 0xAF...
+               ├─ AIR FLEETS ..................... [ STABLE ]
+               └─ ROTOR BEARING CORRECTION ....... [ OPTIMAL ]
+
+  [SYS.COMP]   :: COMPILER PIPELINE SLOTER
+               └─ PARSING STATUS ................. [ OK ] (0.003s)
+
+  [SYS.NET]    :: ORBIT AI SWARM SYNC
+               └─ HEARTBEAT ...................... [ MATCHED ]
+
+  [SYS.FIN]    :: CRYPTO PORTFOLIO YIELD
+               └─ REBALANCING .................... [ ACTIVE ]
+
+  [SYS.SEC]    :: CYBER DEFENSE LAYER CSLS
+               ├─ THREAT SHIELD .................. [ ACTIVE ]
+               └─ ADVERSARIAL SWARM VECTORS ...... [ NONE DETECTED ]
+
+  [SYS.SAT]    :: SATELLITE SS [SKY SPIRITS]
+               └─ TELEMETRY ...................... [ STABLE ] (0.04ms)
+
+--------------------------------------------------------------------------------
+  [CLEARANCE]  :: ACCESS LEVEL 5 ................. [ VERIFIED ]
+  [EXECUTION]  :: DOMINATION PROTOCOL ............ [ 2026–2035 INITIATED ]
+================================================================================
     </marquee>
   </div>
 </details>
@@ -109,69 +126,6 @@
     <br><br>
     <p style="margin: 5px 0;"><strong>CYBER SYSTEMS DECOY ROUTING SHIELD:</strong></p>
     <code>██████████████████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒ [ 70% ]</code>
-  </div>
-</details>
-
-<br>
-
-<!-- HOTTEST README COMPONENT: SYSTEM SOURCE CODE SNIPPET -->
-<details open>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">⚙️ CORE LOGIC // SLOTER REVOLUTION COMPILER BACKEND</summary>
-  <div style="margin-top: 10px;">
-    <pre><code class="language-rust">// Sloter Aerospace Core - Swarm Node Calibration
-fn calibrate_swarm_propulsion(node_id: u32, nozzle_temp: f32) -> Result&lt;Status, Error&gt; {
-    let target_pressure = 42.85; // MPa
-    let nozzle = MPMS::get_nozzle_valve(node_id)?;
-
-    if nozzle_temp &gt; 3150.0 {
-        return Err(Error::ThermalOverrun);
-    }
-
-    nozzle.adjust_vortex_actuator(target_pressure)?;
-    Ok(Status::Optimal)
-}</code></pre>
-  </div>
-</details>
-
-<br>
-
-<!-- HOTTEST README COMPONENT: KEYBOARD HOTKEYS -->
-<details>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">⌨️ TACTICAL TERMINAL HOTKEYS</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9em; color: #E2E8F0;">
-    <table width="100%" style="border-collapse: collapse;">
-      <tr style="border-bottom: 1px solid #1F222E;">
-        <th width="30%" align="left" style="padding: 8px 0; color: #EF4444; font-weight: bold;">KEYBIND</th>
-        <th align="left" style="padding: 8px 0; color: #8B5CF6; font-weight: bold;">ACTION / COMMAND OVERRIDE</th>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E;">
-        <td style="padding: 8px 0;"><code>Ctrl + Shift + S</code></td>
-        <td style="padding: 8px 0;">Initiate Swarm Telemetry Override Sync</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E;">
-        <td style="padding: 8px 0;"><code>Ctrl + Shift + D</code></td>
-        <td style="padding: 8px 0;">Toggle Net Defense Decoy Router Shield</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 0;"><code>Ctrl + Shift + C</code></td>
-        <td style="padding: 8px 0;">Compile Sloter Language AST Parse Trees</td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<br>
-
-<!-- HOTTEST README COMPONENT: SYSTEM READINESS CHECKLIST -->
-<details>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🚀 SYSTEM STATUS &amp; READINESS REPORT</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.95em; color: #E2E8F0;">
-    <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 1.8;">
-      <li>🟢 <strong>[ORBIT SWARMS]</strong>: 1024 nodes connected, consensus achieved.</li>
-      <li>🟢 <strong>[SLOTER COMPILER]</strong>: Low-level compiler and parser validated.</li>
-      <li>🟢 <strong>[CSLs SECURITY]</strong>: Layered firewalls fully deployed, no threats.</li>
-      <li>🟢 <strong>[PROPELLANT CORES]</strong>: Combustion chamber pressure within tolerances.</li>
-    </ul>
   </div>
 </details>
 
@@ -540,37 +494,126 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 <br>
 
 <!-- TELEMETRY & ANALYTICS -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS</h2>
+
+<h2 align="left">
+  📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS
+</h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+
+  <!-- =========================
+       GITHUB STATS
+       ========================= -->
+
+  <table>
     <tr>
-      <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0" height="165" alt="GitHub Stats" />
+      <td align="center" width="50%">
+
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0"
+          width="100%"
+          alt="VSAD Laboratories GitHub Statistics"
+        />
+
       </td>
-      <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0" height="165" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://streak-stats.demolab.com?user=Vsad-Laboratories&theme=dark&hide_border=true&background=08080C&ring=8B5CF6&fire=EF4444&currStreakNum=E2E8F0" height="165" alt="Streak Stats" />
-      </td>
-      <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&margin-w=8&margin-h=8&row=1" height="165" alt="GitHub Trophies" />
+
+      <td align="center" width="50%">
+
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0"
+          width="100%"
+          alt="VSAD Laboratories Most Used Languages"
+        />
+
       </td>
     </tr>
   </table>
+
+
+  <br>
+
+
+  <!-- =========================
+       ACTIVITY
+       ========================= -->
+
+  <table>
+    <tr>
+
+      <td align="center" width="50%">
+
+        <img
+          src="https://streak-stats.demolab.com/?user=Vsad-Laboratories&theme=dark&hide_border=true&background=08080C&ring=8B5CF6&fire=EF4444&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=8B5CF6&sideLabels=E2E8F0&dates=64748B"
+          width="100%"
+          alt="VSAD Laboratories GitHub Streak"
+        />
+
+      </td>
+
+      <td align="center" width="50%">
+
+        <img
+          src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&no-bg=true&column=4&row=1&margin-w=8&margin-h=8"
+          width="100%"
+          alt="VSAD Laboratories GitHub Trophies"
+        />
+
+      </td>
+
+    </tr>
+  </table>
+
+
   <br><br>
-  <p style="font-family: 'Fira Code', monospace; color: #8B5CF6; margin-bottom: 10px;"><strong>👾 CONTRIBUTION GRID PACMAN SWARM</strong></p>
+
+
+  <!-- =========================
+       CONTRIBUTION ANIMATIONS
+       ========================= -->
+
+  <p>
+    <strong>CONTRIBUTION ACTIVITY</strong>
+  </p>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
+      width="100%"
+      alt="VSAD Laboratories Pac-Man contribution graph"
+    />
   </picture>
+
+
   <br><br>
-  <p style="font-family: 'Fira Code', monospace; color: #8B5CF6; margin-bottom: 10px;"><strong>🐍 TACTICAL CONTRIBUTION SNAKE PROTOCOL</strong></p>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg" />
+
+
+  <p>
+    <strong>CONTRIBUTION SNAKE</strong>
+  </p>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake-dark.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg"
+      width="100%"
+      alt="VSAD Laboratories contribution snake"
+    />
+  </picture>
+
 </div>
 
 <br>
