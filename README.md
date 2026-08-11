@@ -494,37 +494,126 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 <br>
 
 <!-- TELEMETRY & ANALYTICS -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS</h2>
+
+<h2 align="left">
+  📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS
+</h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+
+  <!-- =========================
+       GITHUB STATS
+       ========================= -->
+
+  <table>
     <tr>
-      <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0" height="165" alt="GitHub Stats" />
+      <td align="center" width="50%">
+
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0"
+          width="100%"
+          alt="VSAD Laboratories GitHub Statistics"
+        />
+
       </td>
-      <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0" height="165" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://streak-stats.demolab.com?user=Vsad-Laboratories&theme=dark&hide_border=true&background=08080C&ring=8B5CF6&fire=EF4444&currStreakNum=E2E8F0" height="165" alt="Streak Stats" />
-      </td>
-      <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&margin-w=8&margin-h=8&row=1" height="165" alt="GitHub Trophies" />
+
+      <td align="center" width="50%">
+
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0"
+          width="100%"
+          alt="VSAD Laboratories Most Used Languages"
+        />
+
       </td>
     </tr>
   </table>
+
+
+  <br>
+
+
+  <!-- =========================
+       ACTIVITY
+       ========================= -->
+
+  <table>
+    <tr>
+
+      <td align="center" width="50%">
+
+        <img
+          src="https://streak-stats.demolab.com/?user=Vsad-Laboratories&theme=dark&hide_border=true&background=08080C&ring=8B5CF6&fire=EF4444&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=8B5CF6&sideLabels=E2E8F0&dates=64748B"
+          width="100%"
+          alt="VSAD Laboratories GitHub Streak"
+        />
+
+      </td>
+
+      <td align="center" width="50%">
+
+        <img
+          src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&no-bg=true&column=4&row=1&margin-w=8&margin-h=8"
+          width="100%"
+          alt="VSAD Laboratories GitHub Trophies"
+        />
+
+      </td>
+
+    </tr>
+  </table>
+
+
   <br><br>
-  <p style="font-family: 'Fira Code', monospace; color: #8B5CF6; margin-bottom: 10px;"><strong>👾 CONTRIBUTION GRID PACMAN SWARM</strong></p>
+
+
+  <!-- =========================
+       CONTRIBUTION ANIMATIONS
+       ========================= -->
+
+  <p>
+    <strong>CONTRIBUTION ACTIVITY</strong>
+  </p>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
+      width="100%"
+      alt="VSAD Laboratories Pac-Man contribution graph"
+    />
   </picture>
+
+
   <br><br>
-  <p style="font-family: 'Fira Code', monospace; color: #8B5CF6; margin-bottom: 10px;"><strong>🐍 TACTICAL CONTRIBUTION SNAKE PROTOCOL</strong></p>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg" />
+
+
+  <p>
+    <strong>CONTRIBUTION SNAKE</strong>
+  </p>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake-dark.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg"
+      width="100%"
+      alt="VSAD Laboratories contribution snake"
+    />
+  </picture>
+
 </div>
 
 <br>
