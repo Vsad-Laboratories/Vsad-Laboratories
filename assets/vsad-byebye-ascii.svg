@@ -1,0 +1,56 @@
+<svg width="800" height="240" viewBox="0 0 800 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes pulse-glow-red {
+      0%, 100% {
+        fill: #EF4444;
+        filter: drop-shadow(0 0 4px #EF4444) drop-shadow(0 0 12px #EF4444);
+      }
+      50% {
+        fill: #3B3E52;
+        filter: drop-shadow(0 0 1px #3B3E52);
+      }
+    }
+    @keyframes terminal-blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .ascii-text-red {
+      font-family: 'Fira Code', monospace;
+      font-size: 13px;
+      font-weight: bold;
+      animation: pulse-glow-red 3s infinite ease-in-out;
+    }
+    .blink-dot {
+      animation: terminal-blink 1s infinite steps(1);
+    }
+  </style>
+
+  <rect width="800" height="240" rx="12" fill="#08080C" stroke="#3B3E52" stroke-width="2"/>
+
+  <!-- Terminal Grid Backdrop -->
+  <path d="M 0,40 L 800,40 M 0,80 L 800,80 M 0,120 L 800,120 M 0,160 L 800,160 M 0,200 L 800,200" stroke="#1A1B26" stroke-width="1"/>
+  <path d="M 100,0 L 100,240 M 200,0 L 200,240 M 300,0 L 300,240 M 400,0 L 400,240 M 500,0 L 500,240 M 600,0 L 600,240 M 700,0 L 700,240" stroke="#1A1B26" stroke-width="1"/>
+
+  <!-- Terminal Head -->
+  <rect x="25" y="15" width="10" height="10" fill="#EF4444" />
+  <text x="45" y="24" font-family="'Fira Code', monospace" font-size="10" fill="#EF4444" font-weight="bold">[CONNECTION DISCONNECTED // SESSION TERMINATED]</text>
+
+  <!-- Big ASCII BYE BYE -->
+  <g>
+    <text x="180" y="60" class="ascii-text-red" xml:space="preserve">  ____  _   _ _____   ____  _   _ _____ </text>
+    <text x="180" y="78" class="ascii-text-red" xml:space="preserve"> | __ )| \ | | ____| | __ )| \ | | ____|</text>
+    <text x="180" y="96" class="ascii-text-red" xml:space="preserve"> |  _ \|  \| |  _|   |  _ \|  \| |  _|  </text>
+    <text x="180" y="114" class="ascii-text-red" xml:space="preserve"> | |_) | |\  | |___  | |_) | |\  | |___ </text>
+    <text x="180" y="132" class="ascii-text-red" xml:space="preserve"> |____/|_| \_|_____| |____/|_| \_|_____|</text>
+  </g>
+
+  <!-- Terminal Logs -->
+  <text x="400" y="175" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#E2E8F0" font-weight="bold">🔐 VSAD SECURE MATRIX TERMINATION COMPLETED</text>
+  <text x="400" y="195" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" fill="#EF4444">BUILD IN SILENCE. LET THE EMPIRE SPEAK. <tspan class="blink-dot" fill="#EF4444">█</tspan></text>
+
+  <!-- Corner Accents -->
+  <path d="M 10 10 L 30 10 M 10 10 L 10 30" stroke="#EF4444" stroke-width="3" fill="none"/>
+  <path d="M 790 10 L 770 10 M 790 10 L 790 30" stroke="#EF4444" stroke-width="3" fill="none"/>
+  <path d="M 10 230 L 30 230 M 10 230 L 10 210" stroke="#EF4444" stroke-width="3" fill="none"/>
+  <path d="M 790 230 L 770 230 M 790 230 L 790 210" stroke="#EF4444" stroke-width="3" fill="none"/>
+</svg>

@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="./assets/Banner of Vsad.png" alt="VSAD Main Banner" />
+<!-- HERO BANNER IN RECTANGULAR FRAME -->
+<div style="border: 2px solid #3B3E52; border-radius: 8px; overflow: hidden; background-color: #08080C; padding: 2px;">
+  <img width="100%" src="./assets/Banner of Vsad.png" alt="VSAD Main Banner" />
+</div>
 
 <br><br>
 
@@ -10,8 +12,15 @@
 
 <br><br>
 
-<!-- OFFICIAL BRAND LOGO -->
-<img src="./assets/Vsad Only Logo Resized.png" width="160" alt="VSAD Spearhead Mark" />
+<!-- 3D ROTATING ASCII WELCOME SVG BANNER -->
+<img src="./assets/vsad-3d-ascii.svg" width="100%" alt="VSAD Labs 3D ASCII Welcome Banner" />
+
+<br><br>
+
+<!-- OFFICIAL BRAND LOGO IN CIRCULAR FRAME -->
+<div style="display: inline-block; border: 3px solid #8B5CF6; border-radius: 50%; padding: 4px; background: #08080C; box-shadow: 0 0 15px rgba(139, 92, 246, 0.4);">
+  <img src="./assets/Vsad Only Logo Resized.png" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="VSAD Spearhead Mark" />
+</div>
 
 <br><br>
 
@@ -66,16 +75,16 @@
 
 <br>
 
-<!-- ANIMATED ASCII CHARACTER TELEMETRY -->
+<!-- FIXED TELEMETRY MARQUEE -->
 <details open>
   <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">📡 ACTIVE SPEARHEAD TERMINAL RADAR SCREEN</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 12px; margin-top: 10px; border-radius: 6px; overflow: hidden;">
-    <marquee direction="up" scrollamount="1" height="160" style="background-color: #08080C; font-family: 'Fira Code', monospace; font-size: 0.8em; line-height: 1.3; color: #8B5CF6; border-left: 3px solid #EF4444; padding-left: 15px;">
+  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 12px; margin-top: 10px; border-radius: 6px; overflow-x: auto;">
+    <marquee direction="up" scrollamount="1" height="180" style="background-color: #08080C; font-family: 'Fira Code', monospace; font-size: 0.85em; line-height: 1.4; color: #8B5CF6; border-left: 3px solid #EF4444; padding-left: 15px; white-space: pre;">
 =============================================================
          _    __ ____   _    ____    _               ____  ____
         | |  / // ___| / \  |  _ \  | |    _   _    |  _ \|  _ \
         | | / / \___ \/ _ \ | | | | | |   / \_/ \   | |_) | |_) |
-        | |/ /   ___) / ___ \| |_| | | |__|  _  /   |  _ <|  _ <
+        | |/ /   ___) / ___ \| |_| | | |__|  _  /   |  _ &lt;|  _ &lt;
         |___/   |____/_/   \_\____/  |____|_| |_|   |_| \_\_| \_\
 =============================================================
 [SYS] SCANNING SECTOR 0xAF [AIR FLEETS] -> STABLE
@@ -90,6 +99,48 @@
 [SYS] EXECUTING DOMINATION PROTOCOL 2026-2035...
 =============================================================
     </marquee>
+  </div>
+</details>
+
+<br>
+
+<!-- HOTTEST README COMPONENT: KEYBOARD HOTKEYS -->
+<details>
+  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">⌨️ TACTICAL TERMINAL HOTKEYS</summary>
+  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9em; color: #E2E8F0;">
+    <table width="100%" style="border-collapse: collapse;">
+      <tr style="border-bottom: 1px solid #1F222E;">
+        <th width="30%" align="left" style="padding: 8px 0; color: #EF4444; font-weight: bold;">KEYBIND</th>
+        <th align="left" style="padding: 8px 0; color: #8B5CF6; font-weight: bold;">ACTION / COMMAND OVERRIDE</th>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E;">
+        <td style="padding: 8px 0;"><code>Ctrl + Shift + S</code></td>
+        <td style="padding: 8px 0;">Initiate Swarm Telemetry Override Sync</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E;">
+        <td style="padding: 8px 0;"><code>Ctrl + Shift + D</code></td>
+        <td style="padding: 8px 0;">Toggle Net Defense Decoy Router Shield</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 0;"><code>Ctrl + Shift + C</code></td>
+        <td style="padding: 8px 0;">Compile Sloter Language AST Parse Trees</td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<br>
+
+<!-- HOTTEST README COMPONENT: SYSTEM READINESS CHECKLIST -->
+<details>
+  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🚀 SYSTEM STATUS &amp; READINESS REPORT</summary>
+  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.95em; color: #E2E8F0;">
+    <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 1.8;">
+      <li>🟢 <strong>[ORBIT SWARMS]</strong>: 1024 nodes connected, consensus achieved.</li>
+      <li>🟢 <strong>[SLOTER COMPILER]</strong>: Low-level compiler and parser validated.</li>
+      <li>🟢 <strong>[CSLs SECURITY]</strong>: Layered firewalls fully deployed, no threats.</li>
+      <li>🟢 <strong>[PROPELLANT CORES]</strong>: Combustion chamber pressure within tolerances.</li>
+    </ul>
   </div>
 </details>
 
@@ -145,8 +196,11 @@
 <!-- STRATEGIC ORDER OF BATTLE (14 DIVISIONS) -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚔️ STRATEGIC ORDER OF BATTLE</h2>
 
+<!-- DIVISION BANNER IN RECTANGULAR FRAME -->
 <div align="center">
-  <img src="./assets/VSAD Arsenal.png" width="100%" alt="VSAD Arsenal" />
+  <div style="border: 2px solid #3B3E52; border-radius: 8px; overflow: hidden; background-color: #08080C; padding: 2px;">
+    <img src="./assets/VSAD Arsenal.png" width="100%" alt="VSAD Arsenal" />
+  </div>
   <br><br>
 </div>
 
@@ -244,69 +298,53 @@
 <br>
 
 <!-- RESEARCH & DEVELOPMENT FOCUS -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">🧪 RESEARCH AND DEVELOPMENT</h2>
-
-<table width="100%" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse; font-family: 'Fira Code', monospace; font-size: 0.95em;">
-  <thead>
-    <tr style="background-color: #0E0F17; border-bottom: 2px solid #3B3E52; color: #8B5CF6;">
-      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">RESEARCH TRACK</th>
-      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">FOCUS AREA</th>
-      <th align="center" style="padding: 10px;">STATUS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">🚀 Aerospace Propulsion & Hypersonics</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Solid propellant chemistry, nozzle design, high-speed aerodynamics research.</td>
-      <td align="center" style="padding: 10px; color: #8B5CF6; font-weight: bold;">🟢 Active</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">🤖 Robotics & Animatronics</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Autonomous robots, mechatronics, humanoid systems, hybrid actuation.</td>
-      <td align="center" style="padding: 10px; color: #8B5CF6; font-weight: bold;">🟢 Active</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">🔐 Cybersecurity</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Layered network defense frameworks, applied security research.</td>
-      <td align="center" style="padding: 10px; color: #8B5CF6; font-weight: bold;">🟢 Active</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">🧠 AI & Machine Learning</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Multi-agent systems, prompt engineering, LLM security, AI orchestration.</td>
-      <td align="center" style="padding: 10px; color: #8B5CF6; font-weight: bold;">🟢 Active</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">💼 Business & SaaS</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Revenue engineering, startup scaling, SaaS monetization.</td>
-      <td align="center" style="padding: 10px; color: #8B5CF6; font-weight: bold;">🟢 Active</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">💰 DeFi & Crypto</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Blockchain finance, DeFi protocols, yield strategies, Web3 infrastructure.</td>
-      <td align="center" style="padding: 10px; color: #8B5CF6; font-weight: bold;">🟢 Active</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">🔬 Nanotechnology</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">MEMS, micro-scale systems, materials engineering.</td>
-      <td align="center" style="padding: 10px; color: #EF4444; font-weight: bold;">🟡 R&D Phase</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">⚛️ Quantum Computing</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Post-quantum cryptography, quantum simulation, qubit technologies.</td>
-      <td align="center" style="padding: 10px; color: #EF4444; font-weight: bold;">🟡 Research</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">🧠 Strategy</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Competitive intelligence, OODA loop, game theory.</td>
-      <td align="center" style="padding: 10px; color: #8B5CF6; font-weight: bold;">🟢 Active</td>
-    </tr>
-    <tr style="color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">💻 Programming Languages</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Custom language design (Sloter), compiler engineering.</td>
-      <td align="center" style="padding: 10px; color: #8B5CF6; font-weight: bold;">🟢 Active</td>
-    </tr>
-  </tbody>
-</table>
+<details>
+  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; margin-top: 15px; outline: none; user-select: none;">🔬 DEEP R&amp;D SPECTRUM FOCUS</summary>
+  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px;">
+    <table width="100%" style="font-family: 'Fira Code', monospace; border-collapse: collapse; font-size: 0.9em;">
+      <tr style="border-bottom: 1px solid #3B3E52; color: #8B5CF6;">
+        <th align="left" style="padding-bottom: 8px;">RESEARCH SPECTRUM</th>
+        <th align="left" style="padding-bottom: 8px;">CORE INITIATIVES</th>
+        <th align="center" style="padding-bottom: 8px;">STATUS</th>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
+        <td style="padding: 8px 0; font-weight: bold;">Aerospace & Hypersonics</td>
+        <td style="padding: 8px 0;">Solid propellants, nozzle thermal dynamics, high-altitude aerodynamics.</td>
+        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
+        <td style="padding: 8px 0; font-weight: bold;">Robotics & Actuation</td>
+        <td style="padding: 8px 0;">Autonomous mechatronics, humanoid kinetic paths, hybrid actuation.</td>
+        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
+        <td style="padding: 8px 0; font-weight: bold;">Cyber Security Layers</td>
+        <td style="padding: 8px 0;">Post-quantum network defense, secure isolation kernels.</td>
+        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
+        <td style="padding: 8px 0; font-weight: bold;">Neural Architectures</td>
+        <td style="padding: 8px 0;">Swarm behavior models, multi-agent cognitive safety networks.</td>
+        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
+        <td style="padding: 8px 0; font-weight: bold;">Compiler & Languages</td>
+        <td style="padding: 8px 0;">Sloter custom parser and target-specific optimized code gen.</td>
+        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
+        <td style="padding: 8px 0; font-weight: bold;">Nanotechnology</td>
+        <td style="padding: 8px 0;">MEMS devices, microscopic signal arrays, material stress limits.</td>
+        <td align="center" style="padding: 8px 0;"><span style="color: #EF4444; font-weight: bold;">[ LAB_ONLY ]</span></td>
+      </tr>
+      <tr style="color: #E2E8F0;">
+        <td style="padding: 8px 0; font-weight: bold;">Quantum Cryptography</td>
+        <td style="padding: 8px 0;">Symmetric key quantum resilience, post-quantum transport channels.</td>
+        <td align="center" style="padding: 8px 0;"><span style="color: #EF4444; font-weight: bold;">[ STAGE_I ]</span></td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 <br>
 
@@ -375,27 +413,30 @@
       <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">PROVEX</td>
       <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Event Management SaaS</td>
       <td style="color: #E2E8F0; padding: 10px;">High-concurrency hackathon/competition scaling platform.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #EF4444; font-weight: bold;">🔒 FOR_SALE_M&A</span></td>
+      <td align="center" style="padding: 10px;"><span style="color: #EF4444; font-weight: bold;">🔒 FOR_SALE_M&amp;A</span></td>
     </tr>
   </tbody>
 </table>
 
 <br>
 
-<!-- PRIMARY DEVELOPMENT ENVIRONMENT -->
+<!-- PRIMARY DEVELOPMENT ENVIRONMENT (PROPER ZED LOGO) -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚡ PRIMARY DEVELOPMENT ENVIRONMENT</h2>
 
 <div align="center">
 
 <a href="https://zed.dev/">
-<img src="https://img.shields.io/badge/ZED-PRIMARY%20EDITOR-7C3AED?style=for-the-badge&logo=zed&logoColor=white&labelColor=4C1D95" alt="Zed Primary Editor" />
+  <img src="https://img.shields.io/badge/ZED-PRIMARY%20EDITOR-7C3AED?style=for-the-badge&logo=zed&logoColor=white&labelColor=4C1D95" alt="Zed Primary Editor" />
 </a>
 
 <br><br>
 
+<!-- PROPER OFFICIAL ZED EDITOR ICON -->
 <a href="https://zed.dev/">
-<img src="https://zed.dev/_next/static/media/zed-logo-light.8d5f5b2a.svg" width="72" alt="Zed Editor" />
+  <img src="https://raw.githubusercontent.com/zed-industries/zed/main/assets/icons/zed-editor-icon.png" width="96" height="96" style="border-radius: 12px; border: 1px solid #3B3E52;" alt="Zed Editor Proper Logo" />
 </a>
+
+<br><br>
 
 ### **Zed**
 
@@ -405,8 +446,8 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <br>
 
-[![Official Website](https://img.shields.io/badge/Official%20Website-zed.dev-7C3AED?style=flat-square\&logo=zed\&logoColor=white)](https://zed.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-zed--industries-181717?style=flat-square\&logo=github)](https://github.com/zed-industries/zed)
+[![Official Website](https://img.shields.io/badge/Official%20Website-zed.dev-7C3AED?style=flat-square&logo=zed&logoColor=white)](https://zed.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-zed--industries-181717?style=flat-square&logo=github)](https://github.com/zed-industries/zed)
 [![Editor](https://img.shields.io/badge/Role-Main%20Editor-A78BFA?style=flat-square)](https://zed.dev/)
 
 </div>
@@ -432,7 +473,7 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 <table width="100%" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse; font-family: 'Fira Code', monospace; font-size: 0.95em; color: #E2E8F0;">
   <tr style="background-color: #0E0F17; border-bottom: 1px solid #3B3E52;">
     <th width="25%" align="left" style="padding: 10px; color: #8B5CF6; border-right: 1px solid #3B3E52;">CATEGORY</th>
-    <th width="75%" align="left" style="padding: 10px;">INTEGRATED ENVIRONMENTS & TOOLSETS (DARK PRESENTS)</th>
+    <th width="75%" align="left" style="padding: 10px;">INTEGRATED ENVIRONMENTS &amp; TOOLSETS (DARK PRESENTS)</th>
   </tr>
   <tr style="border-bottom: 1px solid #1F222E;">
     <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">1. LANGUAGES</td>
@@ -447,31 +488,31 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
     </td>
   </tr>
   <tr style="border-bottom: 1px solid #1F222E;">
-    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">3. BACKEND & APIS</td>
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">3. BACKEND &amp; APIS</td>
     <td style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,dotnet&theme=dark" alt="Backend & APIs" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,dotnet&theme=dark" alt="Backend &amp; APIs" />
     </td>
   </tr>
   <tr style="border-bottom: 1px solid #1F222E;">
-    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">4. DATA & MSG</td>
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">4. DATA &amp; MSG</td>
     <td style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,graphql,kafka,elasticsearch&theme=dark" alt="Data & Messaging" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,graphql,kafka,elasticsearch&theme=dark" alt="Data &amp; Messaging" />
     </td>
   </tr>
   <tr style="border-bottom: 1px solid #1F222E;">
-    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">5. DEVOPS & CLOUD</td>
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">5. DEVOPS &amp; CLOUD</td>
     <td style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins,githubactions,nginx,prometheus,grafana,linux,bash&theme=dark" alt="DevOps & Cloud" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins,githubactions,nginx,prometheus,grafana,linux,bash&theme=dark" alt="DevOps &amp; Cloud" />
     </td>
   </tr>
   <tr style="border-bottom: 1px solid #1F222E;">
-    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">6. AI, ML & EMB</td>
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">6. AI, ML &amp; EMB</td>
     <td style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI, ML & Embedded" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI, ML &amp; Embedded" />
     </td>
   </tr>
   <tr style="border-bottom: 1px solid #1F222E;">
-    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">7. HARDWARE & LOW LEVEL</td>
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">7. HARDWARE &amp; LOW LEVEL</td>
     <td style="padding: 10px;">
       <img src="https://img.shields.io/badge/NVIDIA%20CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="CUDA" />
       <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
@@ -483,11 +524,11 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
   <tr style="border-bottom: 1px solid #1F222E;">
     <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">8. TOOLING</td>
     <td style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vim,notion,cmake&theme=dark" alt="Tooling & Workspace" />
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vim,notion,cmake&theme=dark" alt="Tooling &amp; Workspace" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">9. WEB3 & CRYPTO</td>
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">9. WEB3 &amp; CRYPTO</td>
     <td style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=solidity,ipfs&theme=dark" alt="Web3" />
     </td>
@@ -501,19 +542,19 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
   <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9em; color: #E2E8F0;">
     <table width="100%" style="border-collapse: collapse;">
       <tr style="border-bottom: 1px solid #1F222E;">
-        <td width="30%" style="padding: 8px 0; font-weight: bold; color: #EF4444;">PACKAGE & BUILD</td>
+        <td width="30%" style="padding: 8px 0; font-weight: bold; color: #EF4444;">PACKAGE &amp; BUILD</td>
         <td style="padding: 8px 0;"><code>pnpm</code> · <code>Vite</code> · <code>Webpack</code> · <code>Turborepo</code> · <code>esbuild</code> · <code>Cargo</code></td>
       </tr>
       <tr style="border-bottom: 1px solid #1F222E;">
-        <td style="padding: 8px 0; font-weight: bold; color: #EF4444;">TESTING & QUALITY</td>
+        <td style="padding: 8px 0; font-weight: bold; color: #EF4444;">TESTING &amp; QUALITY</td>
         <td style="padding: 8px 0;"><code>Jest</code> · <code>Vitest</code> · <code>Cypress</code> · <code>Selenium</code> · <code>ESLint</code> · <code>Prettier</code></td>
       </tr>
       <tr style="border-bottom: 1px solid #1F222E;">
-        <td style="padding: 8px 0; font-weight: bold; color: #EF4444;">BaaS & DB LAYERS</td>
+        <td style="padding: 8px 0; font-weight: bold; color: #EF4444;">BaaS &amp; DB LAYERS</td>
         <td style="padding: 8px 0;"><code>Supabase</code> · <code>Firebase</code> · <code>PlanetScale</code> · <code>Prisma</code> · <code>Upstash</code></td>
       </tr>
       <tr style="border-bottom: 1px solid #1F222E;">
-        <td style="padding: 8px 0; font-weight: bold; color: #EF4444;">API & ARCHITECTURE</td>
+        <td style="padding: 8px 0; font-weight: bold; color: #EF4444;">API &amp; ARCHITECTURE</td>
         <td style="padding: 8px 0;"><code>tRPC</code> · <code>Zod</code> · <code>REST</code> · <code>gRPC</code> · <code>WebSockets</code></td>
       </tr>
       <tr>
@@ -527,7 +568,7 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 <br>
 
 <!-- TELEMETRY & ANALYTICS -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📊 LIVE NETWORK TELEMETRY & ANALYTICS</h2>
+<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS</h2>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
@@ -582,26 +623,26 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
       <td align="right" style="padding: 10px;">$5M ARR</td>
     </tr>
     <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">E-Commerce & Dropshipping</td>
+      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">E-Commerce &amp; Dropshipping</td>
       <td style="padding: 10px; border-right: 1px solid #3B3E52;">Online retail operations.</td>
       <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2027</td>
       <td align="right" style="padding: 10px;">$25M ARR</td>
     </tr>
     <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Cryptocurrency & Trading</td>
+      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Cryptocurrency &amp; Trading</td>
       <td style="padding: 10px; border-right: 1px solid #3B3E52;">Digital asset management.</td>
       <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2028</td>
       <td align="right" style="padding: 10px;">$100M ARR</td>
     </tr>
     <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Freelance & Consulting</td>
+      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Freelance &amp; Consulting</td>
       <td style="padding: 10px; border-right: 1px solid #3B3E52;">Technical consulting services.</td>
       <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2030</td>
       <td align="right" style="padding: 10px;">$500M ARR</td>
     </tr>
     <tr style="color: #E2E8F0;">
       <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Digital Products</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Templates, guides & toolkits.</td>
+      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Templates, guides &amp; toolkits.</td>
       <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2035</td>
       <td align="right" style="padding: 10px;">$2B ARR</td>
     </tr>
@@ -613,7 +654,7 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 <div style="background-color: #0E0F17; border: 1px solid #3B3E52; border-left: 4px solid #EF4444; padding: 12px; font-family: 'Fira Code', monospace; color: #E2E8F0; font-size: 0.95em; border-radius: 4px;">
   <strong>SYSTEMIC RESOURCE ALLOCATION PROTOCOL:</strong>
   <br>
-  Deep R&D Focus: <code>30%</code> | Infrastructure Operations: <code>40%</code> | Swarm Growth: <code>20%</code> | Capital Reserves: <code>10%</code>
+  Deep R&amp;D Focus: <code>30%</code> | Infrastructure Operations: <code>40%</code> | Swarm Growth: <code>20%</code> | Capital Reserves: <code>10%</code>
 </div>
 
 <br>
@@ -633,9 +674,9 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
   5-STAGE PROJECT LIFE CYCLE
 </div>
 <div style="color: #E2E8F0; font-family: 'Fira Code', monospace; text-align: center; margin-top: 5px; font-size: 0.8em; line-height: 1.5;">
-  <code>[1. IDEATION & VALIDATION] (1-2 weeks) ──> [2. SETUP & STACK BUILD] (2-4 weeks)</code>
+  <code>[1. IDEATION &amp; VALIDATION] (1-2 weeks) ──> [2. SETUP &amp; STACK BUILD] (2-4 weeks)</code>
   <br>
-  <code>└──> [3. CORE SYSTEM EXECUTION] (4-24 weeks) ──> [4. LAUNCH & TACTICAL SCALE] (2-8 weeks)</code>
+  <code>└──> [3. CORE SYSTEM EXECUTION] (4-24 weeks) ──> [4. LAUNCH &amp; TACTICAL SCALE] (2-8 weeks)</code>
   <br>
   <code>└──> [5. PROTOCOL OPTIMIZATION] (ongoing)</code>
 </div>
@@ -645,12 +686,12 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 <!-- COMMAND CENTER -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📍 COMMAND CENTER</h2>
 
-| RESOURCE REGISTRY | PURPOSE & FOCUS AREA |
+| RESOURCE REGISTRY | PURPOSE &amp; FOCUS AREA |
 |---|---|
 | **VSAD Master Index** | Central navigation hub for all operational directories. |
 | **VSAD Command Hierarchy** | Complete organizational layout and clearance list. |
 | **Company OS** | Core operating procedures, frameworks, and system protocols. |
-| **Vision & Strategy** | Long-term tactical roadmap and technological horizons. |
+| **Vision &amp; Strategy** | Long-term tactical roadmap and technological horizons. |
 | **Economic Dashboard** | Financial stream ledger, projections, and ARR trackers. |
 | **VSAD Earning Methods** | 12 comprehensive revenue generation playbooks. |
 | **Active Ops Dashboard** | Real-time project status and deployment priorities. |
@@ -660,7 +701,7 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <!-- SYSTEM MAINTENANCE & AUTOMATION SETUP -->
 <details>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🔧 SYSTEM MAINTENANCE & AUTOMATION SETUP</summary>
+  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🔧 SYSTEM MAINTENANCE &amp; AUTOMATION SETUP</summary>
   <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; color: #E2E8F0; font-size: 0.9em; line-height: 1.6;">
     Telemetry SVGs (Snake and Pacman) update automatically every 12 hours via GitHub actions. To deploy overrides:
     <br><br>
@@ -674,8 +715,10 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <br><hr style="border: 1px solid #3B3E52;"><br>
 
-<!-- PROPRIETARY FOOTER -->
+<!-- PROPRIETARY FOOTER WITH BYEBYE ASCII -->
 <div align="center">
+  <img src="./assets/vsad-byebye-ascii.svg" width="100%" alt="VSAD Session Terminated" />
+  <br><br>
   <img src="./assets/vsad-pixel-mascot.svg" width="100" alt="VSAD Mascot" />
   <br><br>
   <strong style="color: #EF4444; font-family: 'Fira Code', monospace; letter-spacing: 2px;">⚠️ SECURE LINE SECURED // RESTRICTED ACCESS</strong>
