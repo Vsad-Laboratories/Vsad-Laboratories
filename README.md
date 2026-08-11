@@ -650,45 +650,6 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 | **Active Ops Dashboard** | Real-time project status and deployment priorities. |
 | **Research Command Center** | Progress matrices for hypersonics, robotics, and neural nets. |
 
-<br>
-
-<!-- SYSTEM MAINTENANCE & AUTOMATION SETUP -->
-<details>
-  <summary><strong>🔧 SYSTEM MAINTENANCE &amp; AUTOMATION SETUP</strong></summary>
-
-  <br>
-
-  Telemetry SVGs (Snake and Pacman) update automatically every 12 hours via GitHub Actions.
-
-  <br><br>
-
-  <strong>Deployment checklist:</strong>
-
-  <ol>
-    <li>
-      Verify the workflows exist and are active:
-      <code>.github/workflows/snake.yml</code> and
-      <code>.github/workflows/pacman.yml</code>
-    </li>
-
-    <li>
-      Confirm workflow permissions:
-      <code>Settings → Actions → General → Workflow permissions</code>
-      and select <strong>Read and write permissions</strong>.
-    </li>
-
-    <li>
-      To manually regenerate the animations, open:
-      <code>Actions → [Workflow] → Run workflow</code>
-      and target the <code>main</code> branch.
-    </li>
-  </ol>
-
-</details>
-
-<br>
-
-<hr>
 
 <br>
 
