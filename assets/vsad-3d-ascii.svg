@@ -1,40 +1,35 @@
-<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="150" fill="#000"/>
+<svg width="800" height="150"
+     viewBox="0 0 800 150"
+     xmlns="http://www.w3.org/2000/svg">
 
-  <style>
-    .ascii {
-      font-family: "Fira Code", "Courier New", monospace;
-      font-size: 13px;
-      font-weight: bold;
-      fill: #fff;
-    }
+  <!-- Background -->
+  <rect
+    width="800"
+    height="150"
+    fill="#181A1D"
+  />
 
-    .scene {
-      transform-origin: 50% 50%;
-      transform-box: fill-box;
-      animation: rotate3d 6s ease-in-out infinite;
-    }
+<style>
+  .ascii {
+    font-family: "Cascadia Mono", "Fira Code", "Courier New", monospace;
+    font-size: 10px;
+    font-weight: 700;
+    fill: #FFFFFF;
+    letter-spacing: 0;
+  }
+</style>
 
-    @keyframes rotate3d {
-      0% {
-        transform: perspective(800px) rotateY(-35deg) scaleX(0.9);
-      }
 
-      50% {
-        transform: perspective(800px) rotateY(35deg) scaleX(0.9);
-      }
+  <!-- Entire ASCII banner -->
+<g class="banner" xml:space="preserve">
 
-      100% {
-        transform: perspective(800px) rotateY(-35deg) scaleX(0.9);
-      }
-    }
-  </style>
+  <text x="150" y="35" class="ascii">██╗   ██╗███████╗ █████╗ ██████╗     ██╗      █████╗ ██████╗ ███████╗</text>
+  <text x="150" y="55" class="ascii">██║   ██║██╔════╝██╔══██╗██╔══██╗    ██║     ██╔══██╗██╔══██╗██╔════╝</text>
+  <text x="150" y="75" class="ascii">██║   ██║███████╗███████║██║  ██║    ██║     ███████║██████╔╝███████╗</text>
+  <text x="150" y="95" class="ascii">╚██╗ ██╔╝╚════██║██╔══██║██║  ██║    ██║     ██╔══██║██╔══██╗╚════██║</text>
+  <text x="150" y="115" class="ascii"> ╚████╔╝ ███████║██║  ██║██████╔╝    ███████╗██║  ██║██████╔╝███████║</text>
+  <text x="150" y="135" class="ascii">  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝     ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝</text>
 
-  <g class="scene">
-    <text x="140" y="30" class="ascii" xml:space="preserve">__     ______   _    ____    _        _    ____  ____</text>
-    <text x="140" y="48" class="ascii" xml:space="preserve">\ \   / / ___| / \  |  _ \  | |      / \  | __ )/ ___|</text>
-    <text x="140" y="66" class="ascii" xml:space="preserve"> \ \ / /\___ \ / _ \ | | | | | |     / _ \ |  _ \\___ \</text>
-    <text x="140" y="84" class="ascii" xml:space="preserve">  \ V /  ___) / ___ \| |_| | | |___ / ___ \| |_) |___) |</text>
-    <text x="140" y="102" class="ascii" xml:space="preserve">   \_/  |____/_/   \_\____/  |_____/ _/   \_\____/|____/</text>
-  </g>
+</g>
+  
 </svg>
