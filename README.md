@@ -5,9 +5,6 @@
 
 <div align="center">
 
-<!-- ROTATING TYPING HEADLINES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=VORTEX+SYSTEMS+AND+DEFENSES+%3A%3A+DEFENSE+%26+AEROSPACE;AUTONOMOUS+SWARMS+%C2%B7+HYPERSONICS+%C2%B7+NEURAL+AGENTS;BUILD+IN+SILENCE.+LET+THE+EMPIRE+SPEAK." alt="VSAD Tactical Headlines" />
-
 <br><br>
 
 <!-- 3D ROTATING ASCII WELCOME SVG BANNER -->
@@ -527,126 +524,39 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <!-- TELEMETRY & ANALYTICS -->
 
-<h2 align="left">
-  📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS
-</h2>
+<h2 align="left">📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS</h2>
 
-<div align="center">
+| GitHub Statistics | Most Used Languages |
+|:---:|:---:|
+| <img src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0" width="400" alt="VSAD Laboratories GitHub Statistics"> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0" width="400" alt="VSAD Laboratories Most Used Languages"> |
 
-  <!-- =========================
-       GITHUB STATS
-       ========================= -->
+| GitHub Streak | GitHub Trophies |
+|:---:|:---:|
+| <img src="https://streak-stats.demolab.com/?user=Vsad-Laboratories&theme=dark&hide_border=true&background=08080C&ring=8B5CF6&fire=EF4444&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=8B5CF6&sideLabels=E2E8F0&dates=64748B" width="400" alt="VSAD Laboratories GitHub Streak"> | <img src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&no-bg=true&column=4&row=1&margin-w=8&margin-h=8" width="400" alt="VSAD Laboratories GitHub Trophies"> |
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
+<br>
 
-        <img
-          src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0"
-          width="100%"
-          alt="VSAD Laboratories GitHub Statistics"
-        />
+### CONTRIBUTION ACTIVITY
 
-      </td>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
+    width="850"
+    alt="VSAD Laboratories Pac-Man contribution graph"
+  />
+</p>
 
-      <td align="center" width="50%">
+<br>
 
-        <img
-          src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0"
-          width="100%"
-          alt="VSAD Laboratories Most Used Languages"
-        />
+### CONTRIBUTION SNAKE
 
-      </td>
-    </tr>
-  </table>
-
-
-  <br>
-
-
-  <!-- =========================
-       ACTIVITY
-       ========================= -->
-
-  <table>
-    <tr>
-
-      <td align="center" width="50%">
-
-        <img
-          src="https://streak-stats.demolab.com/?user=Vsad-Laboratories&theme=dark&hide_border=true&background=08080C&ring=8B5CF6&fire=EF4444&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=8B5CF6&sideLabels=E2E8F0&dates=64748B"
-          width="100%"
-          alt="VSAD Laboratories GitHub Streak"
-        />
-
-      </td>
-
-      <td align="center" width="50%">
-
-        <img
-          src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&no-bg=true&column=4&row=1&margin-w=8&margin-h=8"
-          width="100%"
-          alt="VSAD Laboratories GitHub Trophies"
-        />
-
-      </td>
-
-    </tr>
-  </table>
-
-
-  <br><br>
-
-
-  <!-- =========================
-       CONTRIBUTION ANIMATIONS
-       ========================= -->
-
-  <p>
-    <strong>CONTRIBUTION ACTIVITY</strong>
-  </p>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
-      width="100%"
-      alt="VSAD Laboratories Pac-Man contribution graph"
-    />
-  </picture>
-
-
-  <br><br>
-
-
-  <p>
-    <strong>CONTRIBUTION SNAKE</strong>
-  </p>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake-dark.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg"
-      width="100%"
-      alt="VSAD Laboratories contribution snake"
-    />
-  </picture>
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg"
+    width="850"
+    alt="VSAD Laboratories contribution snake"
+  />
+</p>
 
 <br>
 
@@ -748,31 +658,56 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <!-- SYSTEM MAINTENANCE & AUTOMATION SETUP -->
 <details>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🔧 SYSTEM MAINTENANCE &amp; AUTOMATION SETUP</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; color: #E2E8F0; font-size: 0.9em; line-height: 1.6;">
-    Telemetry SVGs (Snake and Pacman) update automatically every 12 hours via GitHub actions. To deploy overrides:
-    <br><br>
-    1. Verify operational GitHub workflows are deployed at <code>.github/workflows/snake.yml</code> and <code>.github/workflows/pacman.yml</code>.
-    <br>
-    2. Confirm write credentials: <code>Settings ──> Actions ──> General ──> Workflow permissions ──> Read and write permissions</code> (Save).
-    <br>
-    3. Manually override/trigger generation: <code>Actions ──> [Workflow] ──> Run workflow</code> targeting the <code>main</code> branch.
-  </div>
+  <summary><strong>🔧 SYSTEM MAINTENANCE &amp; AUTOMATION SETUP</strong></summary>
+
+  <br>
+
+  Telemetry SVGs (Snake and Pacman) update automatically every 12 hours via GitHub Actions.
+
+  <br><br>
+
+  <strong>Deployment checklist:</strong>
+
+  <ol>
+    <li>
+      Verify the workflows exist and are active:
+      <code>.github/workflows/snake.yml</code> and
+      <code>.github/workflows/pacman.yml</code>
+    </li>
+
+    <li>
+      Confirm workflow permissions:
+      <code>Settings → Actions → General → Workflow permissions</code>
+      and select <strong>Read and write permissions</strong>.
+    </li>
+
+    <li>
+      To manually regenerate the animations, open:
+      <code>Actions → [Workflow] → Run workflow</code>
+      and target the <code>main</code> branch.
+    </li>
+  </ol>
+
 </details>
 
-<br><hr style="border: 1px solid #3B3E52;"><br>
+<br>
 
-<!-- PROPRIETARY FOOTER WITH BYEBYE ASCII -->
+<hr>
+
+<br>
+
 <div align="center">
-  <img src="./assets/vsad-byebye-ascii.svg" width="100%" alt="VSAD Session Terminated" />
+
+  <img
+    src="./assets/vsad-byebye-ascii.svg"
+    width="100%"
+    alt="Bye Bye"
+  />
+
   <br><br>
   <img src="./assets/vsad-pixel-mascot.svg" width="100%" alt="VSAD Mascot" />
   <br><br>
-  <strong style="color: #EF4444; font-family: 'Fira Code', monospace; letter-spacing: 2px;">⚠️ SECURE LINE SECURED // RESTRICTED ACCESS</strong>
-  <br>
-  <p style="color: #E2E8F0; font-family: 'Fira Code', monospace; font-size: 0.9em; margin-top: 5px;">
-    VORTEX SYSTEMS AND DEFENSES — PROPRIETARY DEFENSE MATRIX © 2026-2035
-    <br>
-    <span style="color: #8B5CF6;">BUILD IN SILENCE. LET THE EMPIRE SPEAK.</span>
-  </p>
+
+  <sub>Until the next build. 👋</sub>
+
 </div>
