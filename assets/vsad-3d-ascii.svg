@@ -1,0 +1,86 @@
+<svg width="800" height="280" viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes pulse-glow {
+      0%, 100% {
+        fill: #8B5CF6;
+        filter: drop-shadow(0 0 4px #8B5CF6) drop-shadow(0 0 12px #8B5CF6);
+      }
+      50% {
+        fill: #EF4444;
+        filter: drop-shadow(0 0 4px #EF4444) drop-shadow(0 0 12px #EF4444);
+      }
+    }
+    @keyframes transform-3d {
+      0% {
+        transform: perspective(800px) rotateY(0deg) scale(0.95);
+      }
+      50% {
+        transform: perspective(800px) rotateY(15deg) scale(1);
+      }
+      100% {
+        transform: perspective(800px) rotateY(0deg) scale(0.95);
+      }
+    }
+    @keyframes scanline {
+      0% {
+        transform: translateY(-280px);
+      }
+      100% {
+        transform: translateY(280px);
+      }
+    }
+    .ascii-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 13px;
+      font-weight: bold;
+      animation: pulse-glow 4s infinite ease-in-out;
+    }
+    .container-3d {
+      transform-origin: center;
+      animation: transform-3d 6s infinite ease-in-out;
+    }
+    .terminal-sub {
+      font-family: 'Fira Code', monospace;
+      font-size: 11px;
+      fill: #E2E8F0;
+      letter-spacing: 2px;
+    }
+    .scan {
+      stroke: #8B5CF6;
+      stroke-width: 1;
+      opacity: 0.15;
+      animation: scanline 4s infinite linear;
+    }
+  </style>
+
+  <rect width="800" height="280" rx="12" fill="#08080C" stroke="#3B3E52" stroke-width="2"/>
+
+  <!-- Terminal Grid Backdrop -->
+  <path d="M 0,40 L 800,40 M 0,80 L 800,80 M 0,120 L 800,120 M 0,160 L 800,160 M 0,200 L 800,200 M 0,240 L 800,240" stroke="#1A1B26" stroke-width="1"/>
+  <path d="M 100,0 L 100,280 M 200,0 L 200,280 M 300,0 L 300,280 M 400,0 L 400,280 M 500,0 L 500,280 M 600,0 L 600,280 M 700,0 L 700,280" stroke="#1A1B26" stroke-width="1"/>
+
+  <!-- Scanning Line -->
+  <line x1="0" y1="0" x2="800" y2="0" class="scan" />
+
+  <!-- 3D Animated ASCII Group -->
+  <g class="container-3d">
+    <text x="140" y="70" class="ascii-text" xml:space="preserve"> __     ______   _    ____    _        _    ____  ____  </text>
+    <text x="140" y="88" class="ascii-text" xml:space="preserve"> \ \   / / ___| / \  |  _ \  | |      / \  | __ )/ ___| </text>
+    <text x="140" y="106" class="ascii-text" xml:space="preserve">  \ \ / /\___ \/ _ \ | | | | | |     / _ \ |  _ \___ \  </text>
+    <text x="140" y="124" class="ascii-text" xml:space="preserve">   \ V /  ___) / ___ \| |_| | | |___/ ___ \| |_) |__) | </text>
+    <text x="140" y="142" class="ascii-text" xml:space="preserve">    \_/  |____/_/   \_\____/  |_____/_/   \_\____/____/ </text>
+  </g>
+
+  <!-- HUD Interface Details -->
+  <rect x="25" y="15" width="10" height="10" fill="#EF4444" />
+  <text x="45" y="24" font-family="'Fira Code', monospace" font-size="10" fill="#EF4444" font-weight="bold">[SECURE CONNECTION INITIALIZED // 256-BIT ENCRYPTION]</text>
+
+  <text x="400" y="195" text-anchor="middle" class="terminal-sub" font-weight="bold">⚡ WELCOME TO VSAD LABS COMMAND TERMINAL ⚡</text>
+  <text x="400" y="215" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" fill="#8B5CF6">SYSTEM PROTOCOL ACTIVE // LEVEL 5 TOP SECRET CLEARANCE</text>
+
+  <!-- Border Accents -->
+  <path d="M 10 10 L 30 10 M 10 10 L 10 30" stroke="#8B5CF6" stroke-width="3" fill="none"/>
+  <path d="M 790 10 L 770 10 M 790 10 L 790 30" stroke="#8B5CF6" stroke-width="3" fill="none"/>
+  <path d="M 10 270 L 30 270 M 10 270 L 10 250" stroke="#8B5CF6" stroke-width="3" fill="none"/>
+  <path d="M 790 270 L 770 270 M 790 270 L 790 250" stroke="#8B5CF6" stroke-width="3" fill="none"/>
+</svg>
