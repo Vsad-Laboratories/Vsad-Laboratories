@@ -164,23 +164,6 @@
 
 <br>
 
-<!-- SITUATIONAL BRIEFING & LORE -->
-<details open>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🛡️ SITUATIONAL BRIEFING & OPERATIONAL LORE</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px;">
-    <p style="color: #E2E8F0; font-family: sans-serif; line-height: 1.6; margin: 0;">
-      VSAD (Vortex Systems And Defenses) is a multi-division technology and innovation operation spanning <strong>14 divisions</strong> across AI, cybersecurity, aerospace engineering, robotics, advanced computing, communications, nanotechnology, and software development.
-    </p>
-    <ul style="color: #E2E8F0; font-family: sans-serif; line-height: 1.6; margin-top: 10px; margin-bottom: 0; padding-left: 20px;">
-      <li><strong>Boundary Pushing Systems:</strong> Builds and runs parallel full-stack SaaS platforms, a custom programming language compiler (Sloter), and multi-agent AI systems, alongside long-horizon aerospace and robotics R&D.</li>
-      <li><strong>Economic Self-Sufficiency:</strong> Runs research in parallel with revenue-generating product divisions, so research funds itself. Keep the entire collective completely independent of external corporate control.</li>
-      <li><strong>Operating Framework:</strong> Operates on a lean five-stage project lifecycle from idea to scale.</li>
-    </ul>
-  </div>
-</details>
-
-<br>
-
 <!-- COMMAND STRUCTURE -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">🏛️ COMMAND STRUCTURE</h2>
 
