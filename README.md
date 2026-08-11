@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- ROTATING TYPING HEADLINES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=VORTEX+SYSTEMS+AND+DEFENSES+%3A%3A+DEFENSE+%26+AEROSPACE;AUTONOMOUS+SWARMS+%C2%B7+HYPERSONICS+%C2%B7+NEURAL+AGENTS;BUILD+IN+SILENCE.+LET+THE+EMPIRE+SPEAK." alt="VSAD Tactical Headlines" />
-
 <br><br>
 
 <!-- 3D ROTATING ASCII WELCOME SVG BANNER -->
