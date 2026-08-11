@@ -68,7 +68,7 @@
 
 <br>
 
-<!-- FIXED TELEMETRY MARQUEE (NO MORE BROKEN TAGS, USING CORRECT RAW TEXT ESCAPING) -->
+<!-- FIXED TELEMETRY MARQUEE -->
 <details open>
   <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">📡 ACTIVE SPEARHEAD TERMINAL RADAR SCREEN</summary>
   <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 12px; margin-top: 10px; border-radius: 6px; overflow-x: auto;">
@@ -77,7 +77,7 @@
          _    __ ____   _    ____    _               ____  ____
         | |  / // ___| / \  |  _ \  | |    _   _    |  _ \|  _ \
         | | / / \___ \/ _ \ | | | | | |   / \_/ \   | |_) | |_) |
-        | |/ /   ___) / ___ \| |_| | | |__|  _  /   |  _ &lt;|  _ &lt;
+        | |/ /   ___) / ___ \| |_| | | |__|  _  /   |  _ &lt; |  _ &lt;
         |___/   |____/_/   \_\____/  |____|_| |_|   |_| \_\_| \_\
 =============================================================
 [SYS] SCANNING SECTOR 0xAF [AIR FLEETS] -> STABLE
@@ -92,6 +92,44 @@
 [SYS] EXECUTING DOMINATION PROTOCOL 2026-2035...
 =============================================================
     </marquee>
+  </div>
+</details>
+
+<br>
+
+<!-- HOTTEST README COMPONENT: PROGRESS INDICATORS -->
+<details open>
+  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">📈 SWARM CALIBRATION &amp; CORE RATIOS</summary>
+  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9em; color: #E2E8F0;">
+    <p style="margin: 5px 0;"><strong>AEROSPACE SWARM SYNCHRONIZATION:</strong></p>
+    <code>██████████████████████████████████████████▒▒ [ 94% ]</code>
+    <br><br>
+    <p style="margin: 5px 0;"><strong>SLOTER COMPILER PARSE VELOCITY:</strong></p>
+    <code>████████████████████████████████████████████ [ 100% ]</code>
+    <br><br>
+    <p style="margin: 5px 0;"><strong>CYBER SYSTEMS DECOY ROUTING SHIELD:</strong></p>
+    <code>██████████████████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒ [ 70% ]</code>
+  </div>
+</details>
+
+<br>
+
+<!-- HOTTEST README COMPONENT: SYSTEM SOURCE CODE SNIPPET -->
+<details open>
+  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">⚙️ CORE LOGIC // SLOTER REVOLUTION COMPILER BACKEND</summary>
+  <div style="margin-top: 10px;">
+    <pre><code class="language-rust">// Sloter Aerospace Core - Swarm Node Calibration
+fn calibrate_swarm_propulsion(node_id: u32, nozzle_temp: f32) -> Result&lt;Status, Error&gt; {
+    let target_pressure = 42.85; // MPa
+    let nozzle = MPMS::get_nozzle_valve(node_id)?;
+
+    if nozzle_temp &gt; 3150.0 {
+        return Err(Error::ThermalOverrun);
+    }
+
+    nozzle.adjust_vortex_actuator(target_pressure)?;
+    Ok(Status::Optimal)
+}</code></pre>
   </div>
 </details>
 
@@ -279,57 +317,6 @@
     </tr>
   </tbody>
 </table>
-
-<br>
-
-<!-- RESEARCH & DEVELOPMENT FOCUS -->
-<details>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; margin-top: 15px; outline: none; user-select: none;">🔬 DEEP R&amp;D SPECTRUM FOCUS</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px;">
-    <table width="100%" style="font-family: 'Fira Code', monospace; border-collapse: collapse; font-size: 0.9em;">
-      <tr style="border-bottom: 1px solid #3B3E52; color: #8B5CF6;">
-        <th align="left" style="padding-bottom: 8px;">RESEARCH SPECTRUM</th>
-        <th align="left" style="padding-bottom: 8px;">CORE INITIATIVES</th>
-        <th align="center" style="padding-bottom: 8px;">STATUS</th>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-        <td style="padding: 8px 0; font-weight: bold;">Aerospace & Hypersonics</td>
-        <td style="padding: 8px 0;">Solid propellants, nozzle thermal dynamics, high-altitude aerodynamics.</td>
-        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-        <td style="padding: 8px 0; font-weight: bold;">Robotics & Actuation</td>
-        <td style="padding: 8px 0;">Autonomous mechatronics, humanoid kinetic paths, hybrid actuation.</td>
-        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-        <td style="padding: 8px 0; font-weight: bold;">Cyber Security Layers</td>
-        <td style="padding: 8px 0;">Post-quantum network defense, secure isolation kernels.</td>
-        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-        <td style="padding: 8px 0; font-weight: bold;">Neural Architectures</td>
-        <td style="padding: 8px 0;">Swarm behavior models, multi-agent cognitive safety networks.</td>
-        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-        <td style="padding: 8px 0; font-weight: bold;">Compiler & Languages</td>
-        <td style="padding: 8px 0;">Sloter custom parser and target-specific optimized code gen.</td>
-        <td align="center" style="padding: 8px 0;"><span style="color: #8B5CF6; font-weight: bold;">[ ACTIVE ]</span></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-        <td style="padding: 8px 0; font-weight: bold;">Nanotechnology</td>
-        <td style="padding: 8px 0;">MEMS devices, microscopic signal arrays, material stress limits.</td>
-        <td align="center" style="padding: 8px 0;"><span style="color: #EF4444; font-weight: bold;">[ LAB_ONLY ]</span></td>
-      </tr>
-      <tr style="color: #E2E8F0;">
-        <td style="padding: 8px 0; font-weight: bold;">Quantum Cryptography</td>
-        <td style="padding: 8px 0;">Symmetric key quantum resilience, post-quantum transport channels.</td>
-        <td align="center" style="padding: 8px 0;"><span style="color: #EF4444; font-weight: bold;">[ STAGE_I ]</span></td>
-      </tr>
-    </table>
-  </div>
-</details>
 
 <br>
 
@@ -559,10 +546,10 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
       <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0" height="165" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0" height="165" alt="GitHub Stats" />
       </td>
       <td align="center" valign="middle" style="padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0" height="165" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0" height="165" alt="Top Languages" />
       </td>
     </tr>
     <tr>
