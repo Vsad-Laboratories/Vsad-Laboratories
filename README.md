@@ -155,23 +155,6 @@
 
 <br>
 
-<!-- HOTTEST README COMPONENT: PROGRESS INDICATORS -->
-<details open>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">📈 SWARM CALIBRATION &amp; CORE RATIOS</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9em; color: #E2E8F0;">
-    <p style="margin: 5px 0;"><strong>AEROSPACE SWARM SYNCHRONIZATION:</strong></p>
-    <code>██████████████████████████████████████████▒▒ [ 94% ]</code>
-    <br><br>
-    <p style="margin: 5px 0;"><strong>SLOTER COMPILER PARSE VELOCITY:</strong></p>
-    <code>████████████████████████████████████████████ [ 100% ]</code>
-    <br><br>
-    <p style="margin: 5px 0;"><strong>CYBER SYSTEMS DECOY ROUTING SHIELD:</strong></p>
-    <code>██████████████████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒ [ 70% ]</code>
-  </div>
-</details>
-
-<br>
-
 <!-- QUICK FACTS -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚡ QUICK FACTS</h2>
 
@@ -620,30 +603,6 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
   <strong>SYSTEMIC RESOURCE ALLOCATION PROTOCOL:</strong>
   <br>
   Deep R&amp;D Focus: <code>30%</code> | Infrastructure Operations: <code>40%</code> | Swarm Growth: <code>20%</code> | Capital Reserves: <code>10%</code>
-</div>
-
-<br>
-
-<!-- OPERATING PRINCIPLES -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">🔧 OPERATING PRINCIPLES</h2>
-
-- **Decision Velocity** — decide with 70% information, adjust with the remaining 30%.
-- **Systems Over Heroes** — build systems that work regardless of individual performance.
-- **Data-Driven Everything** — measure what matters, act on insights.
-- **Continuous Optimization** — never accept "good enough."
-- **Radical Transparency** — open communication, shared progress, honest feedback.
-
-<br>
-
-<div style="text-align: center; margin-top: 15px; color: #EF4444; font-family: 'Fira Code', monospace; font-weight: bold; font-size: 0.95em;">
-  5-STAGE PROJECT LIFE CYCLE
-</div>
-<div style="color: #E2E8F0; font-family: 'Fira Code', monospace; text-align: center; margin-top: 5px; font-size: 0.8em; line-height: 1.5;">
-  <code>[1. IDEATION &amp; VALIDATION] (1-2 weeks) ──> [2. SETUP &amp; STACK BUILD] (2-4 weeks)</code>
-  <br>
-  <code>└──> [3. CORE SYSTEM EXECUTION] (4-24 weeks) ──> [4. LAUNCH &amp; TACTICAL SCALE] (2-8 weeks)</code>
-  <br>
-  <code>└──> [5. PROTOCOL OPTIMIZATION] (ongoing)</code>
 </div>
 
 <br>
