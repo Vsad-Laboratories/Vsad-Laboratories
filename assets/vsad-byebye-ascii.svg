@@ -1,39 +1,82 @@
-<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="150" fill="#000"/>
+
   <style>
-    @keyframes pulse-glow-red {
-      0%, 100% {
-        fill: #EF4444;
-        filter: drop-shadow(0 0 4px #EF4444) drop-shadow(0 0 12px #EF4444);
-      }
-      50% {
-        fill: #3B3E52;
-        filter: drop-shadow(0 0 1px #3B3E52);
-      }
-    }
-    @keyframes terminal-blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
-    .ascii-text-red {
-      font-family: 'Fira Code', monospace;
+    .ascii {
+      font-family: "Fira Code", "Courier New", monospace;
       font-size: 13px;
       font-weight: bold;
-      animation: pulse-glow-red 3s infinite ease-in-out;
+      fill: #fff;
     }
-    .blink-dot {
-      animation: terminal-blink 1s infinite steps(1);
+
+    .bye {
+      transform-origin: 50% 50%;
+      transform-box: fill-box;
+      animation: byeBye 4s ease-in-out infinite;
+    }
+
+    @keyframes byeBye {
+      0% {
+        opacity: 0;
+        transform: perspective(700px)
+                   rotateY(-25deg)
+                   scale(0.65)
+                   translateY(8px);
+      }
+
+      15% {
+        opacity: 1;
+        transform: perspective(700px)
+                   rotateY(12deg)
+                   scale(1.08)
+                   translateY(-3px);
+      }
+
+      28% {
+        transform: perspective(700px)
+                   rotateY(-5deg)
+                   scale(0.98)
+                   translateY(0);
+      }
+
+      45% {
+        transform: perspective(700px)
+                   rotateY(0deg)
+                   scale(1)
+                   translateY(0);
+      }
+
+      70% {
+        opacity: 1;
+        transform: perspective(700px)
+                   rotateY(5deg)
+                   scale(1)
+                   translateY(-2px);
+      }
+
+      88% {
+        opacity: 0.85;
+        transform: perspective(700px)
+                   rotateY(-12deg)
+                   scale(0.96)
+                   translateY(2px);
+      }
+
+      100% {
+        opacity: 0;
+        transform: perspective(700px)
+                   rotateY(25deg)
+                   scale(0.65)
+                   translateY(-8px);
+      }
     }
   </style>
 
-  <!-- Big ASCII BYE BYE with no background, grid, or extra shapes -->
-  <g>
-    <text x="180" y="25" class="ascii-text-red" xml:space="preserve">  ____  _  _ _____   ____  _  _ _____ </text>
-    <text x="180" y="43" class="ascii-text-red" xml:space="preserve"> | __ )| \/ |  ___| | __ )| \/ |  ___|</text>
-    <text x="180" y="61" class="ascii-text-red" xml:space="preserve"> |  _ \ \  /|  _|   |  _ \ \  /|  _|  </text>
-    <text x="180" y="79" class="ascii-text-red" xml:space="preserve"> | |_) | | || |___  | |_) | | || |___ </text>
-    <text x="180" y="97" class="ascii-text-red" xml:space="preserve"> |____/  |_||_____| |____/  |_||_____|</text>
+  <g class="bye">
+    <text x="180" y="30" class="ascii" xml:space="preserve">  ____  _  _ _____   ____  _  _ _____</text>
+    <text x="180" y="48" class="ascii" xml:space="preserve"> | __ )| \/ | ____| | __ )| \/ | ____|</text>
+    <text x="180" y="66" class="ascii" xml:space="preserve"> |  _ \ \  /|  _|   |  _ \ \  /|  _|</text>
+    <text x="180" y="84" class="ascii" xml:space="preserve"> | |_) | | || |___  | |_) | | || |___</text>
+    <text x="180" y="102" class="ascii" xml:space="preserve"> |____/  |_||_____| |____/  |_||_____|</text>
   </g>
-
-  <!-- Terminal Logs -->
-  <text x="400" y="130" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#E2E8F0" font-weight="bold">🔐 VSAD SECURE MATRIX TERMINATION COMPLETED // BYE BYE <tspan class="blink-dot" fill="#EF4444">█</tspan></text>
 </svg>
