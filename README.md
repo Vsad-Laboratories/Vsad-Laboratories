@@ -1,3 +1,8 @@
+<!-- CAPSULE WAVE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,50:0E0F17,100:8B5CF6&height=220&section=header&text=VSAD%20LABS&fontSize=70&fontColor=8B5CF6&animation=fadeIn&fontAlignY=38&desc=VORTEX%20SYSTEMS%20AND%20DEFENSES&descAlignY=58&descSize=20&descColor=E2E8F0" width="100%" alt="VSAD Wave Header" />
+</p>
+
 <div align="center">
 
 <!-- ROTATING TYPING HEADLINES -->
@@ -42,13 +47,6 @@
       <strong>Vortex Systems And Defenses (VSAD)</strong> operates at the bleeding edge of defense innovation, aerospace engineering, and autonomous technologies. Our core mandate is the engineering of ultra-high-speed aerodynamics, next-generation propulsion, and multi-agent AI orchestration networks (ORBIT).
       <br><br>
       Through custom low-level compilers (Sloter) and autonomous swarm systems, VSAD bridges the physical and cognitive battlefields, securing technological sovereignty and physical superiority.
-      <br><br>
-      <div align="left">
-        <a href="https://www.youtube.com/@thevsad"><img src="https://img.shields.io/static/v1?message=thevsad&logo=youtube&label=YouTube&color=8B5CF6&logoColor=white&labelColor=08080C&style=for-the-badge" alt="YouTube" /></a>
-        <a href="https://x.com/VsadTech"><img src="https://img.shields.io/static/v1?message=VsadTech&logo=x&label=X&color=8B5CF6&logoColor=white&labelColor=08080C&style=for-the-badge" alt="X" /></a>
-        <a href="https://discord.gg/vsadlabs"><img src="https://img.shields.io/static/v1?message=vsadlabs&logo=discord&label=Discord&color=8B5CF6&logoColor=white&labelColor=08080C&style=for-the-badge" alt="Discord" /></a>
-        <a href="mailto:vsad.pvt@gmail.com"><img src="https://img.shields.io/static/v1?message=vsad.pvt@gmail.com&logo=gmail&label=Secure+Mail&color=EF4444&logoColor=white&labelColor=08080C&style=for-the-badge" alt="Gmail" /></a>
-      </div>
     </td>
     <td valign="top" style="background-color: #0E0F17; border-left: 1px solid #3B3E52; padding: 15px;">
       <pre style="color: #8B5CF6; font-family: 'Fira Code', monospace; margin: 0; line-height: 1.5; font-size: 0.9em;">
@@ -62,6 +60,40 @@
 │  SWARM STATE   │ OPTIMAL     │
 │  CORES ACTIVE  │ 1024/1024   │
 └──────────────────────────────┘</pre>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- COMMAND COMMUNICATION HUBS (AWESOME COMPONENT INTERACTIVE CARDS) -->
+<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px;">📡 COMMAND COMMUNICATION HUBS</h2>
+
+<table width="100%" border="0" cellpadding="8" style="background-color: #08080C; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td width="25%" style="border: 1px solid #3B3E52; background: #0E0F17;">
+      <a href="https://www.youtube.com/@thevsad">
+        <img src="https://img.shields.io/static/v1?message=thevsad&logo=youtube&label=YouTube&color=8B5CF6&logoColor=white&labelColor=08080C&style=for-the-badge" alt="YouTube" />
+        <br><span style="font-family: 'Fira Code', monospace; font-size: 0.8em; color: #E2E8F0;">Official Broadcasts</span>
+      </a>
+    </td>
+    <td width="25%" style="border: 1px solid #3B3E52; background: #0E0F17;">
+      <a href="https://x.com/VsadTech">
+        <img src="https://img.shields.io/static/v1?message=VsadTech&logo=x&label=X&color=8B5CF6&logoColor=white&labelColor=08080C&style=for-the-badge" alt="X" />
+        <br><span style="font-family: 'Fira Code', monospace; font-size: 0.8em; color: #E2E8F0;">Tactical Updates</span>
+      </a>
+    </td>
+    <td width="25%" style="border: 1px solid #3B3E52; background: #0E0F17;">
+      <a href="https://discord.gg/vsadlabs">
+        <img src="https://img.shields.io/static/v1?message=vsadlabs&logo=discord&label=Discord&color=8B5CF6&logoColor=white&labelColor=08080C&style=for-the-badge" alt="Discord" />
+        <br><span style="font-family: 'Fira Code', monospace; font-size: 0.8em; color: #E2E8F0;">Secure Node Chat</span>
+      </a>
+    </td>
+    <td width="25%" style="border: 1px solid #3B3E52; background: #0E0F17;">
+      <a href="mailto:vsad.pvt@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=vsad.pvt@gmail.com&logo=gmail&label=Secure+Mail&color=EF4444&logoColor=white&labelColor=08080C&style=for-the-badge" alt="Gmail" />
+        <br><span style="font-family: 'Fira Code', monospace; font-size: 0.8em; color: #E2E8F0;">Comms Line</span>
+      </a>
     </td>
   </tr>
 </table>
@@ -359,7 +391,7 @@
 
 <!-- PROPER OFFICIAL ZED EDITOR ICON -->
 <a href="https://zed.dev/">
-  <img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" width="96" height="96" style="border-radius: 12px; border: 1px solid #3B3E52;" alt="Zed Editor Proper Logo" />
+  <img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" width="96" height="96" alt="Zed Editor Proper Logo" />
 </a>
 
 <br><br>
@@ -645,7 +677,7 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
     </tr>
     <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
       <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Cryptocurrency &amp; Trading</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Digital asset management.</td>
+      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Digital asset management.</td>
       <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2028</td>
       <td align="right" style="padding: 10px;">$100M ARR</td>
     </tr>
@@ -734,7 +766,7 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 <div align="center">
   <img src="./assets/vsad-byebye-ascii.svg" width="100%" alt="VSAD Session Terminated" />
   <br><br>
-  <img src="./assets/vsad-pixel-mascot.svg" width="100" alt="VSAD Mascot" />
+  <img src="./assets/vsad-pixel-mascot.svg" width="100%" alt="VSAD Mascot" />
   <br><br>
   <strong style="color: #EF4444; font-family: 'Fira Code', monospace; letter-spacing: 2px;">⚠️ SECURE LINE SECURED // RESTRICTED ACCESS</strong>
   <br>
