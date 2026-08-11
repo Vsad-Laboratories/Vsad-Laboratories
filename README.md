@@ -75,7 +75,7 @@
     <marquee direction="up" scrollamount="1" height="200" style="background-color: #08080C; font-family: 'Fira Code', monospace; font-size: 0.85em; line-height: 1.4; color: #8B5CF6; border-left: 3px solid #EF4444; padding-left: 15px; white-space: pre;">
 ================================================================================
 
-    ██████╗  █████╗  ██████╗  █████╗  ██████╗ 
+    ██████╗  █████╗  ██████╗  █████╗  ██████╗
     ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
     ██████╔╝███████║██║  ██║███████║██████╔╝
     ██╔══██╗██╔══██║██║  ██║██╔══██║██╔══██╗
