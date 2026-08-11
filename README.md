@@ -1,15 +1,17 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,50:0E0F17,100:8B5CF6&height=220&section=header&text=VSAD&fontSize=80&fontColor=8B5CF6&animation=fadeIn&fontAlignY=38&desc=VORTEX%20SYSTEMS%20AND%20DEFENSES&descAlignY=58&descSize=22&descColor=E2E8F0" alt="VSAD Tactical Banner" />
+<img width="100%" src="./assets/Banner of Vsad.png" alt="VSAD Aerospace Banner" />
+
+<br><br>
 
 <!-- ROTATING TYPING HEADLINES -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=VORTEX+SYSTEMS+AND+DEFENSES+%3A%3A+DEFENSE+%26+AEROSPACE;AUTONOMOUS+SWARMS+%C2%B7+HYPERSONICS+%C2%B7+NEURAL+AGENTS;BUILD+IN+SILENCE.+LET+THE+EMPIRE+SPEAK." alt="VSAD Tactical Headlines" />
 
 <br><br>
 
-<!-- BRAND LOGO -->
-<img src="./assets/vsad-spearhead-logo.svg" width="120" alt="VSAD Spearhead Logo" />
+<!-- OFFICIAL BRAND LOGO -->
+<img src="./assets/Vsad Only Logo Resized.png" width="180" alt="VSAD Official Logo" />
 
 <br><br>
 
@@ -60,9 +62,38 @@
 
 <br>
 
+<!-- ANIMATED ASCII CHARACTER TELEMETRY -->
+<details open>
+  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🛰️ ACTIVE SPEARHEAD TERMINAL RADAR SCREEN</summary>
+  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 12px; margin-top: 10px; border-radius: 6px; overflow: hidden;">
+    <marquee direction="up" scrollamount="1" height="150" style="background-color: #08080C; font-family: 'Fira Code', monospace; font-size: 0.8em; line-height: 1.3; color: #8B5CF6; border-left: 3px solid #EF4444; padding-left: 15px;">
+=============================================================
+         _    __ ____   _    ____    _               ____  ____
+        | |  / // ___| / \  |  _ \  | |    _   _    |  _ \|  _ \
+        | | / / \___ \/ _ \ | | | | | |   / \_/ \   | |_) | |_) |
+        | |/ /   ___) / ___ \| |_| | | |__|  _  /   |  _ <|  _ <
+        |___/   |____/_/   \_\____/  |____|_| |_|   |_| \_\_| \_\
+=============================================================
+[SYS] SCANNING SECTOR 0xAF [AIR FLEETS] -> STABLE
+[SYS] ROTOR BEARING CORRECTION: OPTIMAL
+[SYS] COMPILER PIPELINE SLOTER PARSING: OK (0.003s)
+[SYS] ORBIT AI SWARM SYNCING -> HEARTBEAT MATCHED
+[SYS] CRYPTO PORTFOLIO YIELD REBALANCING: ACTIVE
+[SYS] CYBER DEFENSE LAYER CSLS STATUS: THREAT SHIELD ACTIVE
+[SYS] DETECTING ADVERSARIAL SWARM VECTORS... NONE FOUND.
+[SYS] SATELLITE SS [SKY SPIRITS] TELEMETRY STABLE (0.04ms)
+[SYS] MISSION COMMAND CLEARANCE STATUS: VERIFIED - LEVEL 5
+[SYS] EXECUTING DOMINATION PROTOCOL 2026-2035...
+=============================================================
+    </marquee>
+  </div>
+</details>
+
+<br>
+
 <!-- OPERATIONAL LORE SEGMENT -->
 <details open>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; margin-top: 20px; outline: none; user-select: none;">🛡️ SITUATIONAL BRIEFING & OPERATIONAL LORE</summary>
+  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; margin-top: 10px; outline: none; user-select: none;">🛡️ SITUATIONAL BRIEFING & OPERATIONAL LORE</summary>
   <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px;">
     <p style="color: #E2E8F0; font-family: sans-serif; line-height: 1.6; margin: 0;">
       VSAD operates as a multi-division technology holding enterprise, directing 14 tactical divisions across artificial intelligence, cybersecurity, aerospace propulsion, nanotechnology, and advanced software frameworks.
@@ -78,6 +109,11 @@
 
 <!-- STRATEGIC ORDER OF BATTLE (14 DIVISIONS) -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚔️ STRATEGIC ORDER OF BATTLE</h2>
+
+<div align="center">
+  <img src="./assets/VSAD Arsenal.png" width="100%" alt="VSAD Arsenal" />
+  <br><br>
+</div>
 
 <table width="100%" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse; font-family: 'Fira Code', monospace; font-size: 0.95em;">
   <thead>
@@ -296,19 +332,95 @@
 <br>
 
 <!-- TECH MATRIX -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">💻 TACTICAL TECH MATRIX</h2>
+<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">💻 TACTICAL TECH MATRIX (68+ STACKS)</h2>
 
-<div align="center">
-  <p align="center" style="font-family: 'Fira Code', monospace; color: #E2E8F0;"><strong>PRIMARY STACK CORE</strong></p>
-  <img src="https://skillicons.dev/icons?i=cpp,rust,py,go,docker,linux,wasm,cmake,postgres,redis,git&theme=dark" alt="VSAD Primary Stack" />
-  <br><br>
-  <p align="center" style="font-family: 'Fira Code', monospace; color: #E2E8F0;"><strong>NICHE HARDWARE, SPECIALIZED PARADIGMS & EMBEDDED ARCHITECTURES</strong></p>
-  <img src="https://img.shields.io/badge/Nvidia_CUDA-GPU_Computing-8B5CF6?style=for-the-badge&logo=nvidia&logoColor=EF4444&labelColor=08080C" alt="CUDA" />
-  <img src="https://img.shields.io/badge/ROS2-Robot_OS-8B5CF6?style=for-the-badge&logo=ros&logoColor=EF4444&labelColor=08080C" alt="ROS2" />
-  <img src="https://img.shields.io/badge/Assembly-Low_Level_ASM-8B5CF6?style=for-the-badge&logo=cpu&logoColor=EF4444&labelColor=08080C" alt="Assembly" />
-  <img src="https://img.shields.io/badge/Embedded_C-Hardware_Control-8B5CF6?style=for-the-badge&logo=c&logoColor=EF4444&labelColor=08080C" alt="Embedded C" />
-  <img src="https://img.shields.io/badge/RTOS-Real_Time_OS-8B5CF6?style=for-the-badge&logo=micro-star-international&logoColor=EF4444&labelColor=08080C" alt="RTOS" />
-</div>
+<table width="100%" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse; font-family: 'Fira Code', monospace; font-size: 0.95em; color: #E2E8F0;">
+  <tr style="background-color: #0E0F17; border-bottom: 1px solid #3B3E52;">
+    <th width="25%" align="left" style="padding: 10px; color: #8B5CF6; border-right: 1px solid #3B3E52;">CATEGORY</th>
+    <th width="75%" align="left" style="padding: 10px;">INTEGRATED ENVIRONMENTS & TOOLSETS (DARK PRESENTS)</th>
+  </tr>
+  <tr style="border-bottom: 1px solid #1F222E;">
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">1. LANGUAGES</td>
+    <td style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,cs,go,rust,java,kotlin,swift,wasm&theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #1F222E;">
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">2. FRONTEND</td>
+    <td style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,angular,html,css,tailwind,sass,threejs,redux&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #1F222E;">
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">3. BACKEND & APIS</td>
+    <td style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,dotnet&theme=dark" alt="Backend & APIs" />
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #1F222E;">
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">4. DATA & MSG</td>
+    <td style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,graphql,kafka,elasticsearch&theme=dark" alt="Data & Messaging" />
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #1F222E;">
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">5. DEVOPS & CLOUD</td>
+    <td style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins,githubactions,nginx,prometheus,grafana,linux,bash&theme=dark" alt="DevOps & Cloud" />
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #1F222E;">
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">6. AI, ML & EMB</td>
+    <td style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI, ML & Embedded" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Nvidia_CUDA-GPU_Computing-8B5CF6?style=for-the-badge&logo=nvidia&logoColor=EF4444&labelColor=08080C" alt="CUDA" />
+      <img src="https://img.shields.io/badge/ROS2-Robot_OS-8B5CF6?style=for-the-badge&logo=ros&logoColor=EF4444&labelColor=08080C" alt="ROS2" />
+      <img src="https://img.shields.io/badge/Assembly-Low_Level_ASM-8B5CF6?style=for-the-badge&logo=cpu&logoColor=EF4444&labelColor=08080C" alt="Assembly" />
+      <img src="https://img.shields.io/badge/Embedded_C-Hardware_Control-8B5CF6?style=for-the-badge&logo=c&logoColor=EF4444&labelColor=08080C" alt="Embedded C" />
+      <img src="https://img.shields.io/badge/RTOS-Real_Time_OS-8B5CF6?style=for-the-badge&logo=micro-star-international&logoColor=EF4444&labelColor=08080C" alt="RTOS" />
+      <img src="https://img.shields.io/badge/CMake-Build_System-8B5CF6?style=for-the-badge&logo=cmake&logoColor=EF4444&labelColor=08080C" alt="CMake" />
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #1F222E;">
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">7. TOOLING</td>
+    <td style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vim,notion&theme=dark" alt="Tooling & Workspace" />
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #1F222E;">
+    <td style="padding: 10px; font-weight: bold; border-right: 1px solid #3B3E52; color: #EF4444;">8. WEB3 & CRYPTO</td>
+    <td style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=solidity,ipfs&theme=dark" alt="Web3" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<details>
+  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.1em; font-weight: bold; cursor: pointer; outline: none;">📦 9. COLLAPSIBLE EXTENDED TOOLCHAIN</summary>
+  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9em; color: #E2E8F0;">
+    <table width="100%" style="border-collapse: collapse;">
+      <tr style="border-bottom: 1px solid #1F222E;">
+        <td width="30%" style="padding: 8px 0; font-weight: bold; color: #EF4444;">PACKAGE & BUILD</td>
+        <td style="padding: 8px 0;"><code>pnpm</code> · <code>Vite</code> · <code>Turborepo</code> · <code>esbuild</code> · <code>Webpack</code></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E;">
+        <td style="padding: 8px 0; font-weight: bold; color: #EF4444;">TESTING & QA</td>
+        <td style="padding: 8px 0;"><code>Vitest</code> · <code>Cypress</code> · <code>Jest</code> · <code>Selenium</code> · <code>ESLint</code> · <code>Prettier</code></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1F222E;">
+        <td style="padding: 8px 0; font-weight: bold; color: #EF4444;">DB ACCESS & BAAS</td>
+        <td style="padding: 8px 0;"><code>Supabase</code> · <code>Prisma</code> · <code>Firebase</code> · <code>PlanetScale</code></td>
+      </tr>
+      <tr>
+        <td style="padding: 8px 0; font-weight: bold; color: #EF4444;">OBSERVABILITY</td>
+        <td style="padding: 8px 0;"><code>Sentry</code> · <code>Datadog</code> · <code>Prometheus</code> · <code>Grafana</code></td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 <br>
 
@@ -377,11 +489,24 @@
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📊 LIVE NETWORK TELEMETRY & ANALYTICS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0&icon_color=A855F7&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0&icon_color=A855F7&hide_border=true" height="165" alt="Top languages" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Vsad-Laboratories&locale=en&mode=daily&theme=dark&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0&icon_color=A855F7&hide_border=true&border_radius=8" height="165" alt="Streak stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&margin-w=8&margin-h=8&row=1" height="165" alt="Trophies" />
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0" height="165" alt="GitHub Stats" />
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0" height="165" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://streak-stats.demolab.com?user=Vsad-Laboratories&theme=dark&hide_border=true&background=08080C&ring=8B5CF6&fire=EF4444&currStreakNum=E2E8F0" height="165" alt="Streak Stats" />
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&margin-w=8&margin-h=8&row=1" height="165" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
   <br><br>
   <p style="font-family: 'Fira Code', monospace; color: #8B5CF6; margin-bottom: 10px;"><strong>👾 CONTRIBUTION GRID PACMAN SWARM</strong></p>
   <picture>
