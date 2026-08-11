@@ -1,82 +1,13 @@
-<svg width="800" height="150"
-     viewBox="0 0 800 150"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Greyish background ONLY -->
-  <rect
-    width="800"
-    height="150"
-    fill="#181A1D"
-  />
-
+<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .ascii {
       font-family: "Fira Code", "Courier New", monospace;
       font-size: 13px;
       font-weight: bold;
-      fill: #D1D5DB;
+      animation: pulse-glow-red 3s infinite ease-in-out;
     }
-
-    .bye {
-      transform-origin: 50% 50%;
-      transform-box: fill-box;
-      animation: byeBye 4s ease-in-out infinite;
-    }
-
-    @keyframes byeBye {
-      0% {
-        opacity: 0;
-        transform: perspective(700px)
-                   rotateY(-25deg)
-                   scale(0.65)
-                   translateY(8px);
-      }
-
-      15% {
-        opacity: 1;
-        transform: perspective(700px)
-                   rotateY(12deg)
-                   scale(1.08)
-                   translateY(-3px);
-      }
-
-      28% {
-        transform: perspective(700px)
-                   rotateY(-5deg)
-                   scale(0.98)
-                   translateY(0);
-      }
-
-      45% {
-        transform: perspective(700px)
-                   rotateY(0deg)
-                   scale(1)
-                   translateY(0);
-      }
-
-      70% {
-        opacity: 1;
-        transform: perspective(700px)
-                   rotateY(5deg)
-                   scale(1)
-                   translateY(-2px);
-      }
-
-      88% {
-        opacity: 0.85;
-        transform: perspective(700px)
-                   rotateY(-12deg)
-                   scale(0.96)
-                   translateY(2px);
-      }
-
-      100% {
-        opacity: 0;
-        transform: perspective(700px)
-                   rotateY(25deg)
-                   scale(0.65)
-                   translateY(-8px);
-      }
+    .blink-dot {
+      animation: terminal-blink 1s infinite steps(1);
     }
   </style>
 
@@ -95,4 +26,6 @@
 
   </g>
 
+  <!-- Terminal Logs -->
+  <text x="400" y="135" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#E2E8F0" font-weight="bold">🔐 VSAD SECURE MATRIX TERMINATION COMPLETED // BYE BYE! <tspan class="blink-dot" fill="#EF4444">█</tspan></text>
 </svg>
