@@ -694,16 +694,6 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <div align="center">
 
-  <img
-    src="./assets/vsad-byebye-ascii.svg"
-    width="100%"
-    alt="Bye Bye"
-  />
-
-  <br><br>
-  <img src="./assets/vsad-pixel-mascot.svg" width="100%" alt="VSAD Mascot" />
-  <br><br>
-
   <sub>Until the next build. 👋</sub>
 
 </div>
