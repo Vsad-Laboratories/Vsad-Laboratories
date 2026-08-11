@@ -100,48 +100,57 @@
 
 <br>
 
-<!-- FIXED TELEMETRY MARQUEE -->
+<!-- ACTIVE SPEARHEAD TERMINAL RADAR SCREEN -->
 <details open>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.25em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">📡 ACTIVE SPEARHEAD TERMINAL RADAR SCREEN</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 12px; margin-top: 10px; border-radius: 6px; overflow-x: auto;">
-    <marquee direction="up" scrollamount="1" height="200" style="background-color: #08080C; font-family: 'Fira Code', monospace; font-size: 0.85em; line-height: 1.4; color: #8B5CF6; border-left: 3px solid #EF4444; padding-left: 15px; white-space: pre;">
+  <summary>
+    📡 ACTIVE SPEARHEAD TERMINAL RADAR SCREEN
+  </summary>
+
+  <br>
+
+  <div align="center">
+
+    <pre>
 ================================================================================
 
-    ██████╗  █████╗  ██████╗  █████╗  ██████╗
-    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-    ██████╔╝███████║██║  ██║███████║██████╔╝
-    ██╔══██╗██╔══██║██║  ██║██╔══██║██╔══██╗
-    ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║
-    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+    ██████╗   █████╗   ██████╗   █████╗ ███████╗
+    ██╔══██╗ ██╔══██╗ ██╔══ ██╗ ██╔══██╗ ██╔══██╗
+    ██████╔╝ ███████║ ██║   ██║ ███████║ ██████╔╝
+    ██╔══██╗ ██╔══██║ ██║   ██║ ██╔══██║ ██╔══██╗
+    ██║  ██║ ██║  ██║ ███ ███╔╝ ██║  ██║ ██║  ██║
+    ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝
 
 ================================================================================
 
-  [SYS.INIT]   :: SCANNING SECTOR 0xAF...
-               ├─ AIR FLEETS ..................... [ STABLE ]
-               └─ ROTOR BEARING CORRECTION ....... [ OPTIMAL ]
+[SYS.INIT]   :: SCANNING SECTOR 0xAF...
+             ├─ AIR FLEETS ..................... [ STABLE ]
+             └─ ROTOR BEARING CORRECTION ....... [ OPTIMAL ]
 
-  [SYS.COMP]   :: COMPILER PIPELINE SLOTER
-               └─ PARSING STATUS ................. [ OK ] (0.003s)
+[SYS.COMP]   :: COMPILER PIPELINE SLOTER
+             └─ PARSING STATUS ................. [ OK ] (0.003s)
 
-  [SYS.NET]    :: ORBIT AI SWARM SYNC
-               └─ HEARTBEAT ...................... [ MATCHED ]
+[SYS.NET]    :: ORBIT AI SWARM SYNC
+             └─ HEARTBEAT ...................... [ MATCHED ]
 
-  [SYS.FIN]    :: CRYPTO PORTFOLIO YIELD
-               └─ REBALANCING .................... [ ACTIVE ]
+[SYS.FIN]    :: CRYPTO PORTFOLIO YIELD
+             └─ REBALANCING .................... [ ACTIVE ]
 
-  [SYS.SEC]    :: CYBER DEFENSE LAYER CSLS
-               ├─ THREAT SHIELD .................. [ ACTIVE ]
-               └─ ADVERSARIAL SWARM VECTORS ...... [ NONE DETECTED ]
+[SYS.SEC]    :: CYBER DEFENSE LAYER CSLS
+             ├─ THREAT SHIELD .................. [ ACTIVE ]
+             └─ ADVERSARIAL SWARM VECTORS ...... [ NONE DETECTED ]
 
-  [SYS.SAT]    :: SATELLITE SS [SKY SPIRITS]
-               └─ TELEMETRY ...................... [ STABLE ] (0.04ms)
+[SYS.SAT]    :: SATELLITE SS [SKY SPIRITS]
+             └─ TELEMETRY ...................... [ STABLE ] (0.04ms)
 
 --------------------------------------------------------------------------------
-  [CLEARANCE]  :: ACCESS LEVEL 5 ................. [ VERIFIED ]
-  [EXECUTION]  :: DOMINATION PROTOCOL ............ [ 2026–2035 INITIATED ]
+[CLEARANCE]  :: ACCESS LEVEL 5 ................. [ VERIFIED ]
+[EXECUTION]  :: DOMINATION PROTOCOL ............ [ 2026–2035 INITIATED ]
+
 ================================================================================
-    </marquee>
+    </pre>
+
   </div>
+
 </details>
 
 <br>
