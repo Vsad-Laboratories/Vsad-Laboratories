@@ -506,23 +506,19 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
   <table>
     <tr>
       <td align="center" width="50%">
-
         <img
           src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0"
           width="400"
           alt="VSAD Laboratories GitHub Statistics"
         />
-
       </td>
 
       <td align="center" width="50%">
-
         <img
           src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0"
           width="400"
           alt="VSAD Laboratories Most Used Languages"
         />
-
       </td>
     </tr>
   </table>
@@ -533,27 +529,21 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
   <table>
     <tr>
-
       <td align="center" width="50%">
-
         <img
           src="https://streak-stats.demolab.com/?user=Vsad-Laboratories&theme=dark&hide_border=true&background=08080C&ring=8B5CF6&fire=EF4444&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=8B5CF6&sideLabels=E2E8F0&dates=64748B"
           width="400"
           alt="VSAD Laboratories GitHub Streak"
         />
-
       </td>
 
       <td align="center" width="50%">
-
         <img
           src="https://github-profile-trophy.vercel.app/?username=Vsad-Laboratories&theme=onedark&no-frame=true&no-bg=true&column=4&row=1&margin-w=8&margin-h=8"
           width="400"
           alt="VSAD Laboratories GitHub Trophies"
         />
-
       </td>
-
     </tr>
   </table>
 
@@ -598,6 +588,7 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 </div>
 
 <br>
+
 <!-- ECONOMIC ENGINE & RESERVES -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">💰 ECONOMIC ENGINE</h2>
 
