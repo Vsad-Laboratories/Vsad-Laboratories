@@ -100,59 +100,6 @@
 
 <br>
 
-<!-- ACTIVE SPEARHEAD TERMINAL RADAR SCREEN -->
-<details open>
-  <summary>📡 ACTIVE SPEARHEAD TERMINAL RADAR SCREEN</summary>
-  <br>
-
-  <div align="center">
-
-    <pre>
-================================================================================
-
-    ██████╗   █████╗   ██████╗   █████╗ ███████╗
-    ██╔══██╗ ██╔══██╗ ██╔══ ██╗ ██╔══██╗ ██╔══██╗
-    ██████╔╝ ███████║ ██║   ██║ ███████║ ██████╔╝
-    ██╔══██╗ ██╔══██║ ██║   ██║ ██╔══██║ ██╔══██╗
-    ██║  ██║ ██║  ██║ ███ ███╔╝ ██║  ██║ ██║  ██║
-    ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝
-
-
-<div align="center">
-<pre>
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│ [SYS.INIT] :: SCANNING SECTOR 0xAF...                        │
-│             ├─ AIR FLEETS ................ [ STABLE ]        │
-│             └─ ROTOR BEARING ............. [ OPTIMAL ]       │
-│                                                              │
-│ [SYS.COMP] :: COMPILER PIPELINE SLOTER                       │
-│             └─ PARSING STATUS ............ [ OK ] (0.003s)   │
-│                                                              │
-│ [SYS.NET]  :: ORBIT AI SWARM SYNC                            │
-│             └─ HEARTBEAT ................. [ MATCHED ]       │
-│                                                              │
-│ [SYS.FIN]  :: CRYPTO PORTFOLIO YIELD                         │
-│             └─ REBALANCING ............... [ ACTIVE ]        │
-│                                                              │
-│ [SYS.SEC]  :: CYBER DEFENSE LAYER CSLS                       │
-│             ├─ THREAT SHIELD ............. [ ACTIVE ]        │
-│             └─ ADVERSARIAL VECTORS ....... [ NONE DETECTED ] │
-│                                                              │
-│ [SYS.SAT]  :: SATELLITE SS [SKY SPIRITS]                     │
-│             └─ TELEMETRY ................. [ STABLE ]        │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│ [CLEARANCE] :: ACCESS LEVEL 5 ............. [ VERIFIED ]     │
-│ [EXECUTION] :: DOMINATION PROTOCOL ........ [ 2026–2035 ]    │
-└──────────────────────────────────────────────────────────────┘
-</pre>
-</div>
-
-</details>
-
-<br>
-
 <!-- QUICK FACTS -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚡ QUICK FACTS</h2>
 
