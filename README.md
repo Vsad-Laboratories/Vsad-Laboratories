@@ -104,9 +104,9 @@
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚡ QUICK FACTS</h2>
 
 - **What VSAD is:** a 14-division technology holding operation — AI orchestration, robotics, aerospace R&D, cybersecurity, SaaS, nanotech, and DeFi under one roof.
-- **Scale:** 580+ technical documents · 55+ project directories · 20 deep-research files · 12 revenue playbooks.
+- **Scale:** 700+ technical documents · 55+ project directories · 300 deep-research files · 12 revenue playbooks.
 - **Shipping now:** ORBIT AI Agents, Sloter (custom language + compiler), Craft Panel, API Suite — all 🟢 active.
-- **Financial horizon:** $5M ARR target for 2026, scaling to $2B ARR by 2035.
+- **Financial horizon:** $6M ARR target for 2028, scaling to $2B ARR by 2035.
 - **Read next:** [Order of Battle](#-strategic-order-of-battle) → [Project Portfolio](#-strategic-artifacts--project-portfolio) → [Tech Stack](#-tactical-tech-matrix-68-stacks) → [Command Center](#-command-center).
 
 <br>
