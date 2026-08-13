@@ -475,15 +475,3 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <br><hr style="border: 1px solid #3B3E52;"><br>
 
-<!-- PROPRIETARY FOOTER WITH BYEBYE ASCII -->
-<div align="center">
-  <img src="./assets/vsad-byebye-ascii.svg" width="100%" alt="VSAD Session Terminated" />
-  <br><br>
-  <img src="./assets/vsad-pixel-mascot.svg" width="100%" alt="VSAD Mascot" />
-  <br>
-  <p style="color: #E2E8F0; font-family: 'Fira Code', monospace; font-size: 0.9em; margin-top: 5px;">
-    VORTEX SYSTEMS AND DEFENSES — PROPRIETARY DEFENSE MATRIX © 2026-2035
-    <br>
-    <span style="color: #8B5CF6;">BUILD IN SILENCE. LET THE EMPIRE SPEAK.</span>
-  </p>
-</div>
