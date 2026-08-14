@@ -12,7 +12,7 @@
 
 <!-- OFFICIAL BRAND LOGO IN CIRCULAR FRAME -->
 <div align="center">
-  <img src="./assets/Vsad Only Logo Resized.png" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="VSAD Spearhead Mark" />
+  <img src="./assets/Vsad Only Logo Resized.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;" alt="VSAD Spearhead Mark" />
 </div>
 
 <br><br>
