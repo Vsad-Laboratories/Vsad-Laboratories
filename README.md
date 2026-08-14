@@ -415,48 +415,6 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <br>
 
-<!-- TELEMETRY & ANALYTICS -->
-
-<h2 align="left">📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS</h2>
-
-| GitHub Statistics | Most Used Languages |
-|:---:|:---:|
-| <img src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0" width="400" alt="VSAD Laboratories GitHub Statistics"> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0" width="400" alt="VSAD Laboratories Most Used Languages"> |
-
-<br>
-
-### CONTRIBUTION ACTIVITY
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/pacman-output/pacman-contribution-graph-dark.svg"
-    width="850"
-    alt="VSAD Laboratories Pac-Man contribution graph"
-  />
-</p>
-
-<br>
-
-### CONTRIBUTION SNAKE
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg"
-    width="850"
-    alt="VSAD Laboratories contribution snake"
-  />
-</p>
-
-<br>
-
-<div style="background-color: #0E0F17; border: 1px solid #3B3E52; border-left: 4px solid #EF4444; padding: 12px; font-family: 'Fira Code', monospace; color: #E2E8F0; font-size: 0.95em; border-radius: 4px;">
-  <strong>SYSTEMIC RESOURCE ALLOCATION PROTOCOL:</strong>
-  <br>
-  Deep R&amp;D Focus: <code>30%</code> | Infrastructure Operations: <code>40%</code> | Swarm Growth: <code>20%</code> | Capital Reserves: <code>10%</code>
-</div>
-
-<br>
-
 <!-- COMMAND CENTER -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📍 COMMAND CENTER</h2>
 
