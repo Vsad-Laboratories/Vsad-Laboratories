@@ -321,8 +321,8 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
   <img src="./assets/vsad-pixel-mascot.svg" width="100%" alt="VSAD Mascot" />
   <br>
   <p style="color: #E2E8F0; font-family: 'Fira Code', monospace; font-size: 0.9em; margin-top: 5px;">
-    VORTEX SYSTEMS AND DEFENSES — PROPRIETARY DEFENSE MATRIX © 2026-2035
+    Bye Bye♥ 
     <br>
-    <span style="color: #8B5CF6;">BUILD IN SILENCE. LET THE EMPIRE SPEAK.</span>
+    <span style="color: #8B5CF6;">-----------------------------------------------------.</span>
   </p>
 </div>
