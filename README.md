@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,50:0E0F17,100:8B5CF6&height=220&section=header&text=VSAD%20LABS&fontSize=70&fontColor=8B5CF6&animation=fadeIn&fontAlignY=38&desc=VORTEX%20SYSTEMS%20AND%20DEFENSES&descAlignY=58&descSize=20&descColor=E2E8F0" width="100%" alt="VSAD Wave Header" />
 </p>
 
-<div align="center">
-
-<!-- ROTATING TYPING HEADLINES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=VORTEX+SYSTEMS+AND+DEFENSES+%3A%3A+DEFENSE+%26+AEROSPACE;AUTONOMOUS+SWARMS+%C2%B7+HYPERSONICS+%C2%B7+NEURAL+AGENTS;BUILD+IN+SILENCE.+LET+THE+EMPIRE+SPEAK." alt="VSAD Tactical Headlines" />
-
 <br><br>
 
 <!-- 3D ROTATING ASCII WELCOME SVG BANNER -->
