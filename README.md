@@ -100,183 +100,6 @@
 
 <br>
 
-<!-- ACTIVE SPEARHEAD TERMINAL RADAR SCREEN -->
-<details open>
-  <summary>📡 ACTIVE SPEARHEAD TERMINAL RADAR SCREEN</summary>
-  <br>
-
-  <div align="center">
-
-    <pre>
-================================================================================
-
-    ██████╗   █████╗   ██████╗   █████╗ ███████╗
-    ██╔══██╗ ██╔══██╗ ██╔══ ██╗ ██╔══██╗ ██╔══██╗
-    ██████╔╝ ███████║ ██║   ██║ ███████║ ██████╔╝
-    ██╔══██╗ ██╔══██║ ██║   ██║ ██╔══██║ ██╔══██╗
-    ██║  ██║ ██║  ██║ ███ ███╔╝ ██║  ██║ ██║  ██║
-    ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝
-
-
-<div align="center">
-<pre>
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│ [SYS.INIT] :: SCANNING SECTOR 0xAF...                        │
-│             ├─ AIR FLEETS ................ [ STABLE ]        │
-│             └─ ROTOR BEARING ............. [ OPTIMAL ]       │
-│                                                              │
-│ [SYS.COMP] :: COMPILER PIPELINE SLOTER                       │
-│             └─ PARSING STATUS ............ [ OK ] (0.003s)   │
-│                                                              │
-│ [SYS.NET]  :: ORBIT AI SWARM SYNC                            │
-│             └─ HEARTBEAT ................. [ MATCHED ]       │
-│                                                              │
-│ [SYS.FIN]  :: CRYPTO PORTFOLIO YIELD                         │
-│             └─ REBALANCING ............... [ ACTIVE ]        │
-│                                                              │
-│ [SYS.SEC]  :: CYBER DEFENSE LAYER CSLS                       │
-│             ├─ THREAT SHIELD ............. [ ACTIVE ]        │
-│             └─ ADVERSARIAL VECTORS ....... [ NONE DETECTED ] │
-│                                                              │
-│ [SYS.SAT]  :: SATELLITE SS [SKY SPIRITS]                     │
-│             └─ TELEMETRY ................. [ STABLE ]        │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│ [CLEARANCE] :: ACCESS LEVEL 5 ............. [ VERIFIED ]     │
-│ [EXECUTION] :: DOMINATION PROTOCOL ........ [ 2026–2035 ]    │
-└──────────────────────────────────────────────────────────────┘
-</pre>
-</div>
-
-</details>
-
-<br>
-
-<!-- QUICK FACTS -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚡ QUICK FACTS</h2>
-
-- **What VSAD is:** a 14-division technology holding operation — AI orchestration, robotics, aerospace R&D, cybersecurity, SaaS, nanotech, and DeFi under one roof.
-- **Scale:** 580+ technical documents · 55+ project directories · 20 deep-research files · 12 revenue playbooks.
-- **Shipping now:** ORBIT AI Agents, Sloter (custom language + compiler), Craft Panel, API Suite — all 🟢 active.
-- **Financial horizon:** $5M ARR target for 2026, scaling to $2B ARR by 2035.
-- **Read next:** [Order of Battle](#-strategic-order-of-battle) → [Project Portfolio](#-strategic-artifacts--project-portfolio) → [Tech Stack](#-tactical-tech-matrix-68-stacks) → [Command Center](#-command-center).
-
-<br>
-
-<!-- COMMAND STRUCTURE -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">🏛️ COMMAND STRUCTURE</h2>
-
-```
-                              ┌───────────────────────────────┐
-                              │          VSAD COMMAND         │
-                              │   Owner Vsad — Founder & CEO  │
-                              └────────────────┬──────────────┘
-                                               │
-        ┌───────────────────┬───────────────────┼────────────────────┬─────────────────────┐
-        │                   │                   │                    │                     │
-┌───────┴───────┐   ┌───────┴───────┐  ┌────────┴──────────┐ ┌───────┴───────┐   ┌─────────┴─────────┐
-│ STRATEGIC DIV │   │ OPERATIONAL   │  │     R&D DIV       │ │  SPECIAL DIV  │   │  AI & DATA (QAVI) │
-│  5 Divisions  │   │  3 Divisions  │  │     4 Units       │ │  2 Divisions  │   │   + FINANCE CMD   │
-└───────────────┘   └───────────────┘  └───────────────────┘ └───────────────┘   └───────────────────┘
-```
-
-<br>
-
-<!-- STRATEGIC ORDER OF BATTLE (14 DIVISIONS) -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚔️ STRATEGIC ORDER OF BATTLE</h2>
-
-<table width="100%" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse; font-family: 'Fira Code', monospace; font-size: 0.95em;">
-  <thead>
-    <tr style="background-color: #0E0F17; border-bottom: 2px solid #3B3E52; color: #8B5CF6;">
-      <th width="15%" align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">SECTOR</th>
-      <th width="10%" align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">CODE</th>
-      <th width="35%" align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">DIVISION NAME</th>
-      <th width="40%" align="left" style="padding: 10px;">OPERATIONAL DOMAIN</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- STRATEGIC SECTOR -->
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td rowspan="5" align="center" valign="middle" style="background-color: #0E0F17; color: #EF4444; font-weight: bold; border-right: 1px solid #3B3E52; border-bottom: 1px solid #3B3E52;">STRATEGIC</td>
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">AF</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Air Fleets</td>
-      <td style="color: #E2E8F0; padding: 8px;">Autonomous drone swarms & tactical RC aviation platforms.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">MSOD</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Massive Systems & Ordnance</td>
-      <td style="color: #E2E8F0; padding: 8px;">Large-scale industrial engineering & advanced propulsion research.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">VHVPs</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Very High Velocity Projectiles</td>
-      <td style="color: #E2E8F0; padding: 8px;">High-speed hypersonic aerodynamics & projectile dynamics.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">SS</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Sky Spirits</td>
-      <td style="color: #E2E8F0; padding: 8px;">Advanced high-altitude platforms & aerospace intelligence systems.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #3B3E52;">
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">MPMS</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Multi-Purpose Modular Systems</td>
-      <td style="color: #E2E8F0; padding: 8px;">Highly versatile, quick-deploy platform engineering & modular design.</td>
-    </tr>
-    <!-- OPERATIONAL SECTOR -->
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td rowspan="3" align="center" valign="middle" style="background-color: #0E0F17; color: #EF4444; font-weight: bold; border-right: 1px solid #3B3E52; border-bottom: 1px solid #3B3E52;">OPERATIONAL</td>
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">GF</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Ground Fleets</td>
-      <td style="color: #E2E8F0; padding: 8px;">High-performance tactical RC ground vehicles & unmanned ground systems.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">CSLs</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Cyber Systems & Layers</td>
-      <td style="color: #E2E8F0; padding: 8px;">Deep layered security architectures, penetration vectors, and net-defense.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #3B3E52;">
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">ABI</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Adv. Biomechatronics</td>
-      <td style="color: #E2E8F0; padding: 8px;">Robotics, advanced animatronics, and hybrid actuator intelligence.</td>
-    </tr>
-    <!-- R&D SECTOR -->
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td rowspan="4" align="center" valign="middle" style="background-color: #0E0F17; color: #EF4444; font-weight: bold; border-right: 1px solid #3B3E52; border-bottom: 1px solid #3B3E52;">R&D</td>
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">BHOI</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Black Hole of Innovation</td>
-      <td style="color: #E2E8F0; padding: 8px;">Cross-disciplinary deep tech incubation & exploratory physics R&D.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">VOX-VEIL</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Voice & Encrypted Intel</td>
-      <td style="color: #E2E8F0; padding: 8px;">Secure low-latency voice, encryption protocols, and anti-intercept lines.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">NM</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Nano Motes</td>
-      <td style="color: #E2E8F0; padding: 8px;">Micro-electromechanical systems (MEMS) & molecular scale fabrication.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #3B3E52;">
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">QAVI</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Quasar AI</td>
-      <td style="color: #E2E8F0; padding: 8px;">Neural agent orchestration, autonomous swarms, and cognitive LLM security.</td>
-    </tr>
-    <!-- SPECIAL SECTOR -->
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td rowspan="2" align="center" valign="middle" style="background-color: #0E0F17; color: #EF4444; font-weight: bold; border-right: 1px solid #3B3E52;">SPECIAL</td>
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">DH</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Direct Hit</td>
-      <td style="color: #E2E8F0; padding: 8px;">Rapid prototyping, urgent operational deployments, and special ops tech.</td>
-    </tr>
-    <tr>
-      <td align="center" style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 8px;">CONRAS</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 8px; font-weight: bold;">Comp & Net Research</td>
-      <td style="color: #E2E8F0; padding: 8px;">Experimental computing hardware & advanced networked cluster topologies.</td>
-    </tr>
-  </tbody>
-</table>
-
 <br>
 
 <!-- PROJECT PORTFOLIO -->
@@ -293,58 +116,28 @@
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid #1F222E;">
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">ORBIT AI AGENTS</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">AI Multi-Agent Swarms</td>
-      <td style="color: #E2E8F0; padding: 10px;">Autonomous command coordination system for distributed models.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡ DEPLOYED</span></td>
+      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">Alien Mode AI Agent FraneWork</td>
+      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">AI Multi-Agent Capable Skill and Proficiency FrameWork</td>
+      <td style="color: #E2E8F0; padding: 10px;">Autonomous command and Skill system for distributed models.</td>
+      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡Rapid Development</span></td>
     </tr>
     <tr style="border-bottom: 1px solid #1F222E;">
       <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">SLOTER COMPILER</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Language Engineering</td>
+      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Language Engineering and R&D</td>
       <td style="color: #E2E8F0; padding: 10px;">Custom systems language & high-performance compiler backend.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡ ACTIVE</span></td>
+      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡ ACTIVE in Development</span></td>
     </tr>
     <tr style="border-bottom: 1px solid #1F222E;">
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">CRAFT PANEL</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Full-Stack Framework</td>
-      <td style="color: #E2E8F0; padding: 10px;">Unified visual command panel for infrastructure management.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡ LIVE</span></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">API SUITE</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Enterprise Integrations</td>
-      <td style="color: #E2E8F0; padding: 10px;">Multi-layer business operations and micro-product programmatic endpoints.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡ OPERATIONAL</span></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">TITAN-X ROBOTICS</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Mechatronics Systems</td>
-      <td style="color: #E2E8F0; padding: 10px;">Autonomous tactical ground platform running custom ROS2 orchestration.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #E2E8F0; font-weight: bold;">📡 PROTOTYPE</span></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">FREELANCEFORGE.AI</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">SaaS Infrastructure</td>
-      <td style="color: #E2E8F0; padding: 10px;">AI-driven workflow orchestration and client pipeline automation.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #A855F7; font-weight: bold;">🛠️ DEVELOPING</span></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">KOREX AI</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">AI Management Engine</td>
-      <td style="color: #E2E8F0; padding: 10px;">Model training pipeline manager with optimized resource scheduling.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #A855F7; font-weight: bold;">🛠️ STAGE_II</span></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E;">
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">DEFINER INDICATOR</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Quantitative Systems</td>
-      <td style="color: #E2E8F0; padding: 10px;">Mathematical market models and automated trade triggers.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #A855F7; font-weight: bold;">🛠️ ALPHA</span></td>
+      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">MovdeoaaMM</td>
+      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Full-Stack Aerospace Engineering Framework</td>
+      <td style="color: #E2E8F0; padding: 10px;">Unified visual command panel for aerospace engineering and management.</td>
+      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡ Rapid Development </span></td>
     </tr>
     <tr>
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">PROVEX</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Event Management SaaS</td>
+      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">ProveX</td>
+      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Crypto Competition Event Management Platform</td>
       <td style="color: #E2E8F0; padding: 10px;">High-concurrency hackathon/competition scaling platform.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #EF4444; font-weight: bold;">🔒 FOR_SALE_M&amp;A</span></td>
+      <td align="center" style="padding: 10px;"><span style="color: #EF4444; font-weight: bold;">🔒 For Sale Contact NE :) </span></td>
     </tr>
   </tbody>
 </table>
@@ -498,16 +291,6 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 
 <br>
 
-<!-- TELEMETRY & ANALYTICS -->
-
-<h2 align="left">📊 LIVE NETWORK TELEMETRY &amp; ANALYTICS</h2>
-
-| GitHub Statistics | Most Used Languages |
-|:---:|:---:|
-| <img src="https://github-stats-extended.vercel.app/api?username=Vsad-Laboratories&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&icon_color=A855F7&text_color=E2E8F0" width="400" alt="VSAD Laboratories GitHub Statistics"> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vsad-Laboratories&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=08080C&title_color=8B5CF6&text_color=E2E8F0" width="400" alt="VSAD Laboratories Most Used Languages"> |
-
-<br>
-
 ### CONTRIBUTION ACTIVITY
 
 <p align="center">
@@ -517,74 +300,6 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
     alt="VSAD Laboratories Pac-Man contribution graph"
   />
 </p>
-
-<br>
-
-### CONTRIBUTION SNAKE
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Vsad-Laboratories/Vsad-Laboratories/snake-output/snake.svg"
-    width="850"
-    alt="VSAD Laboratories contribution snake"
-  />
-</p>
-
-<br>
-
-<!-- ECONOMIC ENGINE & RESERVES -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">💰 ECONOMIC ENGINE</h2>
-
-<table width="100%" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse; font-family: 'Fira Code', monospace; font-size: 0.95em;">
-  <thead>
-    <tr style="background-color: #0E0F17; border-bottom: 2px solid #3B3E52; color: #8B5CF6;">
-      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">REVENUE STREAM</th>
-      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">VERTICAL DESCRIPTION</th>
-      <th align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">TARGET YEAR</th>
-      <th align="right" style="padding: 10px;">TARGET ARR</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">API Products</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Software-as-a-Service micro-products.</td>
-      <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2026</td>
-      <td align="right" style="padding: 10px;">$5M ARR</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">E-Commerce &amp; Dropshipping</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Online retail operations.</td>
-      <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2027</td>
-      <td align="right" style="padding: 10px;">$25M ARR</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Cryptocurrency &amp; Trading</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Digital asset management.</td>
-      <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2028</td>
-      <td align="right" style="padding: 10px;">$100M ARR</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #1F222E; color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Freelance &amp; Consulting</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Technical consulting services.</td>
-      <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2030</td>
-      <td align="right" style="padding: 10px;">$500M ARR</td>
-    </tr>
-    <tr style="color: #E2E8F0;">
-      <td style="padding: 10px; border-right: 1px solid #3B3E52; font-weight: bold;">Digital Products</td>
-      <td style="padding: 10px; border-right: 1px solid #3B3E52;">Templates, guides &amp; toolkits.</td>
-      <td align="center" style="padding: 10px; border-right: 1px solid #3B3E52;">2035</td>
-      <td align="right" style="padding: 10px;">$2B ARR</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<div style="background-color: #0E0F17; border: 1px solid #3B3E52; border-left: 4px solid #EF4444; padding: 12px; font-family: 'Fira Code', monospace; color: #E2E8F0; font-size: 0.95em; border-radius: 4px;">
-  <strong>SYSTEMIC RESOURCE ALLOCATION PROTOCOL:</strong>
-  <br>
-  Deep R&amp;D Focus: <code>30%</code> | Infrastructure Operations: <code>40%</code> | Swarm Growth: <code>20%</code> | Capital Reserves: <code>10%</code>
-</div>
 
 <br>
 
@@ -603,22 +318,6 @@ Fast native performance · AI-native workflow · Keyboard-first engineering · M
 | **Research Command Center** | Progress matrices for hypersonics, robotics, and neural nets. |
 
 <br>
-
-<!-- SYSTEM MAINTENANCE & AUTOMATION SETUP -->
-<details>
-  <summary style="font-family: 'Fira Code', monospace; color: #8B5CF6; font-size: 1.15em; font-weight: bold; cursor: pointer; outline: none; user-select: none;">🔧 SYSTEM MAINTENANCE &amp; AUTOMATION SETUP</summary>
-  <div style="background-color: #08080C; border: 1px solid #3B3E52; padding: 15px; margin-top: 10px; border-radius: 6px; font-family: 'Fira Code', monospace; color: #E2E8F0; font-size: 0.9em; line-height: 1.6;">
-    Telemetry SVGs (Snake and Pacman) update automatically every 12 hours via GitHub actions. To deploy overrides:
-    <br><br>
-    1. Verify operational GitHub workflows are deployed at <code>.github/workflows/snake.yml</code> and <code>.github/workflows/pacman.yml</code>.
-    <br>
-    2. Confirm write credentials: <code>Settings ──> Actions ──> General ──> Workflow permissions ──> Read and write permissions</code> (Save).
-    <br>
-    3. Manually override/trigger generation: <code>Actions ──> [Workflow] ──> Run workflow</code> targeting the <code>main</code> branch.
-  </div>
-</details>
-
-<br><hr style="border: 1px solid #3B3E52;"><br>
 
 <!-- PROPRIETARY FOOTER WITH BYEBYE ASCII -->
 <div align="center">
