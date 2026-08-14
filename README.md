@@ -97,6 +97,151 @@
 
 <br>
 
+<!-- LEADER / FOUNDER -->
+<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">
+  👤 LEADER & FOUNDER
+</h2>
+
+<table width="100%" border="0" cellpadding="12" cellspacing="0" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse;">
+  <tr>
+    <td width="30%" valign="top" align="center" style="background-color: #0E0F17; border-right: 1px solid #3B3E52; padding: 20px;">
+      
+      <img src="./assets/Vsad Only Logo Resized.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="VSAD Founder Mark" />
+
+      <br><br>
+
+      <strong style="color: #8B5CF6; font-family: 'Fira Code', monospace; font-size: 1.2em;">
+        SUBHAN AWAN
+      </strong>
+
+      <br>
+
+      <span style="color: #E2E8F0; font-family: 'Fira Code', monospace;">
+        Founder · Builder · Systems Architect
+      </span>
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/ROLE-FOUNDER_%26_COMMAND-8B5CF6?style=for-the-badge&labelColor=08080C" alt="Founder" />
+
+    </td>
+
+    <td valign="top" style="color: #E2E8F0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.7; padding: 20px;">
+
+      <h3 style="color: #8B5CF6; font-family: 'Fira Code', monospace; margin-top: 0;">
+        THE BUILDER BEHIND VSAD
+      </h3>
+
+      <p>
+        <strong>Subhan Awan</strong> is the founder and primary architect behind
+        <strong>Vortex Systems And Defenses (VSAD)</strong>, building the organization
+        around a long-term vision of engineering, research, autonomous systems,
+        and ambitious deep-technology projects.
+      </p>
+
+      <p>
+        His work spans <strong>AI systems, autonomous agents, software architecture,
+        programming languages, aerospace engineering concepts, robotics,
+        cybersecurity, and experimental research</strong>.
+      </p>
+
+      <p>
+        Rather than building a single product, the objective is to develop an
+        interconnected ecosystem of technologies, research programs, and
+        engineering capabilities that can evolve over time.
+      </p>
+
+      <blockquote style="border-left: 3px solid #8B5CF6; padding-left: 15px; color: #E2E8F0;">
+        <strong>BUILD IN SILENCE. LET THE WORK SPEAK.</strong>
+      </blockquote>
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- LEADER PROFILE MATRIX -->
+<table width="100%" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse; font-family: 'Fira Code', monospace;">
+  <thead>
+    <tr style="background-color: #0E0F17; color: #8B5CF6; border-bottom: 2px solid #3B3E52;">
+      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">PROFILE</th>
+      <th align="left" style="padding: 10px;">CURRENT DIRECTION</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr style="border-bottom: 1px solid #1F222E;">
+      <td style="padding: 10px; color: #EF4444; font-weight: bold; border-right: 1px solid #3B3E52;">
+        CORE IDENTITY
+      </td>
+      <td style="padding: 10px; color: #E2E8F0;">
+        Builder · Researcher · Systems Thinker · Founder
+      </td>
+    </tr>
+
+    <tr style="border-bottom: 1px solid #1F222E;">
+      <td style="padding: 10px; color: #EF4444; font-weight: bold; border-right: 1px solid #3B3E52;">
+        PRIMARY FOCUS
+      </td>
+      <td style="padding: 10px; color: #E2E8F0;">
+        AI systems · Agent architecture · Aerospace · Robotics · Systems engineering
+      </td>
+    </tr>
+
+    <tr style="border-bottom: 1px solid #1F222E;">
+      <td style="padding: 10px; color: #EF4444; font-weight: bold; border-right: 1px solid #3B3E52;">
+        ENGINEERING STYLE
+      </td>
+      <td style="padding: 10px; color: #E2E8F0;">
+        Experimental · Systems-first · Research-driven · Long-term oriented
+      </td>
+    </tr>
+
+    <tr style="border-bottom: 1px solid #1F222E;">
+      <td style="padding: 10px; color: #EF4444; font-weight: bold; border-right: 1px solid #3B3E52;">
+        CURRENT BUILD
+      </td>
+      <td style="padding: 10px; color: #E2E8F0;">
+        Alien Mode · SLOTER · MOVDEOAAMM · VSAD infrastructure
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding: 10px; color: #EF4444; font-weight: bold; border-right: 1px solid #3B3E52;">
+        LONG-TERM DIRECTION
+      </td>
+      <td style="padding: 10px; color: #E2E8F0;">
+        Build original technology, research systems, and an enduring engineering ecosystem.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<!-- LEADER PRINCIPLES -->
+<div align="center" style="background-color: #0E0F17; border: 1px solid #3B3E52; padding: 20px;">
+
+  <h3 style="color: #8B5CF6; font-family: 'Fira Code', monospace;">
+    LEADER PRINCIPLES
+  </h3>
+
+  <code style="color: #E2E8F0;">
+    CREATE → RESEARCH → ENGINEER → TEST → ITERATE → DEPLOY
+  </code>
+
+  <br><br>
+
+  <sub style="color: #94A3B8;">
+    VSAD is built as a long-term engineering mission, not a temporary project.
+  </sub>
+
+</div>
+
+<br>
+
+
 <!-- PROJECT PORTFOLIO -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📂 STRATEGIC ARTIFACTS & PROJECT PORTFOLIO</h2>
 
