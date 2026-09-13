@@ -139,53 +139,6 @@
 
 <br>
 
-<!-- PRIMARY DEVELOPMENT ENVIRONMENT (PROPER ZED LOGO) -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">⚡ PRIMARY DEVELOPMENT ENVIRONMENT</h2>
-
-<div align="center">
-
-<a href="https://zed.dev/">
-  <img src="https://img.shields.io/badge/ZED-PRIMARY%20EDITOR-7C3AED?style=for-the-badge&logo=zed&logoColor=white&labelColor=4C1D95" alt="Zed Primary Editor" />
-</a>
-
-<br><br>
-
-<!-- PROPER OFFICIAL ZED EDITOR ICON -->
-<a href="https://zed.dev/">
-  <img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" width="96" height="96" alt="Zed Editor Proper Logo" />
-</a>
-
-<br><br>
-
-### **Zed**
-
-**The primary editor behind VSAD development.**
-
-Fast native performance · AI-native workflow · Keyboard-first engineering · Minimal interface
-
-<br>
-
-[![Official Website](https://img.shields.io/badge/Official%20Website-zed.dev-7C3AED?style=flat-square&logo=zed&logoColor=white)](https://zed.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-zed--industries-181717?style=flat-square&logo=github)](https://github.com/zed-industries/zed)
-[![Editor](https://img.shields.io/badge/Role-Main%20Editor-A78BFA?style=flat-square)](https://zed.dev/)
-
-</div>
-
-> **VSAD Editor Standard:** Zed is the default development environment for VSAD.
-> Built for speed, precision, AI-assisted engineering, and focused system development.
-
-### Why Zed?
-
-| Capability                  | Role in VSAD                                    |
-| --------------------------- | ----------------------------------------------- |
-| ⚡ **Native Performance**    | Fast, responsive development environment        |
-| 🤖 **AI-Native**            | AI-assisted coding directly inside the editor   |
-| ⌨️ **Keyboard-First**       | High-speed, distraction-free workflow           |
-| 🧩 **Extensible**           | Language support, themes, snippets, and tooling |
-| 🛠️ **Engineering Focused** | Designed around serious software development    |
-
-<br>
-
 <!-- TECH MATRIX -->
 <h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">💻 TACTICAL TECH MATRIX (68+ STACKS)</h2>
 
