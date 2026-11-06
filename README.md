@@ -34,12 +34,12 @@
 <!-- COMMAND OVERVIEW GRID -->
 <table width="100%" border="0" cellpadding="10" cellspacing="0" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse;">
   <tr style="background-color: #0E0F17; border-bottom: 1px solid #3B3E52;">
-    <th align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; padding: 12px; font-size: 1.1em;">⚡ SYSTEM DIRECTIVE & MISSION BRIEFING</th>
-    <th align="left" width="300" style="color: #EF4444; font-family: 'Fira Code', monospace; padding: 12px; font-size: 1.1em;">📟 LIVE TELEMETRY HUD</th>
+    <th align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; padding: 12px; font-size: 1.1em;">⚡ System Directive & Mission Briefing</th>
+    <th align="left" width="300" style="color: #EF4444; font-family: 'Fira Code', monospace; padding: 12px; font-size: 1.1em;">📟 Live </th>
   </tr>
   <tr>
     <td valign="top" style="color: #E2E8F0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; padding: 15px;">
-      <strong>Vortex Systems And Defenses (VSAD)</strong> operates at the bleeding edge of defense innovation, aerospace engineering, and autonomous technologies. Our core mandate is the engineering of ultra-high-speed aerodynamics, next-generation propulsion, and multi-agent AI orchestration networks (ORBIT).
+      <strong>Vortex Systems And Defenses (VSAD)</strong> operates at the bleeding edge of defense innovation, aerospace engineering, and autonomous technologies. Our core mandate is the engineering of ultra-high-speed aerodynamics, next-generation propulsion, and multi-agent AI orchestration networks.
       <br><br>
       Through custom low-level compilers (Sloter) and autonomous swarm systems, VSAD bridges the physical and cognitive battlefields, securing technological sovereignty and physical superiority.
     </td>
