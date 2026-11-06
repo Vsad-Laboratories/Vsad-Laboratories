@@ -98,23 +98,23 @@
 <br>
 
 <!-- PROJECT PORTFOLIO -->
-<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📂 STRATEGIC ARTIFACTS & PROJECT PORTFOLIO</h2>
+<h2 align="left" style="color: #8B5CF6; font-family: 'Fira Code', monospace; border-bottom: 2px solid #3B3E52; padding-bottom: 8px; margin-top: 30px;">📂 Strategic Artifacts & Project Portfolio</h2>
 
 <table width="100%" style="background-color: #08080C; border: 1px solid #3B3E52; border-collapse: collapse; font-family: 'Fira Code', monospace; font-size: 0.95em;">
   <thead>
     <tr style="background-color: #0E0F17; border-bottom: 2px solid #3B3E52; color: #8B5CF6;">
-      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">PROJECT ID</th>
-      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">CATEGORY</th>
-      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">DESCRIPTION</th>
-      <th align="center" style="padding: 10px;">TACTICAL STATUS</th>
+      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">Project ID</th>
+      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">Category</th>
+      <th align="left" style="padding: 10px; border-right: 1px solid #3B3E52;">Description</th>
+      <th align="center" style="padding: 10px;">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid #1F222E;">
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">Alien Mode AI Agent FraneWork</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">AI Multi-Agent Capable Skill and Proficiency FrameWork</td>
-      <td style="color: #E2E8F0; padding: 10px;">Autonomous command and Skill system for distributed models.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡Rapid Development</span></td>
+      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;"> --- </td>
+      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;"> b--b</td>
+      <td style="color: #E2E8F0; padding: 10px;">b --- b</td>
+      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">NO Status</span></td>
     </tr>
     <tr style="border-bottom: 1px solid #1F222E;">
       <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">SLOTER COMPILER</td>
@@ -123,10 +123,10 @@
       <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡ ACTIVE in Development</span></td>
     </tr>
     <tr style="border-bottom: 1px solid #1F222E;">
-      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">MovdeoaaMM</td>
-      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;">Full-Stack Aerospace Engineering Framework</td>
-      <td style="color: #E2E8F0; padding: 10px;">Unified visual command panel for aerospace engineering and management.</td>
-      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;">⚡ Rapid Development </span></td>
+      <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;"> --- </td>
+      <td style="color: #E2E8F0; border-right: 1px solid #3B3E52; padding: 10px;"> b --- b </td>
+      <td style="color: #E2E8F0; padding: 10px;"> b -- b</td>
+      <td align="center" style="padding: 10px;"><span style="color: #8B5CF6; font-weight: bold;"> NO Status </span></td>
     </tr>
     <tr>
       <td style="color: #8B5CF6; border-right: 1px solid #3B3E52; padding: 10px; font-weight: bold;">ProveX</td>
